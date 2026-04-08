@@ -7,33 +7,35 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-:root{--fbs:#e63946;--fcs:#457b9d;--d2:#2a9d8f;--d3:#e9c46a;--naia:#8338ec;--bg:#f5f5f7;--card:#fff;--text:#1d1d1f;--muted:#86868b;--border:#e5e5e7;--radius:12px;--shadow:0 1px 3px rgba(0,0,0,.08),0 1px 2px rgba(0,0,0,.06)}
+:root{--fbs:#e63946;--fcs:#457b9d;--d2:#2a9d8f;--d3:#e9c46a;--naia:#8338ec;--bg:#0D0D0D;--card:#1E1A16;--text:#F7F2E8;--muted:#a89a86;--border:#3D2810;--accent:#C4620A;--radius:12px;--shadow:0 1px 3px rgba(0,0,0,.3),0 1px 2px rgba(0,0,0,.2)}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.5}
-header{background:#fff;border-bottom:1px solid var(--border);padding:16px 24px;position:sticky;top:0;z-index:1000}
+header{background:#141110;border-bottom:1px solid var(--border);padding:16px 24px;position:sticky;top:0;z-index:1000}
 .header-inner{max-width:1400px;margin:0 auto;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
 h1{font-size:1.25rem;font-weight:700;white-space:nowrap}
+h1{color:var(--accent)}
 h1 span{font-weight:400;color:var(--muted)}
 .search-box{flex:1;min-width:200px;position:relative}
-.search-box input{width:100%;padding:10px 14px 10px 38px;border:1px solid var(--border);border-radius:8px;font-size:.9rem;background:var(--bg);outline:none;transition:border .2s}
-.search-box input:focus{border-color:#0071e3}
+.search-box input{width:100%;padding:10px 14px 10px 38px;border:1px solid var(--border);border-radius:8px;font-size:.9rem;background:var(--card);color:var(--text);outline:none;transition:border .2s}
+.search-box input::placeholder{color:var(--muted)}
+.search-box input:focus{border-color:var(--accent)}
 .search-box svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted)}
-.view-toggle{display:flex;background:var(--bg);border-radius:8px;overflow:hidden;border:1px solid var(--border)}
+.view-toggle{display:flex;background:var(--card);border-radius:8px;overflow:hidden;border:1px solid var(--border)}
 .view-toggle button{padding:8px 18px;border:none;background:transparent;font-size:.85rem;cursor:pointer;font-weight:500;transition:all .2s;color:var(--muted)}
-.view-toggle button.active{background:#0071e3;color:#fff}
+.view-toggle button.active{background:var(--accent);color:#fff}
 .filters-bar{max-width:1400px;margin:0 auto;padding:12px 24px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-.filters-bar select{padding:8px 30px 8px 12px;border:1px solid var(--border);border-radius:8px;font-size:.85rem;background:#fff;-webkit-appearance:none;appearance:none;cursor:pointer;min-width:140px}
-.filters-bar select:focus{border-color:#0071e3;outline:none}
-.clear-btn{padding:8px 16px;border:none;background:transparent;color:#0071e3;font-size:.85rem;cursor:pointer;font-weight:500}
+.filters-bar select{padding:8px 30px 8px 12px;border:1px solid var(--border);border-radius:8px;font-size:.85rem;background:var(--card);color:var(--text);-webkit-appearance:none;appearance:none;cursor:pointer;min-width:140px}
+.filters-bar select:focus{border-color:var(--accent);outline:none}
+.clear-btn{padding:8px 16px;border:none;background:transparent;color:var(--accent);font-size:.85rem;cursor:pointer;font-weight:500}
 .stats{color:var(--muted);font-size:.85rem;margin-left:auto;white-space:nowrap}
 #map-container{max-width:1400px;margin:0 auto;padding:0 24px}
 #map{height:520px;border-radius:var(--radius);border:1px solid var(--border);margin-top:8px}
 .map-legend{display:flex;gap:16px;padding:10px 0;flex-wrap:wrap;justify-content:center}
 .legend-item{display:flex;align-items:center;gap:6px;font-size:.8rem;color:var(--muted)}
-.legend-dot{width:12px;height:12px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 1px rgba(0,0,0,.15)}
+.legend-dot{width:12px;height:12px;border-radius:50%;border:2px solid var(--card);box-shadow:0 0 0 1px var(--border)}
 #grid-container{max-width:1400px;margin:0 auto;padding:16px 24px;display:none}
 .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px}
 .camp-card{background:var(--card);border-radius:var(--radius);border:1px solid var(--border);padding:20px;box-shadow:var(--shadow);border-left:4px solid var(--muted);transition:transform .15s,box-shadow .15s}
-.camp-card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,.1)}
+.camp-card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,.4)}
 .camp-card[data-div="FBS"]{border-left-color:var(--fbs)}
 .camp-card[data-div="FCS"]{border-left-color:var(--fcs)}
 .camp-card[data-div="D2"]{border-left-color:var(--d2)}
@@ -49,17 +51,20 @@ h1 span{font-weight:400;color:var(--muted)}
 .camp-list li::before{content:"";display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--muted);flex-shrink:0;margin-top:6px}
 .camp-dates{font-size:.8rem;color:var(--muted)}
 .card-footer{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
-.reg-link{display:inline-flex;align-items:center;gap:4px;padding:6px 14px;background:#0071e3;color:#fff;text-decoration:none;border-radius:6px;font-size:.8rem;font-weight:500;transition:background .2s}
-.reg-link:hover{background:#005bb5}
-.twitter-link{display:inline-flex;align-items:center;gap:4px;padding:6px 14px;background:var(--text);color:#fff;text-decoration:none;border-radius:6px;font-size:.8rem;font-weight:500}
+.reg-link{display:inline-flex;align-items:center;gap:4px;padding:6px 14px;background:var(--accent);color:#fff;text-decoration:none;border-radius:6px;font-size:.8rem;font-weight:500;transition:background .2s}
+.reg-link:hover{background:#a85208}
+.twitter-link{display:inline-flex;align-items:center;gap:4px;padding:6px 14px;background:var(--border);color:var(--text);text-decoration:none;border-radius:6px;font-size:.8rem;font-weight:500}
 .no-results{text-align:center;padding:60px 20px;color:var(--muted);font-size:1.1rem;grid-column:1/-1}
-.leaflet-popup-content-wrapper{border-radius:var(--radius)!important;box-shadow:var(--shadow)!important}
+.leaflet-popup-content-wrapper{border-radius:var(--radius)!important;box-shadow:var(--shadow)!important;background:var(--card)!important;color:var(--text)!important}
+.leaflet-popup-tip{background:var(--card)!important}
 .leaflet-popup-content{margin:14px 16px!important;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif!important;min-width:220px}
-.popup-school{font-size:1rem;font-weight:600;margin-bottom:4px}
+.leaflet-popup-close-button{color:var(--muted)!important}
+.leaflet-popup-close-button:hover{color:var(--text)!important}
+.popup-school{font-size:1rem;font-weight:600;margin-bottom:4px;color:var(--accent)}
 .popup-conf{font-size:.8rem;color:var(--muted);margin-bottom:8px}
 .popup-camps{list-style:none;font-size:.82rem;margin-bottom:8px}
 .popup-camps li{padding:2px 0}
-.popup-link{display:inline-block;margin-top:4px;padding:5px 12px;background:#0071e3;color:#fff;text-decoration:none;border-radius:5px;font-size:.78rem}
+.popup-link{display:inline-block;margin-top:4px;padding:5px 12px;background:var(--accent);color:#fff;text-decoration:none;border-radius:5px;font-size:.78rem}
 @media(max-width:768px){.header-inner{gap:10px}h1{font-size:1.1rem;width:100%}.search-box{min-width:0}#map{height:350px}.card-grid{grid-template-columns:1fr}.filters-bar{padding:10px 16px}.filters-bar select{min-width:calc(50% - 8px);flex:1}#map-container,#grid-container{padding:0 16px}.stats{width:100%;margin-left:0}}
 </style>
 </head>
@@ -9371,7 +9376,7 @@ function escHtml(s) {
 let map, markerLayer;
 function initMap() {
   map = L.map('map', {scrollWheelZoom: true}).setView([39.8, -98.5], 4);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     attribution: '\u00a9 OSM \u00a9 CARTO', maxZoom: 18
   }).addTo(map);
   markerLayer = L.layerGroup().addTo(map);
@@ -9384,7 +9389,7 @@ function updateMap() {
     const c = SCHOOL_COORDS[s.school_name];
     if (!c) continue;
     const color = DIV_COLORS[s.division] || '#999';
-    const mk = L.circleMarker(c, {radius: 7, fillColor: color, color: '#fff', weight: 2, fillOpacity: .85});
+    const mk = L.circleMarker(c, {radius: 7, fillColor: color, color: '#0D0D0D', weight: 2, fillOpacity: .9});
     const url = normalizeUrl(s.registration_url);
     const camps = s.camp_types.map(t => '<li>' + escHtml(t) + '</li>').join('');
     const dates = s.dates.map(d => escHtml(d)).join(', ');
@@ -9395,7 +9400,7 @@ function updateMap() {
       '<span class="badge badge-' + s.division + '">' + s.division + '</span>' +
       '<div class="popup-conf">' + escHtml(s.conference) + '</div>' +
       '<ul class="popup-camps">' + camps + '</ul>' +
-      '<div style="font-size:.78rem;color:#86868b">' + dates + '</div>' +
+      '<div style="font-size:.78rem;color:#a89a86">' + dates + '</div>' +
       link + tw
     );
     mk.addTo(markerLayer);
