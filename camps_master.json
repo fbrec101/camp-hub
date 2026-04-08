@@ -1,0 +1,7532 @@
+[
+  {
+    "school_name": "Alabama",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Kicking Camp",
+      "High School Camp",
+      "Youth Camp",
+      "7on7"
+    ],
+    "dates": [
+      "June 1",
+      "June 8",
+      "June 15",
+      "June 3",
+      "June 10",
+      "June 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Appalachian State",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "OL and DL Camp",
+      "Skills Camp",
+      "Youth Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 6",
+      "June 13",
+      "June 20",
+      "June 7",
+      "June 14"
+    ],
+    "registration_url": "https://www.dowelloggainsfootballcamps.com/",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Arizona",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Skills Camp",
+      "High School 7v7",
+      "OL/DL Team/Individual Camp",
+      "Specialist Camp",
+      "Girls Flag Football",
+      "Extraordinary Cats",
+      "Youth Football Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 4",
+      "June 8",
+      "June 6",
+      "June 8",
+      "June 7",
+      "June 8",
+      "June 10",
+      "June 10",
+      "May 31",
+      "April 25"
+    ],
+    "registration_url": "www.brentbrennanfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Arizona State",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "7on7",
+      "Big Man Camp",
+      "Youth Camp",
+      "Mega Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 4",
+      "June 9",
+      "June 11",
+      "June 3",
+      "June 10",
+      "June 11"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Arizona State",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 10, 2026"
+    ],
+    "registration_url": "arizonastatefootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Arkansas",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Individual Prospect Camp",
+      "Specialist Camp",
+      "Big Man Camp",
+      "7on7 Camp"
+    ],
+    "dates": [
+      "June 7",
+      "June 14",
+      "June 21",
+      "May 31",
+      "June 14",
+      "June 17"
+    ],
+    "registration_url": "www.arkansasrazorbackfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Arkansas State",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 13"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Auburn",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "One Day Camp",
+      "Specialist Camp",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 3",
+      "June 10",
+      "June 21",
+      "June 4",
+      "June 11"
+    ],
+    "registration_url": "auburnfootballcamps.org",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "BYU",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 2-3",
+      "June 8-10",
+      "July 1",
+      "June 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Ball State",
+    "division": "FBS",
+    "conference": "MAC",
+    "camp_types": [
+      "Big Man Camp",
+      "High School 7on7",
+      "Prospect Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 7",
+      "June 12"
+    ],
+    "registration_url": "ballstatefootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Boise State",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "Youth Camp",
+      "Big Man Camp",
+      "Specialists Camp",
+      "Skills Camp",
+      "Elite Camp"
+    ],
+    "dates": [
+      "June 1-3",
+      "June 13",
+      "June 16"
+    ],
+    "registration_url": "broncosportscamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Boston College",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Under The Lights Camp",
+      "All Positions Camp",
+      "Mega Camp",
+      "7on7",
+      "Passing Academy & Specialists Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 7",
+      "June 14",
+      "June 18",
+      "June 21"
+    ],
+    "registration_url": "bostoncollegefootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Bowling Green",
+    "division": "FBS",
+    "conference": "MAC",
+    "camp_types": [
+      "Elite Camp",
+      "Youth Camp",
+      "7on7",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 9",
+      "June 11",
+      "June 20"
+    ],
+    "registration_url": "eddiegeorgefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Buffalo",
+    "division": "FBS",
+    "conference": "MAC",
+    "camp_types": [
+      "Specialist Camp",
+      "Mega Camp",
+      "7v7/Big Man Camp",
+      "Prospect Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 6",
+      "June 13",
+      "June 21",
+      "July 13-15"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Cal",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Best of the Best Camp",
+      "Specialist & All Camp",
+      "Elite Mega Camp",
+      "7on7 Team Camp"
+    ],
+    "dates": [
+      "June 7",
+      "June 14",
+      "June 20"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Central Michigan",
+    "division": "FBS",
+    "conference": "MAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 7",
+      "June 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Charlotte",
+    "division": "FBS",
+    "conference": "AAC",
+    "camp_types": [
+      "Skill Camp",
+      "Prospect Camp",
+      "7on7",
+      "Big Man Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 16",
+      "June 9",
+      "June 18",
+      "June 13",
+      "June 5",
+      "June 6",
+      "June 20"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Cincinnati",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Elite Prospect Camp",
+      "Specialist Camp",
+      "QB Camp",
+      "Skills Camp",
+      "Big Man Camp",
+      "Middle School Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 2",
+      "June 16",
+      "June 18",
+      "June 3",
+      "June 9",
+      "June 10"
+    ],
+    "registration_url": "ucfbcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Clemson",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Youth Camp",
+      "High School Camp"
+    ],
+    "dates": [
+      "May 27-28",
+      "June 2",
+      "June 3",
+      "June 5-6"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Coastal Carolina",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "7on7 Camp",
+      "Mega Camp",
+      "Elite Prospect Camp",
+      "Kids Camp"
+    ],
+    "dates": [
+      "June 5",
+      "June 19",
+      "June 10",
+      "June 17",
+      "June 16-17"
+    ],
+    "registration_url": "coastalfbcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Colorado",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Elite Camp",
+      "Women's Clinic",
+      "Youth Camp",
+      "7v7",
+      "Buffalo Elite 5v5 Lineman Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 4, 2026",
+      "June 11, 2026",
+      "June 9-10",
+      "June 17, 2026",
+      "June 17, 2026",
+      "June 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Colorado State",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "Youth Camp",
+      "HS Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 7",
+      "June 8"
+    ],
+    "registration_url": "CSSRamFootballCamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Delaware",
+    "division": "FBS",
+    "conference": "AAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 9, 2026",
+      "June 21, 2026"
+    ],
+    "registration_url": "delawarefootballcamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Duke",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Indy Camp",
+      "Specialist Camp",
+      "Academic Mega Camp",
+      "7on7",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 11",
+      "June 12",
+      "June 14",
+      "June 15"
+    ],
+    "registration_url": "dukefootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "East Carolina",
+    "division": "FBS",
+    "conference": "AAC",
+    "camp_types": [
+      "Mega Camp",
+      "One Day Camp",
+      "Specialist Camp",
+      "Big Man Camp",
+      "Jr. Pirates Camp",
+      "7v7"
+    ],
+    "dates": [
+      "May 31",
+      "June 14",
+      "June 20",
+      "June 15-17"
+    ],
+    "registration_url": "blakeharrellfootballcampsllc.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Eastern Michigan",
+    "division": "FBS",
+    "conference": "MAC",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 3"
+    ],
+    "registration_url": "emufootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Florida Atlantic",
+    "division": "FBS",
+    "conference": "AAC",
+    "camp_types": [
+      "Specialist Camp",
+      "Skills Camp",
+      "Big Man Camp",
+      "7on7"
+    ],
+    "dates": [
+      "May 31",
+      "June 3",
+      "June 8",
+      "June 10",
+      "June 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Florida Atlantic",
+    "division": "FBS",
+    "conference": "AAC",
+    "camp_types": [
+      "Specialist Camp"
+    ],
+    "dates": [
+      "May 31"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "FIU",
+    "division": "FBS",
+    "conference": "AAC",
+    "camp_types": [
+      "Showcase Camp"
+    ],
+    "dates": [
+      "June 3-4"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Florida",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Prospect Camp",
+      "7v7/OL-DL Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 3",
+      "June 7",
+      "June 10",
+      "June 15",
+      "June 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Florida State",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Youth Camp",
+      "Individual Camp",
+      "QB Camp",
+      "Specialist Camp",
+      "7on7 Camp",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 7",
+      "June 14",
+      "June 8",
+      "June 10",
+      "June 17"
+    ],
+    "registration_url": "www.coachnorvellcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Fresno State",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "Junior College Showcase",
+      "7v7",
+      "Prospect Camp",
+      "Youth Camp",
+      "Friday Night Lights Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 6, 2026",
+      "June 13, 2026",
+      "June 16-18, 2026",
+      "June 19, 2026"
+    ],
+    "registration_url": "fresnostatefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Georgia Southern",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 20"
+    ],
+    "registration_url": "https://georgiasouthernfootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Georgia State",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Prospect Camp",
+      "7on7",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 4",
+      "June 9",
+      "June 10",
+      "June 11",
+      "June 16",
+      "June 17",
+      "June 18",
+      "June 20"
+    ],
+    "registration_url": "dellmcgeefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Georgia Tech",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Youth Camp",
+      "Specialist Camp",
+      "Lineman Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 2",
+      "June 3",
+      "June 4",
+      "June 8"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Houston",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 8",
+      "June 15"
+    ],
+    "registration_url": "williefritzfootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Iowa",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "camp_types": [
+      "Elite Camp",
+      "Lineman Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 11",
+      "June 18",
+      "June 4"
+    ],
+    "registration_url": "iowafootball.totalcamps.com/shop/EVENT",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Iowa State",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "One Day Camp",
+      "Specialist Camp",
+      "7v7",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 4",
+      "June 10",
+      "June 11",
+      "June 21"
+    ],
+    "registration_url": "www.iowastatefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Jacksonville State",
+    "division": "FBS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Prospect Camp",
+      "Hog Fest",
+      "7v7 Camp",
+      "Youth Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 11",
+      "June 2",
+      "June 8",
+      "June 15",
+      "June 18",
+      "June 5",
+      "June 9"
+    ],
+    "registration_url": "https://www.gamecocksfootballcamps.com/",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Kansas",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Elite Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 3, 2026",
+      "June 7, 2026",
+      "June 9, 2026",
+      "June 10, 2026",
+      "June 11, 2026",
+      "June 16, 2026",
+      "June 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Kansas State",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Elite Camp",
+      "Big Man Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 7, 2026",
+      "June 14, 2026"
+    ],
+    "registration_url": "kstatefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Kennesaw State",
+    "division": "FBS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 2, 2026",
+      "June 4, 2026"
+    ],
+    "registration_url": "kennesawstatefootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Kent State",
+    "division": "FBS",
+    "conference": "MAC",
+    "camp_types": [
+      "MACtion Indy Camp",
+      "7on7",
+      "Friday Night Lights"
+    ],
+    "dates": [
+      "June 3, 2026",
+      "June 11, 2026",
+      "June 12, 2026",
+      "June 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "LSU",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Specialists Camp",
+      "Youth Camp",
+      "Elite Camp",
+      "OL & DL Camp",
+      "7on7"
+    ],
+    "dates": [
+      "June 2, 2026",
+      "June 4, 2026",
+      "June 5, 2026",
+      "June 6, 2026",
+      "June 11, 2026"
+    ],
+    "registration_url": "lsusports.net/footballcamps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Liberty",
+    "division": "FBS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Prospect Camp",
+      "Kids Camp",
+      "7on7",
+      "OL/DL Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 7, 2026",
+      "June 12, 2026",
+      "June 14, 2026",
+      "June 15, 2026",
+      "June 16, 2026",
+      "June 17, 2026",
+      "June 18, 2026",
+      "June 19, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Louisiana-Lafayette",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 7, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Louisiana-Monroe",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Prospect Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "June 3, 2026",
+      "June 4, 2026",
+      "June 11, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": "bryantvincentfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Louisiana Tech",
+    "division": "FBS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Youth Camp",
+      "Elite Camp",
+      "7on7"
+    ],
+    "dates": [
+      "June 8-9, 2026",
+      "June 13, 2026",
+      "June 15, 2026",
+      "June 20, 2026"
+    ],
+    "registration_url": "sonnycumbiefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Louisville",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "One Day Camp",
+      "Youth Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 3, 2025",
+      "June 7, 2025",
+      "June 9, 2025",
+      "June 10, 2025",
+      "June 18, 2025"
+    ],
+    "registration_url": "www.louisvillefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Marshall",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Kids Camp",
+      "Middle School Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 2, 2026",
+      "June 3, 2026",
+      "June 5, 2026",
+      "June 11, 2026",
+      "June 12, 2026"
+    ],
+    "registration_url": "tonygibsonfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Maryland",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "camp_types": [
+      "Prospect Camp",
+      "Big Man Camp",
+      "QB Camp",
+      "Specialists Camp",
+      "Youth Camp",
+      "Girls Flag Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 7, 2026",
+      "June 8, 2026",
+      "June 10, 2026",
+      "June 17, 2026",
+      "June 19, 2026",
+      "June 20, 2026"
+    ],
+    "registration_url": "coachlockscamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Memphis",
+    "division": "FBS",
+    "conference": "American Athletic",
+    "camp_types": [
+      "Mega Camp",
+      "7on7",
+      "Big Man Camp",
+      "Friday Night Lights",
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "June 1, 2026",
+      "June 7, 2026",
+      "June 17, 2026",
+      "June 19, 2026",
+      "June 21, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Miami",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "7on7",
+      "OL/DL Camp",
+      "Legends Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 7, 2026",
+      "June 14, 2026",
+      "June 17, 2026"
+    ],
+    "registration_url": "cristobalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Miami (Ohio)",
+    "division": "FBS",
+    "conference": "MAC",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 11, 2026",
+      "June 12, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Middle Tennessee",
+    "division": "FBS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Youth Camp",
+      "OL/DL Camp",
+      "7on7",
+      "Elite Camp",
+      "Specialists Camp",
+      "Friday Night Lights"
+    ],
+    "dates": [
+      "June 1-5, 2026",
+      "June 8, 2026",
+      "June 12, 2026",
+      "June 15, 2026",
+      "June 17, 2026",
+      "June 18, 2026",
+      "June 19, 2026"
+    ],
+    "registration_url": "derekmasonfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Mississippi State",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "7on7",
+      "OL/DL Camp",
+      "Elite Camp"
+    ],
+    "dates": [
+      "June 5, 2026",
+      "June 6, 2026",
+      "June 11, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Missouri",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Elite Camp",
+      "Specialists Camp",
+      "Youth Camp",
+      "7on7"
+    ],
+    "dates": [
+      "June 4, 2026",
+      "June 5, 2026",
+      "June 10, 2026",
+      "June 11, 2026",
+      "June 12, 2026"
+    ],
+    "registration_url": "drinkwitzfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "NC State",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "One Day Camp",
+      "7on7",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 7, 2026",
+      "June 9, 2026",
+      "June 11, 2026",
+      "June 14, 2026",
+      "June 17, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": "davedoerenballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Navy",
+    "division": "FBS",
+    "conference": "American Athletic",
+    "camp_types": [
+      "Specialists Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 19, 2026"
+    ],
+    "registration_url": "navysports.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Nebraska",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "camp_types": [
+      "Youth Camp",
+      "Big Man Camp",
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 3, 2026",
+      "June 4, 2026",
+      "June 7, 2026",
+      "June 9, 2026",
+      "June 10, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Nevada",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "JC Showcase",
+      "Indy Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 1, 2026",
+      "June 7, 2026",
+      "June 14, 2026"
+    ],
+    "registration_url": "nevadafootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "New Mexico",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 12, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "New Mexico",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "Specialists Camp"
+    ],
+    "dates": [
+      "May 31, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "North Carolina",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "One Day Camp",
+      "7on7",
+      "OL/DL Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 7, 2026",
+      "June 11, 2026",
+      "June 17, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": "billbelichickfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "North Dakota State",
+    "division": "FBS",
+    "conference": "Missouri Valley (FCS)",
+    "camp_types": [
+      "Indy Camp"
+    ],
+    "dates": [
+      "June 12-14, 2026",
+      "June 19-21, 2026"
+    ],
+    "registration_url": "ndsufootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "North Texas",
+    "division": "FBS",
+    "conference": "American Athletic",
+    "camp_types": [
+      "Prospect Camp",
+      "7on7",
+      "Big Man Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 7, 2026",
+      "June 8, 2026",
+      "June 10, 2026",
+      "June 15, 2026",
+      "June 17, 2026"
+    ],
+    "registration_url": "nealbrownfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northwestern",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "camp_types": [
+      "Specialists Camp",
+      "Skill Showcase",
+      "Big Man Showcase",
+      "Underclassmen Showcase"
+    ],
+    "dates": [
+      "June 5, 2026",
+      "June 6, 2026",
+      "June 7, 2026"
+    ],
+    "registration_url": "davidbraunfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Notre Dame",
+    "division": "FBS",
+    "conference": "Independent",
+    "camp_types": [
+      "Specialists Camp",
+      "Evaluation Camp",
+      "Youth Camp",
+      "Middle School Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 9, 2026",
+      "June 11, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Ohio",
+    "division": "FBS",
+    "conference": "MAC",
+    "camp_types": [
+      "Elite Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "May 31, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Ohio State",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "camp_types": [
+      "Youth Camp",
+      "One Day Camp",
+      "7on7"
+    ],
+    "dates": [
+      "June 2, 2026",
+      "June 3, 2026",
+      "June 9, 2026",
+      "June 10, 2026",
+      "June 15, 2026",
+      "June 16, 2026",
+      "June 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Oklahoma",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Prospect Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "June 2, 2026",
+      "June 3, 2026",
+      "June 5, 2026",
+      "June 6-7, 2026",
+      "June 9, 2026",
+      "June 10-11, 2026"
+    ],
+    "registration_url": "brentvenablesfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Oklahoma State",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Skills Camp",
+      "Big Man Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 7, 2026",
+      "June 14, 2026",
+      "June 21, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Old Dominion",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 6, 2026",
+      "June 14, 2026",
+      "June 20, 2026"
+    ],
+    "registration_url": "www.rahnefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Ole Miss",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Friday Night Lights",
+      "Prospect Camp",
+      "Youth Camp",
+      "Middle School Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 3, 2026",
+      "June 8-9, 2026",
+      "June 10, 2026",
+      "June 17, 2026",
+      "June 19, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Penn State",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "camp_types": [
+      "Specialists Camp",
+      "Prospect Camp",
+      "7on7",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 2, 2026",
+      "June 3, 2026",
+      "June 10, 2026",
+      "June 11, 2026",
+      "June 17, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Purdue",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 7, 2026",
+      "June 14, 2026",
+      "June 17, 2026",
+      "June 20, 2026"
+    ],
+    "registration_url": "www.purduefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Rice",
+    "division": "FBS",
+    "conference": "American Athletic",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 5, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": "scottabellfootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Rutgers",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "camp_types": [
+      "Elite Camp",
+      "Specialists Camp",
+      "Big Man Camp",
+      "7on7"
+    ],
+    "dates": [
+      "June 3, 2026",
+      "June 10, 2026",
+      "June 14, 2026",
+      "June 20, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "SMU",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Showcase"
+    ],
+    "dates": [
+      "May 31",
+      "June 1"
+    ],
+    "registration_url": "coachlashleecamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Sacramento State",
+    "division": "FBS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 9",
+      "June 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Sam Houston",
+    "division": "FBS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 18",
+      "June 19",
+      "June 20",
+      "June 21"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Sam Houston",
+    "division": "FBS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 5",
+      "June 12"
+    ],
+    "registration_url": "katattackfootball.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "San Diego State",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 3, 2026"
+    ],
+    "registration_url": "aztecfootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "South Alabama",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Specialists Camp",
+      "Prospect Camp",
+      "7on7",
+      "OL/DL Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 7",
+      "June 14",
+      "June 16",
+      "June 17"
+    ],
+    "registration_url": "www.jaguarfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "South Carolina",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Mini Camp",
+      "OL/DL Camp",
+      "Youth Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 4",
+      "June 5",
+      "June 8",
+      "June 10",
+      "June 12",
+      "June 15",
+      "June 17",
+      "June 18",
+      "June 19"
+    ],
+    "registration_url": "shanebeamerfootballcamp.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southern Miss",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Elite Camp"
+    ],
+    "dates": [
+      "June 5",
+      "June 7",
+      "June 12",
+      "June 14",
+      "June 19",
+      "June 20"
+    ],
+    "registration_url": "www.southernmissfootballcamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Stanford",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Specialists Camp",
+      "All Positions Camp",
+      "Skill Positions Camp",
+      "Linemen Camp"
+    ],
+    "dates": [
+      "June 13",
+      "June 15",
+      "June 16"
+    ],
+    "registration_url": "stanfordfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Syracuse",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Prospect Camp",
+      "7on7",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 4",
+      "June 7",
+      "June 11",
+      "June 20"
+    ],
+    "registration_url": "cuse.com/footballcamps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "TCU",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Youth Camp",
+      "Showcase",
+      "Specialist Camp",
+      "Middle School Camp"
+    ],
+    "dates": [
+      "May 27-29",
+      "June 5-6",
+      "June 7",
+      "June 10-11"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "TCU",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Showcase"
+    ],
+    "dates": [
+      "June 5",
+      "June 6"
+    ],
+    "registration_url": "sonnydykesfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Temple",
+    "division": "FBS",
+    "conference": "American Athletic",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 5",
+      "June 11",
+      "June 18"
+    ],
+    "registration_url": "diamondelitefb.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Texas",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Big Man Camp",
+      "Specialist Camp",
+      "Elite Camp"
+    ],
+    "dates": [
+      "June 3",
+      "June 4",
+      "June 10",
+      "June 17"
+    ],
+    "registration_url": "coachsarktexasfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Texas A&M",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Specialists Camp",
+      "Big Man Camp",
+      "7on7",
+      "Prospect Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 2",
+      "June 7",
+      "June 9",
+      "June 11",
+      "June 16",
+      "June 17"
+    ],
+    "registration_url": "12thman.com/footballcamp",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Texas State",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 3",
+      "June 8",
+      "June 10",
+      "June 15"
+    ],
+    "registration_url": "coachkinnefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Toledo",
+    "division": "FBS",
+    "conference": "Mid-American",
+    "camp_types": [
+      "Prospect Camp",
+      "7on7",
+      "Big Man Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 5, 2026",
+      "June 12, 2026",
+      "June 14, 2026",
+      "June 16, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Troy",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "camp_types": [
+      "Mega Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 5",
+      "June 12",
+      "June 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UAB",
+    "division": "FBS",
+    "conference": "American Athletic",
+    "camp_types": [
+      "Mega Camp",
+      "Prospect Camp",
+      "Youth Camp",
+      "7on7",
+      "Kicking Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 2, 2026",
+      "June 4, 2026",
+      "June 6, 2026",
+      "June 10, 2026",
+      "June 13, 2026",
+      "June 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UConn",
+    "division": "FBS",
+    "conference": "Independent",
+    "camp_types": [
+      "Prospect Camp",
+      "7on7",
+      "Big Man Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 7",
+      "June 15",
+      "June 16",
+      "June 17",
+      "June 19"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UMass",
+    "division": "FBS",
+    "conference": "Independent",
+    "camp_types": [
+      "Showcase"
+    ],
+    "dates": [
+      "May 31",
+      "June 6",
+      "June 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UNLV",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "June 4",
+      "June 11",
+      "June 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UNLV",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 4",
+      "June 11",
+      "June 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UNLV",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "May 31"
+    ],
+    "registration_url": "lvmegacamp.net",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "USC",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "camp_types": [
+      "Youth Camp",
+      "Middle School Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "May 2",
+      "May 3",
+      "June 14"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "USF",
+    "division": "FBS",
+    "conference": "American Athletic",
+    "camp_types": [
+      "One Day Camp",
+      "7on7",
+      "OL/DL Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 3",
+      "June 7",
+      "June 9",
+      "June 10",
+      "June 15",
+      "June 16"
+    ],
+    "registration_url": "www.brianhartlinefootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UTEP",
+    "division": "FBS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Specialists Camp",
+      "Elite Camp",
+      "Youth Camp",
+      "Showcase"
+    ],
+    "dates": [
+      "June 19",
+      "June 20"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UTSA",
+    "division": "FBS",
+    "conference": "American Athletic",
+    "camp_types": [
+      "Youth Camp",
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "May 29",
+      "June 4",
+      "June 11",
+      "June 17",
+      "June 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Utah",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Elite Camp",
+      "Specialist Camp",
+      "Lineman Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "June 3",
+      "June 4",
+      "June 6",
+      "June 9",
+      "June 16"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Vanderbilt",
+    "division": "FBS",
+    "conference": "SEC",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 7",
+      "June 14",
+      "June 19",
+      "June 20"
+    ],
+    "registration_url": "vanderbiltfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Virginia",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 8",
+      "June 10",
+      "June 15",
+      "June 17",
+      "June 21"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Virginia Tech",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "Elite Showcase",
+      "Specialist Camp",
+      "7on7",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 5",
+      "June 6",
+      "June 7",
+      "June 12",
+      "June 13",
+      "June 19",
+      "June 21"
+    ],
+    "registration_url": "virginiatechfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wake Forest",
+    "division": "FBS",
+    "conference": "ACC",
+    "camp_types": [
+      "One Day Prospect Camp"
+    ],
+    "dates": [
+      "June 1, 2026",
+      "June 8, 2026"
+    ],
+    "registration_url": "jakedickertfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Washington",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "camp_types": [
+      "Prospect Camp",
+      "Middle School Camp",
+      "Specialist Camp",
+      "Kids Camp",
+      "7on7",
+      "Linemen Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 2",
+      "June 3",
+      "June 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Washington State",
+    "division": "FBS",
+    "conference": "Pac-12",
+    "camp_types": [
+      "Elite Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 21, 2026"
+    ],
+    "registration_url": "wsufootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "West Virginia",
+    "division": "FBS",
+    "conference": "Big 12",
+    "camp_types": [
+      "Prospect Camp",
+      "Showcase",
+      "Youth Camp",
+      "7on7",
+      "Big Man Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 3",
+      "June 5",
+      "June 8",
+      "June 10",
+      "June 11",
+      "June 15",
+      "June 17",
+      "June 20"
+    ],
+    "registration_url": "wvusports.com/feature/footballcamps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Western Kentucky",
+    "division": "FBS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Big Man Camp",
+      "Prospect Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "June 5",
+      "June 7",
+      "June 8-9",
+      "June 21"
+    ],
+    "registration_url": "wkufootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Western Michigan",
+    "division": "FBS",
+    "conference": "Mid-American",
+    "camp_types": [
+      "Prospect Camp",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 5",
+      "June 10",
+      "June 14",
+      "June 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wyoming",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 13",
+      "June 19"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Alabama A&M",
+    "division": "FCS",
+    "conference": "SWAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 6, 2026"
+    ],
+    "registration_url": "aamusports.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Alabama State",
+    "division": "FCS",
+    "conference": "SWAC",
+    "camp_types": [
+      "Prospect Camp",
+      "7on7",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 13, 2026",
+      "June 16, 2026",
+      "July 10, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": "@SwarmList"
+  },
+  {
+    "school_name": "Arkansas-Pine Bluff",
+    "division": "FCS",
+    "conference": "SWAC",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 19, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Austin Peay",
+    "division": "FCS",
+    "conference": "United Athletic Conference",
+    "camp_types": [
+      "Football Camp"
+    ],
+    "dates": [
+      "June 13",
+      "June 20",
+      "July 18"
+    ],
+    "registration_url": "jefffarisfootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Bethune-Cookman",
+    "division": "FCS",
+    "conference": "SWAC",
+    "camp_types": [
+      "Youth Camp",
+      "Kicking Camp",
+      "7on7",
+      "Big Man Camp",
+      "High School Prospect Camp",
+      "Transfer/JUCO Camp",
+      "Women's Clinic"
+    ],
+    "dates": [
+      "June 1",
+      "June 6",
+      "June 13",
+      "June 20",
+      "June 25",
+      "June 26",
+      "June 27"
+    ],
+    "registration_url": "linktr.ee/bwcamps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Brown",
+    "division": "FCS",
+    "conference": "Ivy League",
+    "camp_types": [
+      "Football Camp"
+    ],
+    "dates": [
+      "June 22",
+      "June 24",
+      "June 28",
+      "June 29",
+      "July 8",
+      "July 12",
+      "July 13"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Bryant",
+    "division": "FCS",
+    "conference": "CAA",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 13",
+      "June 17",
+      "June 24",
+      "July 23"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Cal Poly",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": [
+      "7on7",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 6",
+      "June 7",
+      "June 27",
+      "June 28"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Campbell",
+    "division": "FCS",
+    "conference": "CAA",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp",
+      "Team Camp"
+    ],
+    "dates": [
+      "June 4",
+      "June 12",
+      "July 6-8",
+      "July 13-15"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Central Arkansas",
+    "division": "FCS",
+    "conference": "United Athletic Conference",
+    "camp_types": [
+      "All Arkansas Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 4-5",
+      "June 22-23",
+      "July 9-11"
+    ],
+    "registration_url": "ucabearsfootball.com",
+    "twitter_handle": "@UCA_Football"
+  },
+  {
+    "school_name": "Central Connecticut State",
+    "division": "FCS",
+    "conference": "NEC",
+    "camp_types": [
+      "Prospect Camp",
+      "Team Camp"
+    ],
+    "dates": [
+      "June 20",
+      "July 19",
+      "June 23",
+      "June 24",
+      "June 25",
+      "June 26",
+      "July 20",
+      "July 21",
+      "July 22",
+      "July 23"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Charleston Southern",
+    "division": "FCS",
+    "conference": "Big South",
+    "camp_types": [
+      "OL/DL Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 4",
+      "June 6",
+      "July 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Chattanooga",
+    "division": "FCS",
+    "conference": "SoCon",
+    "camp_types": [
+      "7on7",
+      "Big Man Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 18",
+      "June 19",
+      "July 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Colgate",
+    "division": "FCS",
+    "conference": "Patriot League",
+    "camp_types": [
+      "Youth Camp",
+      "Prospect Camp",
+      "Passing Academy"
+    ],
+    "dates": [
+      "June 26",
+      "June 27",
+      "June 28",
+      "July 27"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Columbia",
+    "division": "FCS",
+    "conference": "Ivy League",
+    "camp_types": [
+      "Football Camp"
+    ],
+    "dates": [
+      "June 7",
+      "June 23",
+      "June 25",
+      "July 7",
+      "July 9"
+    ],
+    "registration_url": "https://jonpoppefootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Cornell",
+    "division": "FCS",
+    "conference": "Ivy League",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 26",
+      "June 27",
+      "July 10",
+      "July 11",
+      "July 17",
+      "July 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Dartmouth",
+    "division": "FCS",
+    "conference": "Ivy League",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 21",
+      "June 24",
+      "June 27",
+      "July 10",
+      "July 11",
+      "July 12",
+      "June 27",
+      "July 10"
+    ],
+    "registration_url": "SammyMcCorkleFootballCamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Davidson College",
+    "division": "FCS",
+    "conference": "Pioneer Football League",
+    "camp_types": [
+      "National Academic Camp",
+      "Youth Football Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 13",
+      "June 15-18",
+      "July 18"
+    ],
+    "registration_url": "davidsonfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Dayton",
+    "division": "FCS",
+    "conference": "Pioneer Football League",
+    "camp_types": [
+      "Prospect Camp",
+      "Kicking/Specialists Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 9",
+      "June 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Drake",
+    "division": "FCS",
+    "conference": "Pioneer Football League",
+    "camp_types": [
+      "Football Camp"
+    ],
+    "dates": [
+      "June 3",
+      "June 12",
+      "June 14",
+      "June 27"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Duquesne",
+    "division": "FCS",
+    "conference": "NEC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 4",
+      "June 19"
+    ],
+    "registration_url": "goduquesne.com/fbcamps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "ETSU",
+    "division": "FCS",
+    "conference": "SoCon",
+    "camp_types": [
+      "Mega Camp",
+      "Prospect Camp",
+      "7on7",
+      "OL-DL Camp",
+      "Friday Night Lights",
+      "Youth Camp"
+    ],
+    "dates": [
+      "May 30",
+      "June 6",
+      "June 2",
+      "June 9",
+      "June 16",
+      "June 19",
+      "June 23-25"
+    ],
+    "registration_url": "https://etsufootballyearevents.com/register.cfm",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "East Texas A&M",
+    "division": "FCS",
+    "conference": "Southland",
+    "camp_types": [
+      "Football Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 6",
+      "June 13"
+    ],
+    "registration_url": "https://www.clintdolezelfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Eastern Illinois",
+    "division": "FCS",
+    "conference": "OVC",
+    "camp_types": [
+      "Prospect Camp",
+      "Under The Lights Camp"
+    ],
+    "dates": [
+      "June 7",
+      "June 19",
+      "July 19"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Eastern Illinois",
+    "division": "FCS",
+    "conference": "OVC",
+    "camp_types": [
+      "Under The Lights Camp"
+    ],
+    "dates": [
+      "June 19"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Eastern Washington",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": [
+      "Big Man Camp",
+      "Skills Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 23",
+      "June 30"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Elon",
+    "division": "FCS",
+    "conference": "CAA",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 13"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "FAMU",
+    "division": "FCS",
+    "conference": "SWAC",
+    "camp_types": [
+      "Prospect Camp",
+      "Big Man Camp",
+      "7v7 Camp"
+    ],
+    "dates": [
+      "June 6",
+      "June 11"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Fordham",
+    "division": "FCS",
+    "conference": "Patriot League",
+    "camp_types": [
+      "Prospect Camp",
+      "Mega Camp",
+      "Thursday Night Football"
+    ],
+    "dates": [
+      "June 1",
+      "June 4",
+      "June 7",
+      "June 18",
+      "June 27",
+      "June 28"
+    ],
+    "registration_url": "www.joeconlinfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Furman",
+    "division": "FCS",
+    "conference": "SoCon",
+    "camp_types": [
+      "Mega Camp",
+      "Overnight Camp",
+      "Elite Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 3",
+      "June 18-20",
+      "June 13",
+      "June 20",
+      "July 11"
+    ],
+    "registration_url": "furmanfootballcamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Gardner-Webb",
+    "division": "FCS",
+    "conference": "Big South",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 6",
+      "June 7"
+    ],
+    "registration_url": "krismcculloughfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Grambling State",
+    "division": "FCS",
+    "conference": "SWAC",
+    "camp_types": [
+      "Elite Camp"
+    ],
+    "dates": [
+      "May 30, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Harvard",
+    "division": "FCS",
+    "conference": "Ivy League",
+    "camp_types": [
+      "Football Clinic",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 24",
+      "June 29",
+      "July 7",
+      "July 9",
+      "July 11"
+    ],
+    "registration_url": "andrewaurichfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Houston Christian",
+    "division": "FCS",
+    "conference": "Southland",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 3"
+    ],
+    "registration_url": "huskyfbcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Howard",
+    "division": "FCS",
+    "conference": "MEAC",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 11, 2026"
+    ],
+    "registration_url": "1867flightclubcollective.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Howard",
+    "division": "FCS",
+    "conference": "MEAC",
+    "camp_types": [
+      "Big Man Camp",
+      "Prospect Camp",
+      "Youth Camp",
+      "QB/Specialist Camp"
+    ],
+    "dates": [
+      "June 8",
+      "June 16-17",
+      "June 18",
+      "June 22-23",
+      "June 24"
+    ],
+    "registration_url": "1867flightclubcollective.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Idaho",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": [
+      "Prospect Camp",
+      "7on7",
+      "Team Camp"
+    ],
+    "dates": [
+      "June 12",
+      "June 13",
+      "June 20",
+      "June 21-23",
+      "June 24",
+      "July 27"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Idaho State",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": [
+      "Prospect Camp",
+      "7on7"
+    ],
+    "dates": [
+      "June 12",
+      "July 17",
+      "June 13"
+    ],
+    "registration_url": "https://www.idahostatefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Illinois State",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "camp_types": [
+      "One Day Camp",
+      "Specialists Camp",
+      "OL/DL Camp",
+      "Skill Camp"
+    ],
+    "dates": [
+      "June 22",
+      "June 28",
+      "June 22",
+      "June 27",
+      "June 27"
+    ],
+    "registration_url": "www.spackfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Indiana State",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "camp_types": [
+      "Prospect Camp",
+      "Lineman Camp",
+      "Specialists Camp",
+      "Skills Camp"
+    ],
+    "dates": [
+      "June 21"
+    ],
+    "registration_url": "https://www.curtmalloryfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Jackson State",
+    "division": "FCS",
+    "conference": "SWAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 1, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lafayette",
+    "division": "FCS",
+    "conference": "Patriot League",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 18, 2026",
+      "July 14, 2026",
+      "July 14, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lehigh",
+    "division": "FCS",
+    "conference": "Patriot League",
+    "camp_types": [
+      "Mega Camp",
+      "Prospect Camp",
+      "Specialists Camp",
+      "7on7",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 3",
+      "June 17",
+      "June 24",
+      "July 22",
+      "June 27"
+    ],
+    "registration_url": "https://www.brownandwhitefootballcamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lindenwood",
+    "division": "FCS",
+    "conference": "Ohio Valley",
+    "camp_types": [
+      "Coaches Clinic",
+      "Mega Camp",
+      "7on7",
+      "Big Man Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "March 28",
+      "June 5-6",
+      "June 11",
+      "June 12"
+    ],
+    "registration_url": "https://football.lindenwoodlionscamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lindenwood",
+    "division": "FCS",
+    "conference": "Ohio Valley",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 5",
+      "June 6"
+    ],
+    "registration_url": "www.football.lindenwoodlionscamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Marist",
+    "division": "FCS",
+    "conference": "Pioneer League",
+    "camp_types": [
+      "Exposure Camp"
+    ],
+    "dates": [
+      "May 31, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "McNeese State",
+    "division": "FCS",
+    "conference": "Southland",
+    "camp_types": [
+      "Youth Camp",
+      "Specialists Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 28",
+      "May 29",
+      "June 3",
+      "June 4",
+      "June 4"
+    ],
+    "registration_url": "https://mcneesefootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Mercer",
+    "division": "FCS",
+    "conference": "Southern",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 3"
+    ],
+    "registration_url": "https://coachjoeltaylorfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Mercyhurst",
+    "division": "FCS",
+    "conference": "Northeast",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 18",
+      "July 24"
+    ],
+    "registration_url": "https://mercyhurstfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Monmouth",
+    "division": "FCS",
+    "conference": "Colonial Athletic Association",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialists Camp",
+      "Team Passing Camp"
+    ],
+    "dates": [
+      "June 7",
+      "June 11",
+      "June 14",
+      "June 17",
+      "June 25",
+      "June 20",
+      "June 27"
+    ],
+    "registration_url": "https://www.monmouthfootballcamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Montana",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": [
+      "Team Passing Camp",
+      "Big Man Camp",
+      "Youth Camp",
+      "QB/WR Camp",
+      "Specialists Camp",
+      "Individual Camp"
+    ],
+    "dates": [
+      "June 13",
+      "June 13",
+      "June 15-17",
+      "June 20",
+      "June 20",
+      "June 22-24",
+      "June 27",
+      "July 26"
+    ],
+    "registration_url": "https://www.montanafootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Montana State",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": [
+      "Individual Camp",
+      "Team Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 5-7",
+      "June 15-17",
+      "June 19",
+      "June 26"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Morehead State",
+    "division": "FCS",
+    "conference": "Pioneer League",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 10",
+      "June 11",
+      "June 12",
+      "July 16"
+    ],
+    "registration_url": "https://www.woodmanfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Morgan State",
+    "division": "FCS",
+    "conference": "MEAC",
+    "camp_types": [
+      "Big Man Camp",
+      "7on7",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 6",
+      "June 7"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northern Arizona",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": [
+      "Individual Camp",
+      "Mega Camp",
+      "7on7",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 7",
+      "June 14",
+      "June 18",
+      "June 19",
+      "June 6",
+      "June 13",
+      "June 20"
+    ],
+    "registration_url": "https://brianwrightfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "New Haven",
+    "division": "FCS",
+    "conference": "Northeast",
+    "camp_types": [
+      "Prospect Camp",
+      "Showcase Camp"
+    ],
+    "dates": [
+      "June 5",
+      "July 24",
+      "July 25"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Nicholls State",
+    "division": "FCS",
+    "conference": "Southland",
+    "camp_types": [
+      "Mega Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 31, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "North Alabama",
+    "division": "FCS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Satellite Camp",
+      "Youth Camp",
+      "Elite Camp",
+      "7on7"
+    ],
+    "dates": [
+      "June 6",
+      "June 16-17",
+      "June 23",
+      "June 24",
+      "July 10",
+      "July 16"
+    ],
+    "registration_url": "https://brentdearmon footballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "North Dakota",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "camp_types": [
+      "Big Man Camp",
+      "Skill Camp"
+    ],
+    "dates": [
+      "June 11",
+      "June 18"
+    ],
+    "registration_url": "https://www.fightinghawks.com/camps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northern Colorado",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [],
+    "registration_url": "https://www.northerncoloradofootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northern Iowa",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 7",
+      "July 12",
+      "July 19"
+    ],
+    "registration_url": "https://www.unifbcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northwestern State",
+    "division": "FCS",
+    "conference": "Southland",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 5",
+      "June 6",
+      "July 9",
+      "July 10",
+      "July 11"
+    ],
+    "registration_url": "https://www.demonelitfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Penn",
+    "division": "FCS",
+    "conference": "Ivy League",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 14",
+      "June 22",
+      "July 10",
+      "July 12",
+      "July 13",
+      "July 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Prairie View A&M",
+    "division": "FCS",
+    "conference": "SWAC",
+    "camp_types": [
+      "Showcase Camp"
+    ],
+    "dates": [
+      "June 4",
+      "June 7"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Princeton",
+    "division": "FCS",
+    "conference": "Ivy League",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 14",
+      "June 27",
+      "July 5",
+      "July 11",
+      "July 18"
+    ],
+    "registration_url": "https://info.abcsportscamps.com/tiger-football-camp",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Rhode Island",
+    "division": "FCS",
+    "conference": "CAA",
+    "camp_types": [
+      "Camp"
+    ],
+    "dates": [
+      "June 4, 2026",
+      "June 11, 2026",
+      "June 18, 2026",
+      "June 25, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Robert Morris",
+    "division": "FCS",
+    "conference": "Horizon League",
+    "camp_types": [
+      "Mega Camp",
+      "Youth Camp",
+      "Middle School Showcase",
+      "Last Chance Camp"
+    ],
+    "dates": [
+      "June 6, 2026",
+      "June 10, 2026",
+      "June 12, 2026",
+      "June 20, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Robert Morris",
+    "division": "FCS",
+    "conference": "Horizon League",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 6, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southeast Missouri State",
+    "division": "FCS",
+    "conference": "Ohio Valley",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 20, 2026",
+      "July 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southern Illinois",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "camp_types": [
+      "Youth Camp",
+      "Junior Dawg Camp",
+      "Prospect Camp",
+      "QB & Skills Camp",
+      "OL/DL Camp",
+      "7on7"
+    ],
+    "dates": [
+      "April 9, 2026",
+      "June 10, 2026",
+      "June 11, 2026",
+      "June 26, 2026",
+      "July 17, 2026",
+      "July 18, 2026"
+    ],
+    "registration_url": "www.nickhillfootballcamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Sacred Heart",
+    "division": "FCS",
+    "conference": "Northeast",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 6, 2026",
+      "June 19, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "San Diego",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "camp_types": [
+      "Prospect Camp",
+      "7on7",
+      "Rising Stars Camp"
+    ],
+    "dates": [
+      "June 14, 2026",
+      "June 15, 2026",
+      "June 17, 2026",
+      "June 19, 2026",
+      "June 20, 2026",
+      "July 18-19, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "South Carolina State",
+    "division": "FCS",
+    "conference": "MEAC",
+    "camp_types": [
+      "Showcase",
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 12, 2026",
+      "June 19, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "South Dakota",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "camp_types": [
+      "Camp"
+    ],
+    "dates": [
+      "June 7, 2026",
+      "June 10, 2026",
+      "June 15, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "South Dakota State",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 8, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southeastern Louisiana",
+    "division": "FCS",
+    "conference": "Southland",
+    "camp_types": [
+      "7on7",
+      "Elite Camp"
+    ],
+    "dates": [
+      "June 5, 2026",
+      "June 6, 2026",
+      "June 12, 2026",
+      "June 13, 2026"
+    ],
+    "registration_url": "frankscelfo footballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southeastern Louisiana",
+    "division": "FCS",
+    "conference": "Southland",
+    "camp_types": [
+      "Post Grad Camp"
+    ],
+    "dates": [
+      "June 6, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southern",
+    "division": "FCS",
+    "conference": "SWAC",
+    "camp_types": [
+      "OL/DL Camp",
+      "Skills Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "June 14, 2026",
+      "June 21, 2026"
+    ],
+    "registration_url": "terrencegravesfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southern Utah",
+    "division": "FCS",
+    "conference": "United Athletic",
+    "camp_types": [
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 4, 2026",
+      "June 5, 2026"
+    ],
+    "registration_url": "southernutahfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southern Utah",
+    "division": "FCS",
+    "conference": "United Athletic",
+    "camp_types": [
+      "Elite Camp"
+    ],
+    "dates": [
+      "June 20, 2026"
+    ],
+    "registration_url": "southernutahfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Stephen F. Austin",
+    "division": "FCS",
+    "conference": "Southland",
+    "camp_types": [
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 2, 2026",
+      "June 3, 2026",
+      "June 4, 2026",
+      "June 7, 2026",
+      "June 8, 2026",
+      "June 10, 2026",
+      "June 11, 2026",
+      "June 12, 2026"
+    ],
+    "registration_url": "sfafootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Stony Brook",
+    "division": "FCS",
+    "conference": "CAA",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 18, 2026",
+      "July 18, 2026",
+      "July 19, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Tarleton State",
+    "division": "FCS",
+    "conference": "United Athletic",
+    "camp_types": [
+      "Youth Camp",
+      "One Day Camp",
+      "Elite Camp",
+      "Friday Night Lights Camp",
+      "Specialists Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 1-3, 2026",
+      "June 6, 2026",
+      "June 15-17, 2026",
+      "July 6, 2026",
+      "July 7, 2026",
+      "July 9, 2026",
+      "July 10, 2026",
+      "July 11, 2026",
+      "July 17, 2026",
+      "July 18, 2026"
+    ],
+    "registration_url": "tarletonfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Tennessee Tech",
+    "division": "FCS",
+    "conference": "Ohio Valley",
+    "camp_types": [
+      "Camp"
+    ],
+    "dates": [
+      "June 6, 2026",
+      "June 7, 2026",
+      "June 13, 2026",
+      "June 14, 2026",
+      "July 18, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Tennessee Tech",
+    "division": "FCS",
+    "conference": "Ohio Valley",
+    "camp_types": [
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 6, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Texas Southern",
+    "division": "FCS",
+    "conference": "SWAC",
+    "camp_types": [
+      "OL/DL Camp",
+      "Skills Camp"
+    ],
+    "dates": [
+      "June 26, 2026",
+      "June 27, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "The Citadel",
+    "division": "FCS",
+    "conference": "Southern",
+    "camp_types": [
+      "7on7",
+      "Lineman Camp",
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 17, 2026",
+      "June 19, 2026",
+      "June 20, 2026",
+      "July 8, 2026",
+      "July 10, 2026",
+      "July 11, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Towson",
+    "division": "FCS",
+    "conference": "CAA",
+    "camp_types": [
+      "Prospect Camp",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 5, 2026",
+      "July 9, 2026",
+      "July 12, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Towson",
+    "division": "FCS",
+    "conference": "CAA",
+    "camp_types": [
+      "Specialists Camp"
+    ],
+    "dates": [
+      "July 12, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UC Davis",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": [
+      "One Day Camp",
+      "Prospect Camp",
+      "QB Academy"
+    ],
+    "dates": [
+      "June 1, 2026",
+      "June 6, 2026",
+      "June 8, 2026",
+      "June 13, 2026",
+      "June 20, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UIW",
+    "division": "FCS",
+    "conference": "Southland",
+    "camp_types": [
+      "Elite Prospect Camp",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 9, 2026",
+      "June 12, 2026",
+      "July 14, 2026",
+      "July 17, 2026",
+      "July 22, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of St. Thomas",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 18, 2026",
+      "June 20, 2026",
+      "July 23, 2026",
+      "July 25, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Utah Tech",
+    "division": "FCS",
+    "conference": "United Athletic",
+    "camp_types": [
+      "Prospect Camp",
+      "Passing Tournament",
+      "Big Man Battle",
+      "Youth Camp"
+    ],
+    "dates": [
+      "June 6, 2026",
+      "June 13, 2026",
+      "June 19, 2026",
+      "June 20, 2026",
+      "June 27, 2026",
+      "June 1-3, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Villanova",
+    "division": "FCS",
+    "conference": "CAA",
+    "camp_types": [
+      "Camp"
+    ],
+    "dates": [
+      "June 9, 2026",
+      "June 10, 2026",
+      "June 11, 2026",
+      "June 16, 2026",
+      "June 17, 2026",
+      "June 18, 2026",
+      "July 26, 2026"
+    ],
+    "registration_url": "www.ferrantenovafootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wagner",
+    "division": "FCS",
+    "conference": "Northeast",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 10, 2026",
+      "June 17, 2026",
+      "June 24, 2026"
+    ],
+    "registration_url": "wagnercollegefootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wagner",
+    "division": "FCS",
+    "conference": "Northeast",
+    "camp_types": [
+      "Underclassmen Camp"
+    ],
+    "dates": [
+      "June 20, 2026"
+    ],
+    "registration_url": "wagnercollegefootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Weber State",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 17, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "West Georgia",
+    "division": "FCS",
+    "conference": "Conference USA",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialists Camp",
+      "Coaches Clinic",
+      "7on7",
+      "Big Man Challenge"
+    ],
+    "dates": [
+      "June 4, 2026",
+      "June 10, 2026",
+      "June 11, 2026",
+      "June 15, 2026"
+    ],
+    "registration_url": "englehartfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Western Carolina",
+    "division": "FCS",
+    "conference": "Southern",
+    "camp_types": [
+      "Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 5, 2026",
+      "June 10, 2026",
+      "June 13, 2026",
+      "June 19, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Western Illinois",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "camp_types": [
+      "Youth Camp",
+      "Prospect Camp",
+      "Elite Prospect Camp",
+      "OL/DL Camp",
+      "Skills Camp",
+      "Friday Night Lights Camp",
+      "Last Chance Camp",
+      "Flag Football Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 17, 2026",
+      "June 18, 2026",
+      "June 18-19, 2026",
+      "June 19, 2026",
+      "June 22, 2026",
+      "July 23, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "William & Mary",
+    "division": "FCS",
+    "conference": "CAA",
+    "camp_types": [
+      "7on7",
+      "Big Man Camp",
+      "Mega Camp",
+      "One Day Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 6, 2026",
+      "June 7, 2026",
+      "June 15, 2026",
+      "June 17, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wofford",
+    "division": "FCS",
+    "conference": "Southern",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 7, 2026",
+      "June 14, 2026",
+      "June 21, 2026",
+      "July 15, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wofford",
+    "division": "FCS",
+    "conference": "Southern",
+    "camp_types": [
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 20, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Yale",
+    "division": "FCS",
+    "conference": "Ivy League",
+    "camp_types": [
+      "Camp"
+    ],
+    "dates": [
+      "June 18, 2026",
+      "June 26, 2026",
+      "June 27, 2026",
+      "June 28, 2026",
+      "July 5, 2026",
+      "July 7, 2026",
+      "July 8, 2026",
+      "July 10, 2026",
+      "July 11, 2026"
+    ],
+    "registration_url": "elifootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Youngstown State",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "camp_types": [
+      "Kicking Camp",
+      "Prospect Camp",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 3, 2026",
+      "June 8, 2026",
+      "June 10, 2026",
+      "June 15, 2026",
+      "June 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Adams State",
+    "division": "D2",
+    "conference": "Rocky Mountain Athletic Conference (RMAC)",
+    "camp_types": [
+      "Satellite Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 2, 2026",
+      "June 3, 2026",
+      "June 4, 2026",
+      "June 5, 2026"
+    ],
+    "registration_url": "adamsstatefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Albany State",
+    "division": "D2",
+    "conference": "Southern Intercollegiate Athletic Conference (SIAC)",
+    "camp_types": [
+      "Prospect Camp",
+      "7on7",
+      "Lineman Camp"
+    ],
+    "dates": [
+      "March 21, 2026",
+      "June 11, 2026",
+      "June 18, 2026",
+      "July 9, 2026",
+      "July 16, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Allen University",
+    "division": "D2",
+    "conference": "Southern Intercollegiate Athletic Conference (SIAC)",
+    "camp_types": [
+      "Lineman Camp"
+    ],
+    "dates": [
+      "June 27, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "American International College",
+    "division": "D2",
+    "conference": "Northeast-10 Conference (NE10)",
+    "camp_types": [
+      "Showcase Camp",
+      "Youth Clinic",
+      "Friday Night Lights"
+    ],
+    "dates": [
+      "May 30, 2026",
+      "June 22-24, 2026",
+      "June 26, 2026",
+      "July 24, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Anderson University",
+    "division": "D2",
+    "conference": "South Atlantic Conference (SAC)",
+    "camp_types": [
+      "Mega Camp",
+      "Trench Camp",
+      "Elite Camp"
+    ],
+    "dates": [
+      "April 25, 2026",
+      "May 16, 2026",
+      "June 4, 2026",
+      "July 10, 2026",
+      "July 15-16, 2026",
+      "July 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Arkansas-Monticello",
+    "division": "D2",
+    "conference": "Great American Conference (GAC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 23, 2026",
+      "June 11, 2026",
+      "June 13, 2026"
+    ],
+    "registration_url": "garygofffootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Arkansas-Monticello",
+    "division": "D2",
+    "conference": "Great American Conference (GAC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Team Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "May 30, 2026",
+      "June 7, 2026",
+      "June 22-25, 2026"
+    ],
+    "registration_url": "garygofffootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Arkansas Tech",
+    "division": "D2",
+    "conference": "Great American Conference (GAC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Youth Camp",
+      "OL/DL Camp",
+      "Specialists Camp",
+      "Skills Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "April 25, 2026",
+      "May 17, 2026",
+      "May 30, 2026",
+      "June 1-2, 2026",
+      "June 3, 2026",
+      "June 4, 2026",
+      "July 11, 2026",
+      "July 17, 2026",
+      "July 19, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Augustana University",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference (NSIC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 25, 2026",
+      "June 7, 2026"
+    ],
+    "registration_url": "goaugiecamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Bemidji State",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference (NSIC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 16, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Bentley University",
+    "division": "D2",
+    "conference": "Northeast-10 Conference (NE10)",
+    "camp_types": [
+      "Friday Night Lights"
+    ],
+    "dates": [
+      "July 17, 2026"
+    ],
+    "registration_url": "bentleyfootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Black Hills State",
+    "division": "D2",
+    "conference": "Rocky Mountain Athletic Conference (RMAC)",
+    "camp_types": [
+      "Individual Camp"
+    ],
+    "dates": [
+      "July 19, 2026"
+    ],
+    "registration_url": "blackhillsstatefootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Bloomsburg University",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference (PSAC)",
+    "camp_types": [
+      "Prospect Showcase"
+    ],
+    "dates": [
+      "May 23, 2026",
+      "June 12, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Carson-Newman",
+    "division": "D2",
+    "conference": "South Atlantic Conference (SAC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Youth Camp",
+      "Lineman Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "May 9, 2026",
+      "May 23, 2026",
+      "June 5, 2026",
+      "June 6, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Catawba College",
+    "division": "D2",
+    "conference": "South Atlantic Conference (SAC)",
+    "camp_types": [
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "June 5, 2026",
+      "June 12, 2026",
+      "June 19, 2026",
+      "June 26, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Central Missouri",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "camp_types": [
+      "Individual Camp"
+    ],
+    "dates": [
+      "May 17, 2026",
+      "May 31, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Central Oklahoma",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "camp_types": [
+      "Prospect Camp",
+      "Padded Camp"
+    ],
+    "dates": [
+      "May 2, 2026",
+      "June 6, 2026",
+      "June 13, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Central State",
+    "division": "D2",
+    "conference": "Southern Intercollegiate Athletic Conference (SIAC)",
+    "camp_types": [
+      "Elite Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 22, 2026",
+      "June 23, 2026",
+      "June 24, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Chadron State College",
+    "division": "D2",
+    "conference": "Rocky Mountain Athletic Conference (RMAC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 31, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Charleston",
+    "division": "D2",
+    "conference": "Mountain East Conference (MEC)",
+    "camp_types": [
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "May 9, 2026",
+      "June 4, 2026"
+    ],
+    "registration_url": "https://charlestonfootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Colorado School of Mines",
+    "division": "D2",
+    "conference": "Rocky Mountain Athletic Conference (RMAC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 8, 2026",
+      "June 12, 2026",
+      "June 16, 2026",
+      "July 21, 2026",
+      "July 25, 2026"
+    ],
+    "registration_url": "minesathletics.com/camps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Concordia University, St. Paul",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference (NSIC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 25, 2026",
+      "July 22, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Davenport University",
+    "division": "D2",
+    "conference": "Great Lakes Intercollegiate Athletic Conference (GLIAC)",
+    "camp_types": [
+      "Elite Camp"
+    ],
+    "dates": [
+      "April 12, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Delta State",
+    "division": "D2",
+    "conference": "Gulf South Conference (GSC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Middle School Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "May 7, 2026",
+      "June 10, 2026",
+      "June 11, 2026"
+    ],
+    "registration_url": "www.deltastatefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "East Central University",
+    "division": "D2",
+    "conference": "Great American Conference (GAC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 13, 2026",
+      "June 20, 2026",
+      "July 11, 2026",
+      "July 24, 2026"
+    ],
+    "registration_url": "https://www.ecufootballcamp.com/register.cfm",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "East Stroudsburg University",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference (PSAC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Lineman Camp",
+      "Specialists Camp",
+      "Friday Night Lights"
+    ],
+    "dates": [
+      "May 30, 2026",
+      "June 6, 2026",
+      "June 7, 2026",
+      "June 13, 2026",
+      "July 24, 2026"
+    ],
+    "registration_url": "football.esuwarriorcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Emory and Henry College",
+    "division": "D2",
+    "conference": "South Atlantic Conference (SAC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 6, 2026",
+      "May 8, 2026",
+      "May 11, 2026",
+      "May 12, 2026",
+      "May 13, 2026",
+      "May 16, 2026",
+      "June 10, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Emporia State",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "camp_types": [
+      "OL/DL Camp",
+      "Skill Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 11, 2026",
+      "July 16, 2026"
+    ],
+    "registration_url": "esuhornetfootballcamps.com",
+    "twitter_handle": "@esuhornetsfb"
+  },
+  {
+    "school_name": "Fairmont State",
+    "division": "D2",
+    "conference": "Mountain East Conference (MEC)",
+    "camp_types": [
+      "Elite Camp",
+      "7on7",
+      "Lineman Camp"
+    ],
+    "dates": [
+      "May 21, 2026",
+      "May 28, 2026",
+      "June 4, 2026"
+    ],
+    "registration_url": "falconfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Ferris State",
+    "division": "D2",
+    "conference": "Great Lakes Intercollegiate Athletic Conference (GLIAC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 21, 2026",
+      "June 4, 2026",
+      "June 11, 2026",
+      "June 15, 2026",
+      "June 18, 2026",
+      "June 23, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Ferrum College",
+    "division": "D2",
+    "conference": "South Atlantic Conference (SAC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 6, 2026",
+      "June 20, 2026"
+    ],
+    "registration_url": "www.ferrumcollegefootball.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Fort Hays State",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "camp_types": [
+      "Team Camp",
+      "Prospect Camp",
+      "7on7"
+    ],
+    "dates": [
+      "June 11, 2026",
+      "June 15-16, 2026",
+      "July 12, 2026",
+      "July 15, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Fort Lewis College",
+    "division": "D2",
+    "conference": "Rocky Mountain Athletic Conference (RMAC)",
+    "camp_types": [
+      "Junior Day",
+      "7on7",
+      "Lineman Camp",
+      "Elite Prospect Camp",
+      "Overnight Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "April 18, 2026",
+      "May 23, 2026",
+      "July 6, 2026",
+      "July 6-8, 2026",
+      "July 12-15, 2026",
+      "July 17, 2026",
+      "July 18, 2026"
+    ],
+    "registration_url": "GoSkyhawks.com/fbcamps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Glenville State",
+    "division": "D2",
+    "conference": "Mountain East Conference (MEC)",
+    "camp_types": [
+      "Skill Camp",
+      "Youth Camp",
+      "7on7",
+      "Lineman Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 1, 2026",
+      "June 2, 2026",
+      "June 3, 2026",
+      "June 4, 2026",
+      "June 5, 2026",
+      "June 6, 2026",
+      "June 16, 2026",
+      "June 18, 2026",
+      "June 25, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Grand Valley State",
+    "division": "D2",
+    "conference": "Great Lakes Intercollegiate Athletic Conference (GLIAC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 26, 2026",
+      "June 28, 2026",
+      "July 10, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Harding University",
+    "division": "D2",
+    "conference": "Great American Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 16, 2026",
+      "July 18, 2026"
+    ],
+    "registration_url": "www.hardingfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Harding University",
+    "division": "D2",
+    "conference": "Great American Conference",
+    "camp_types": [
+      "Lineman Camp"
+    ],
+    "dates": [
+      "June 12-13, 2026"
+    ],
+    "registration_url": "hardingfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Henderson State",
+    "division": "D2",
+    "conference": "Great American Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 9th, 2026",
+      "May 30th, 2026",
+      "June 13th, 2026",
+      "July 11th, 2026"
+    ],
+    "registration_url": "hendersonstatefootball.totalcamps.com/shop/event",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Indiana University of Pennsylvania",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 30th",
+      "June 7th",
+      "June 17th"
+    ],
+    "registration_url": "iupfootballcamp.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Johnson C. Smith University",
+    "division": "D2",
+    "conference": "Central Intercollegiate Athletic Association",
+    "camp_types": [
+      "Prospect Camp",
+      "Youth Camp",
+      "Transfer Portal Camp"
+    ],
+    "dates": [
+      "May 16, 2026",
+      "June 20, 2026",
+      "July 11, 2026",
+      "July 18, 2026"
+    ],
+    "registration_url": "mauriceflowersfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Kentucky State",
+    "division": "D2",
+    "conference": "Southern Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 30th",
+      "June 5th",
+      "July 19th"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Kentucky State",
+    "division": "D2",
+    "conference": "Southern Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 30th",
+      "June 5th",
+      "July 19th"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Kentucky State",
+    "division": "D2",
+    "conference": "Southern Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 11, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Kentucky Wesleyan",
+    "division": "D2",
+    "conference": "Great Midwest Athletic Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 31st",
+      "June 5th",
+      "June 19th"
+    ],
+    "registration_url": "kwcfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Kutztown University",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 27th",
+      "June 4th",
+      "July 5th",
+      "July 15th"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lenoir-Rhyne",
+    "division": "D2",
+    "conference": "South Atlantic Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Elite Prospect Camp",
+      "QB School"
+    ],
+    "dates": [
+      "June 12th",
+      "June 19th",
+      "May 31st",
+      "June 13th",
+      "June 20th",
+      "June 13th"
+    ],
+    "registration_url": "dougsochafootballcamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lincoln University (Missouri)",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association",
+    "camp_types": [
+      "Prospect Camp",
+      "Kids Camp",
+      "Team Camp"
+    ],
+    "dates": [
+      "May 23",
+      "May 25-29",
+      "June 18-20",
+      "June 25-27"
+    ],
+    "registration_url": "mosesharperfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lincoln University (Pennsylvania)",
+    "division": "D2",
+    "conference": "Central Intercollegiate Athletic Association",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 6th, 2026"
+    ],
+    "registration_url": "www.coachtanqfootball.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Livingstone College",
+    "division": "D2",
+    "conference": "Central Intercollegiate Athletic Association",
+    "camp_types": [
+      "Lineman Camp",
+      "7on7",
+      "Prospect Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "June 6",
+      "June 30",
+      "July 8",
+      "July 22"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Mars Hill University",
+    "division": "D2",
+    "conference": "South Atlantic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 23, 2026"
+    ],
+    "registration_url": "marshillfootballcamps.totalcamps.com/shop/event",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Michigan Tech",
+    "division": "D2",
+    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Lineman Camp"
+    ],
+    "dates": [
+      "June 22, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Michigan Tech",
+    "division": "D2",
+    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Skills Camp"
+    ],
+    "dates": [
+      "June 23, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Midwestern State",
+    "division": "D2",
+    "conference": "Lone Star Conference",
+    "camp_types": [
+      "Satellite Camp",
+      "Elite Camp"
+    ],
+    "dates": [
+      "April 12th",
+      "April 19th",
+      "May 27th",
+      "May 28th",
+      "May 29th",
+      "July 9th",
+      "July 10th",
+      "July 11th",
+      "July 18th"
+    ],
+    "registration_url": "www.richrennersfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Minnesota Duluth",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Youth Camp",
+      "Skills Camp",
+      "Lineman Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "April 26",
+      "June 10",
+      "July 8",
+      "July 9-10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Minnesota Duluth",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference",
+    "camp_types": [
+      "Skills Camp"
+    ],
+    "dates": [
+      "June 10th",
+      "July 8th"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Minnesota State - Mankato",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Skills Camp",
+      "Youth Camp",
+      "Team Camp",
+      "7on7"
+    ],
+    "dates": [
+      "April 17, 2026",
+      "May 31, 2026",
+      "June 9, 2026",
+      "June 11, 2026",
+      "June 21-23, 2026",
+      "June 27, 2026",
+      "July 1, 2026",
+      "July 2, 2026"
+    ],
+    "registration_url": "maverickfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Minnesota State - Moorhead",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 26",
+      "July 10",
+      "July 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Minot State",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference",
+    "camp_types": [
+      "Lineman Camp",
+      "7on7",
+      "Elite Prospect Camp",
+      "Team Camp"
+    ],
+    "dates": [
+      "May 9th",
+      "June 6th",
+      "July 11th",
+      "June 9-11th"
+    ],
+    "registration_url": "minotstatefootballcamps.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Missouri S&T",
+    "division": "D2",
+    "conference": "Great Lakes Valley Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 9",
+      "July 17"
+    ],
+    "registration_url": "minerfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Missouri Western State",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association",
+    "camp_types": [
+      "Junior Day",
+      "Specialists Camp",
+      "Elite Camp",
+      "Prospect Camp",
+      "Youth Camp",
+      "Team Camp"
+    ],
+    "dates": [
+      "April 18",
+      "May 17",
+      "June 27",
+      "June 1",
+      "June 2",
+      "June 3",
+      "June 12-13",
+      "June 19-20"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Nebraska-Kearney",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 1st"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Nebraska-Kearney",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association",
+    "camp_types": [
+      "Prospect Camp",
+      "Team Camp"
+    ],
+    "dates": [],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "New Mexico Highlands",
+    "division": "D2",
+    "conference": "Lone Star Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 4th",
+      "June 5th",
+      "June 6th",
+      "June 7th",
+      "June 8th"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Newberry College",
+    "division": "D2",
+    "conference": "South Atlantic Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Lineman Camp"
+    ],
+    "dates": [
+      "June 17th",
+      "July 16th",
+      "June 16th",
+      "July 15th"
+    ],
+    "registration_url": "newberryfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northeastern State",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association",
+    "camp_types": [
+      "Youth Camp",
+      "Elite Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 3",
+      "June 5",
+      "June 6",
+      "June 11",
+      "June 12",
+      "June 13",
+      "June 17",
+      "June 18",
+      "June 19"
+    ],
+    "registration_url": "riverhawksfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northern State",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "March 22",
+      "June 27"
+    ],
+    "registration_url": "northernstatefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northwest Missouri State",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association",
+    "camp_types": [
+      "Prospect Camp",
+      "Team Camp"
+    ],
+    "dates": [
+      "June 21",
+      "July 19",
+      "June 14-15",
+      "July 20-21"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northwestern Oklahoma State",
+    "division": "D2",
+    "conference": "Great American Conference",
+    "camp_types": [
+      "Youth Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 8th",
+      "June 13th",
+      "July 31st"
+    ],
+    "registration_url": "www.nwosufootballcamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northwood University",
+    "division": "D2",
+    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 19",
+      "July 12",
+      "July 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Ouachita Baptist University",
+    "division": "D2",
+    "conference": "Great American Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Youth Camp",
+      "Specialists Camp",
+      "Team Camp",
+      "7on7",
+      "Lineman Camp"
+    ],
+    "dates": [
+      "May 22",
+      "May 28-29",
+      "June 2",
+      "June 4",
+      "June 5",
+      "July 13",
+      "July 24"
+    ],
+    "registration_url": "ouachitatigerfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "PennWest Clarion",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference (PSAC)",
+    "camp_types": [
+      "Elite Skills Camp",
+      "Elite Specialist Camp",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "May 9",
+      "May 9",
+      "May 16"
+    ],
+    "registration_url": "https://clarionfootballcamps.totalcamps.com/shop/EVENT",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "PennWest Edinboro",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference (PSAC)",
+    "camp_types": [
+      "One Day Camp",
+      "7on7"
+    ],
+    "dates": [
+      "May 15, 2026",
+      "May 22, 2026",
+      "May 29, 2026",
+      "July 11, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Pittsburg State",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "camp_types": [
+      "Mega Camp",
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 12",
+      "July 25"
+    ],
+    "registration_url": "https://www.tomanthonyfootballcamps.com/",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Saint Anselm",
+    "division": "D2",
+    "conference": "Northeast-10 Conference (NE10)",
+    "camp_types": [
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 2",
+      "May 3",
+      "May 8",
+      "May 17",
+      "July 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Shepherd",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference (PSAC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 22, 2026",
+      "July 29, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Shippensburg University",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference (PSAC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 28, 2026"
+    ],
+    "registration_url": "shipfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Shorter University",
+    "division": "D2",
+    "conference": "Gulf South Conference (GSC)",
+    "camp_types": [
+      "Mega Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 31",
+      "June 5",
+      "June 6",
+      "June 11",
+      "June 12",
+      "June 13",
+      "June 19",
+      "June 20"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Sioux Falls",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference (NSIC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 26",
+      "July 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Slippery Rock",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference (PSAC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 3",
+      "June 16"
+    ],
+    "registration_url": "https://therockfootballcamps.srucampsandprograms.com/",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Slippery Rock",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference (PSAC)",
+    "camp_types": [
+      "Big Man Camp"
+    ],
+    "dates": [
+      "June 23",
+      "June 25"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southeastern Oklahoma State",
+    "division": "D2",
+    "conference": "Great American Conference (GAC)",
+    "camp_types": [
+      "Youth Camp",
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 16, 2026",
+      "May 30, 2026",
+      "June 5, 2026",
+      "June 11, 2026",
+      "July 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southern Arkansas",
+    "division": "D2",
+    "conference": "Great American Conference (GAC)",
+    "camp_types": [
+      "Big Man Camp",
+      "Prospect Camp",
+      "Youth Camp",
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "June 4",
+      "June 5",
+      "June 8",
+      "July 6-10",
+      "July 7",
+      "July 9",
+      "July 11"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Southwest Baptist University",
+    "division": "D2",
+    "conference": "Great Lakes Valley Conference (GLVC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 30, 2026",
+      "July 11, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Thomas More",
+    "division": "D2",
+    "conference": "Great Midwest Athletic Conference (G-MAC)",
+    "camp_types": [
+      "One Day Camp"
+    ],
+    "dates": [
+      "May 29",
+      "June 19",
+      "July 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Tiffin University",
+    "division": "D2",
+    "conference": "Great Midwest Athletic Conference (G-MAC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Big Man Camp"
+    ],
+    "dates": [
+      "May 16, 2026",
+      "May 23, 2026",
+      "June 5, 2026",
+      "June 6, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Tuskegee",
+    "division": "D2",
+    "conference": "Southern Intercollegiate Athletic Conference (SIAC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 3, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Indianapolis",
+    "division": "D2",
+    "conference": "Great Lakes Valley Conference (GLVC)",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 13, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UNC Pembroke",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 26",
+      "June 27"
+    ],
+    "registration_url": "markhallfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UNC Pembroke",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "camp_types": [
+      "Satellite Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "April 25",
+      "April 26",
+      "May 6",
+      "May 8",
+      "May 9",
+      "May 15",
+      "May 26",
+      "May 27",
+      "May 28",
+      "May 29",
+      "May 30",
+      "June 26",
+      "June 27"
+    ],
+    "registration_url": "markhallfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "UVA Wise",
+    "division": "D2",
+    "conference": "South Atlantic Conference (SAC)",
+    "camp_types": [
+      "7on7",
+      "Lineman Camp",
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "July 14",
+      "July 15",
+      "July 16",
+      "July 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Upper Iowa",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference (NSIC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 16, 2026",
+      "July 17, 2026"
+    ],
+    "registration_url": "peacocksfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Virginia Union",
+    "division": "D2",
+    "conference": "Central Intercollegiate Athletic Association (CIAA)",
+    "camp_types": [
+      "Prospect Camp",
+      "Mega Prospect Camp",
+      "Exposure Camp"
+    ],
+    "dates": [
+      "March 21",
+      "May 16",
+      "June 13",
+      "June 26",
+      "July 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Walsh University",
+    "division": "D2",
+    "conference": "Great Midwest Athletic Conference (G-MAC)",
+    "camp_types": [
+      "One Day Camp"
+    ],
+    "dates": [
+      "May 29"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Washburn University",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 11, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wayne State College",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference (NSIC)",
+    "camp_types": [
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "May 30",
+      "June 27",
+      "July 18"
+    ],
+    "registration_url": "wscfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wayne State University",
+    "division": "D2",
+    "conference": "Great Lakes Intercollegiate Athletic Conference (GLIAC)",
+    "camp_types": [
+      "Showcase Camp"
+    ],
+    "dates": [
+      "May 31, 2026",
+      "June 1, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "West Chester",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference (PSAC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 16",
+      "June 17",
+      "July 29"
+    ],
+    "registration_url": "https://wcsummerfootballcamps.totalcamps.com/shop/EVENT",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "West Florida",
+    "division": "D2",
+    "conference": "Gulf South Conference (GSC)",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialists Camp",
+      "Lineman Camp"
+    ],
+    "dates": [
+      "May 29",
+      "May 30",
+      "June 4",
+      "June 11",
+      "June 12"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "West Liberty",
+    "division": "D2",
+    "conference": "Mountain East Conference (MEC)",
+    "camp_types": [
+      "One Day Camp"
+    ],
+    "dates": [
+      "May 21, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "West Liberty",
+    "division": "D2",
+    "conference": "Mountain East Conference (MEC)",
+    "camp_types": [
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 26, 2026",
+      "May 27, 2026",
+      "May 28, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "West Texas A&M",
+    "division": "D2",
+    "conference": "Lone Star Conference (LSC)",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 29",
+      "June 10"
+    ],
+    "registration_url": "gobuffsgo.com/camps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "West Virginia State",
+    "division": "D2",
+    "conference": "Mountain East Conference (MEC)",
+    "camp_types": [
+      "Elite Camp"
+    ],
+    "dates": [
+      "May 20",
+      "June 12"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Western Colorado",
+    "division": "D2",
+    "conference": "Rocky Mountain Athletic Conference (RMAC)",
+    "camp_types": [
+      "Elite Camp"
+    ],
+    "dates": [
+      "July 18, 2026"
+    ],
+    "registration_url": "gomountaineers.com/fbcamps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Western New Mexico",
+    "division": "D2",
+    "conference": "Lone Star Conference (LSC)",
+    "camp_types": [
+      "Showcase Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 23-25",
+      "May 28-29",
+      "June 3",
+      "June 6",
+      "June 7"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "William Jewell College",
+    "division": "D2",
+    "conference": "Great Lakes Valley Conference (GLVC)",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 20, 2026"
+    ],
+    "registration_url": "jewellcardinals.com/camps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Winston-Salem State",
+    "division": "D2",
+    "conference": "Central Intercollegiate Athletic Association (CIAA)",
+    "camp_types": [
+      "One Day Camp"
+    ],
+    "dates": [
+      "June 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Adrian College",
+    "division": "D3",
+    "conference": "MIAA",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 16",
+      "June 11",
+      "July 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Adrian College",
+    "division": "D3",
+    "conference": "MIAA",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 8"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Albright College",
+    "division": "D3",
+    "conference": "MAC Commonwealth",
+    "camp_types": [
+      "Prospect Day"
+    ],
+    "dates": [
+      "May 30"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Alfred State College",
+    "division": "D3",
+    "conference": "AMCC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 30"
+    ],
+    "registration_url": "www.alfredstatefootballcamp.com/prospect-camp-gtw",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Alvernia University",
+    "division": "D3",
+    "conference": "MAC Commonwealth",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 26",
+      "June 2",
+      "June 9"
+    ],
+    "registration_url": "www.auwolves.com/sports/football",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Amherst College",
+    "division": "D3",
+    "conference": "NESCAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 7",
+      "July 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Anderson University",
+    "division": "D3",
+    "conference": "Heartland Collegiate Athletic Conference",
+    "camp_types": [
+      "Lineman Camp",
+      "Skills Camp"
+    ],
+    "dates": [
+      "June 4"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Augsburg University",
+    "division": "D3",
+    "conference": "MIAC",
+    "camp_types": [
+      "Skills Camp",
+      "Lineman Camp"
+    ],
+    "dates": [
+      "March 28, 2026"
+    ],
+    "registration_url": "https://www.augsburgfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Augustana College",
+    "division": "D3",
+    "conference": "CCIW",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 25",
+      "June 7"
+    ],
+    "registration_url": "goaugiecamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Bates College",
+    "division": "D3",
+    "conference": "NESCAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 24",
+      "July 19"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Berry College",
+    "division": "D3",
+    "conference": "SAA",
+    "camp_types": [
+      "Elite Camp"
+    ],
+    "dates": [
+      "June 4",
+      "June 5"
+    ],
+    "registration_url": "https://www.berryfootballcamps.com/",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Bluffton University",
+    "division": "D3",
+    "conference": "HCAC",
+    "camp_types": [
+      "One Day Camp"
+    ],
+    "dates": [
+      "May 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Bluffton University",
+    "division": "D3",
+    "conference": "HCAC",
+    "camp_types": [
+      "One Day Camp"
+    ],
+    "dates": [
+      "May 25, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Bowdoin College",
+    "division": "D3",
+    "conference": "NESCAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 3",
+      "July 15"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Calvin University",
+    "division": "D3",
+    "conference": "MIAA",
+    "camp_types": [
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "June 12",
+      "June 20"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Capital University",
+    "division": "D3",
+    "conference": "OAC",
+    "camp_types": [
+      "Elite Showcase"
+    ],
+    "dates": [
+      "June 15"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Carroll University",
+    "division": "D3",
+    "conference": "CCIW",
+    "camp_types": [
+      "Prospect Camp",
+      "Lineman Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 17",
+      "July 10",
+      "July 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Carthage College",
+    "division": "D3",
+    "conference": "CCIW",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 12"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Case Western Reserve University",
+    "division": "D3",
+    "conference": "PAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Claremont-Mudd-Scripps",
+    "division": "D3",
+    "conference": "SCIAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 22"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Crown College",
+    "division": "D3",
+    "conference": "UMAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 27"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Crown College",
+    "division": "D3",
+    "conference": "UMAC",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "May 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Denison University",
+    "division": "D3",
+    "conference": "NCAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 30",
+      "July 11"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Dubuque",
+    "division": "D3",
+    "conference": "American Rivers Conference",
+    "camp_types": [
+      "Mega Camp",
+      "Skills Camp"
+    ],
+    "dates": [
+      "June 4",
+      "June 11",
+      "June 20",
+      "July 16"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "East Texas Baptist University",
+    "division": "D3",
+    "conference": "ASC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 4"
+    ],
+    "registration_url": "football.etbusportscamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Fairleigh Dickinson University-Florham",
+    "division": "D3",
+    "conference": "MAC Freedom",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 1, 2026"
+    ],
+    "registration_url": "avcsportscamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Franklin & Marshall College",
+    "division": "D3",
+    "conference": "Centennial Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "April 26, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Hamilton College",
+    "division": "D3",
+    "conference": "NESCAC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Hardin-Simmons University",
+    "division": "D3",
+    "conference": "ASC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [],
+    "registration_url": "hsufootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Hope College",
+    "division": "D3",
+    "conference": "MIAA",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 17",
+      "July 8",
+      "July 13"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Howard Payne University",
+    "division": "D3",
+    "conference": "ASC",
+    "camp_types": [
+      "Prospect Camp",
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 11",
+      "June 12",
+      "June 15",
+      "June 17",
+      "June 18",
+      "June 22",
+      "June 24"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Illinois College",
+    "division": "D3",
+    "conference": "Midwest Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 8"
+    ],
+    "registration_url": "blueboyfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "John Carroll University",
+    "division": "D3",
+    "conference": "Ohio Athletic Conference",
+    "camp_types": [
+      "Showcase"
+    ],
+    "dates": [
+      "June 2"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "King's College",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 30"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of La Verne",
+    "division": "D3",
+    "conference": "Southern California Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "April 11"
+    ],
+    "registration_url": null,
+    "twitter_handle": "@ULV_Football"
+  },
+  {
+    "school_name": "Lake Forest College",
+    "division": "D3",
+    "conference": "Midwest Conference",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "May 16, 2026"
+    ],
+    "registration_url": "lakeforestfootballcamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lebanon Valley College",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference",
+    "camp_types": [
+      "Showcase",
+      "Big Skills Camp",
+      "High School Team Camp",
+      "Youth Football Clinic"
+    ],
+    "dates": [
+      "May 16",
+      "June 13",
+      "July 11",
+      "July 18",
+      "August 1"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lewis & Clark College",
+    "division": "D3",
+    "conference": "Northwest Conference",
+    "camp_types": [
+      "Showcase"
+    ],
+    "dates": [
+      "June 15"
+    ],
+    "registration_url": "www.lewisandclarkfootballskillcamp.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lyon College",
+    "division": "D3",
+    "conference": "American Southwest Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Passing Academy"
+    ],
+    "dates": [
+      "April 26",
+      "May 3",
+      "May 24",
+      "May 30"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "MIT",
+    "division": "D3",
+    "conference": "New England Women's and Men's Athletic Conference",
+    "camp_types": [
+      "Football Clinic"
+    ],
+    "dates": [
+      "June 27",
+      "July 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Macalester College",
+    "division": "D3",
+    "conference": "Midwest Conference",
+    "camp_types": [
+      "Academic Camp"
+    ],
+    "dates": [
+      "June 10"
+    ],
+    "registration_url": "macfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Mary Hardin-Baylor",
+    "division": "D3",
+    "conference": "American Southwest Conference",
+    "camp_types": [
+      "Elite Camp"
+    ],
+    "dates": [
+      "June 1, 2026"
+    ],
+    "registration_url": "umhbfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Maryville College",
+    "division": "D3",
+    "conference": "USA South Athletic Conference",
+    "camp_types": [
+      "Passing Camp"
+    ],
+    "dates": [
+      "May 23"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Maryville College",
+    "division": "D3",
+    "conference": "USA South Athletic Conference",
+    "camp_types": [
+      "Big Man Camp"
+    ],
+    "dates": [
+      "May 30"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Massachusetts Maritime Academy",
+    "division": "D3",
+    "conference": "Massachusetts State Collegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 24",
+      "June 26"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Middlebury College",
+    "division": "D3",
+    "conference": "New England Small College Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Millsaps College",
+    "division": "D3",
+    "conference": "Southern Athletic Association",
+    "camp_types": [
+      "Friday Night Lights",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "April 10",
+      "April 11"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Minnesota Morris",
+    "division": "D3",
+    "conference": "Upper Midwest Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 11"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Mount St. Joseph University",
+    "division": "D3",
+    "conference": "Heartland Collegiate Athletic Conference",
+    "camp_types": [
+      "Showcase"
+    ],
+    "dates": [
+      "May 30, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Muhlenberg College",
+    "division": "D3",
+    "conference": "Centennial Conference",
+    "camp_types": [
+      "Friday Night Lights"
+    ],
+    "dates": [
+      "May 22"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Muskingum University",
+    "division": "D3",
+    "conference": "Ohio Athletic Conference",
+    "camp_types": [
+      "Friday Night Lights",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 15",
+      "May 22",
+      "May 23"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Nebraska Wesleyan University",
+    "division": "D3",
+    "conference": "American Rivers Conference",
+    "camp_types": [
+      "Youth Camp",
+      "Elite Camp",
+      "Specialists Camp",
+      "Friday Night Lights"
+    ],
+    "dates": [
+      "May 1-2",
+      "June 20",
+      "June 26"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of New England",
+    "division": "D3",
+    "conference": "Commonwealth Coast Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "North Central College",
+    "division": "D3",
+    "conference": "College Conference of Illinois and Wisconsin",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialists Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 2",
+      "June 3"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Norwich University",
+    "division": "D3",
+    "conference": "New England Women's and Men's Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 17, 2026"
+    ],
+    "registration_url": "vermontfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Olivet College",
+    "division": "D3",
+    "conference": "Michigan Intercollegiate Athletic Association",
+    "camp_types": [
+      "Elite One Day Camp"
+    ],
+    "dates": [
+      "June 16"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Otterbein University",
+    "division": "D3",
+    "conference": "Ohio Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 21",
+      "June 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Pacific Lutheran University",
+    "division": "D3",
+    "conference": "Northwest Conference",
+    "camp_types": [
+      "Padded Showcase"
+    ],
+    "dates": [
+      "June 13, 2026"
+    ],
+    "registration_url": "golutes.com/fbcamp",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Puget Sound",
+    "division": "D3",
+    "conference": "Northwest Conference",
+    "camp_types": [
+      "Showcase"
+    ],
+    "dates": [
+      "June 7, 2026"
+    ],
+    "registration_url": "www.averyshowcases.com",
+    "twitter_handle": "@averyshowcases"
+  },
+  {
+    "school_name": "University of Redlands",
+    "division": "D3",
+    "conference": "Southern California Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [],
+    "registration_url": "www.iefootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Roanoke College",
+    "division": "D3",
+    "conference": "Old Dominion Athletic Conference",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "May 16, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Rochester",
+    "division": "D3",
+    "conference": "Liberty League",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 14, 2026"
+    ],
+    "registration_url": "rochesterfootball.totalcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Rose-Hulman Institute of Technology",
+    "division": "D3",
+    "conference": "Heartland Collegiate Athletic Conference",
+    "camp_types": [
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "July 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Saint Vincent College",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference",
+    "camp_types": [
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "May 15, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Schreiner University",
+    "division": "D3",
+    "conference": "Southern Collegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "April 11, 2026",
+      "June 6, 2026",
+      "July 11, 2026",
+      "July 25, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Schreiner University",
+    "division": "D3",
+    "conference": "Southern Collegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "April 11, 2026"
+    ],
+    "registration_url": "sufootball.ryzerevents.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Simpson University",
+    "division": "D3",
+    "conference": "Independent",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 16"
+    ],
+    "registration_url": "simpsonredhawks.com/prospectcamp",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Springfield College",
+    "division": "D3",
+    "conference": "New England Women's and Men's Athletic Conference",
+    "camp_types": [
+      "Showcase Camp"
+    ],
+    "dates": [
+      "May 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Springfield College",
+    "division": "D3",
+    "conference": "New England Women's and Men's Athletic Conference",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 12, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Texas Lutheran University",
+    "division": "D3",
+    "conference": "American Southwest Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Thiel College",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 17, 2026",
+      "July 25, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Trinity University",
+    "division": "D3",
+    "conference": "Southern Athletic Association",
+    "camp_types": [
+      "Elite Prospect Camp",
+      "Specialists Camp",
+      "Lineman Camp",
+      "Junior Day",
+      "Skills Camp"
+    ],
+    "dates": [
+      "June 1",
+      "June 2"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Chicago",
+    "division": "D3",
+    "conference": "University Athletic Association",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": "@UChicagoFB"
+  },
+  {
+    "school_name": "Union College",
+    "division": "D3",
+    "conference": "Liberty League",
+    "camp_types": [
+      "One Day Camp"
+    ],
+    "dates": [
+      "June 7"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Ursinus College",
+    "division": "D3",
+    "conference": "Centennial Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 27",
+      "June 3",
+      "June 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Utica University",
+    "division": "D3",
+    "conference": "Empire 8",
+    "camp_types": [
+      "Lineman Camp",
+      "Youth Camp",
+      "7on7",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 2",
+      "June 8-9",
+      "June 17",
+      "July 13-16",
+      "July 13-14",
+      "July 26",
+      "July 27-29",
+      "July 31"
+    ],
+    "registration_url": "www.tntfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "WPI",
+    "division": "D3",
+    "conference": "New England Women's and Men's Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 7",
+      "July 26"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Washington University in St. Louis",
+    "division": "D3",
+    "conference": "University Athletic Association",
+    "camp_types": [
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "June 21",
+      "July 26"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Washington & Jefferson College",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference",
+    "camp_types": [
+      "7on7"
+    ],
+    "dates": [
+      "June 16-17, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Washington & Lee University",
+    "division": "D3",
+    "conference": "Old Dominion Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Waynesburg University",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 30"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wesleyan University",
+    "division": "D3",
+    "conference": "New England Small College Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "April 12",
+      "June 29",
+      "June 30"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wheaton College (IL)",
+    "division": "D3",
+    "conference": "College Conference of Illinois and Wisconsin",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Whittier College",
+    "division": "D3",
+    "conference": "Southern California Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "May 31"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Wilkes University",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 11"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Williams College",
+    "division": "D3",
+    "conference": "New England Small College Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 18, 2026"
+    ],
+    "registration_url": "purpleandgoldfootballcamps.com",
+    "twitter_handle": "@williamsfb4"
+  },
+  {
+    "school_name": "Wisconsin Lutheran College",
+    "division": "D3",
+    "conference": "Northern Athletics Collegiate Conference",
+    "camp_types": [
+      "Showcase Camp"
+    ],
+    "dates": [
+      "April 30"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Wisconsin-Eau Claire",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Mega Camp",
+      "Lineman Camp"
+    ],
+    "dates": [
+      "June 9"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Wisconsin-Oshkosh",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 7"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Wisconsin-Oshkosh",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference",
+    "camp_types": [
+      "7on7",
+      "Youth Camp",
+      "Lineman Camp"
+    ],
+    "dates": [
+      "January 18",
+      "January 25"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Wisconsin-Platteville",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 11, 2026",
+      "June 12, 2026",
+      "June 13, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Wisconsin-River Falls",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Wisconsin-Stevens Point",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Wisconsin-Stout",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 17",
+      "June 25"
+    ],
+    "registration_url": "football.uwstoutsportscamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Wisconsin-Whitewater",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference",
+    "camp_types": [
+      "Mega Camp",
+      "Lineman Camp"
+    ],
+    "dates": [
+      "June 11"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "College of Wooster",
+    "division": "D3",
+    "conference": "North Coast Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 20",
+      "July 18"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Ave Maria University",
+    "division": "NAIA",
+    "conference": "Sun Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 13, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Baker University",
+    "division": "NAIA",
+    "conference": "Heart of America Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 5, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Benedictine College",
+    "division": "NAIA",
+    "conference": "Heart of America Athletic Conference",
+    "camp_types": [
+      "Individual Football Camp"
+    ],
+    "dates": [
+      "May 17, 2026"
+    ],
+    "registration_url": "Benedictine.edu/FootballCamps",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Campbellsville University",
+    "division": "NAIA",
+    "conference": "Mid-South Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 12"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Carroll College",
+    "division": "NAIA",
+    "conference": "Frontier Conference",
+    "camp_types": [
+      "Youth Camp",
+      "Big Man Camp",
+      "Prospect Day"
+    ],
+    "dates": [
+      "June 10-12, 2026",
+      "June 19-20, 2026",
+      "June 18, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Dakota State University",
+    "division": "NAIA",
+    "conference": "North Star Athletic Association",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 22, 2026",
+      "July 9, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Georgetown College",
+    "division": "NAIA",
+    "conference": "Mid-South Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 23, 2026",
+      "June 14, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Graceland University",
+    "division": "NAIA",
+    "conference": "Heart of America Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 20"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Indiana Wesleyan University",
+    "division": "NAIA",
+    "conference": "Crossroads League",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 4, 2026",
+      "July 7, 2026",
+      "July 18, 2026",
+      "July 18, 2026"
+    ],
+    "registration_url": "iwufootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Jamestown",
+    "division": "NAIA",
+    "conference": "Great Plains Athletic Conference",
+    "camp_types": [
+      "Individual Camp"
+    ],
+    "dates": [
+      "July 16",
+      "July 17"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Keiser University",
+    "division": "NAIA",
+    "conference": "Sun Conference",
+    "camp_types": [
+      "Friday Night Lights Prospect Camp",
+      "Youth Camp",
+      "WR & QB Academy",
+      "DB Ballhawk Showcase",
+      "RB & LB Showcase",
+      "OL/DL Camp",
+      "Team Camp"
+    ],
+    "dates": [
+      "May 29, 2026",
+      "May 30, 2026",
+      "June 6, 2026",
+      "June 6, 2026",
+      "June 6, 2026",
+      "June 6, 2026",
+      "June 11-13, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Lindsey Wilson College",
+    "division": "NAIA",
+    "conference": "Mid-South Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 30, 2026",
+      "June 20, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Marian University",
+    "division": "NAIA",
+    "conference": "Crossroads League",
+    "camp_types": [
+      "Youth Football Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 12",
+      "June 19"
+    ],
+    "registration_url": "www.Marianfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Missouri Baptist University",
+    "division": "NAIA",
+    "conference": "American Midwest Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 20",
+      "June 27"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Missouri Valley College",
+    "division": "NAIA",
+    "conference": "Heart of America Athletic Conference",
+    "camp_types": [
+      "Big Man Camp"
+    ],
+    "dates": [
+      "May 30"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Montana Tech",
+    "division": "NAIA",
+    "conference": "Frontier Conference",
+    "camp_types": [
+      "Youth Camp",
+      "Small School Team Camp",
+      "Big School Team Camp",
+      "Elite Camp",
+      "7on7"
+    ],
+    "dates": [
+      "June 8-9",
+      "June 12-14",
+      "June 16-18",
+      "June 19",
+      "July 13"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Montana Western",
+    "division": "NAIA",
+    "conference": "Frontier Conference",
+    "camp_types": [
+      "Individual Camp"
+    ],
+    "dates": [
+      "June 8",
+      "June 29",
+      "July 20"
+    ],
+    "registration_url": "https://www.umwbulldogsfootballcamps.com/bigs-and-skills-individual-camps.cfm",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Northwestern College",
+    "division": "NAIA",
+    "conference": "Great Plains Athletic Conference",
+    "camp_types": [
+      "Football Camp"
+    ],
+    "dates": [
+      "April 25, 2026",
+      "June 2, 2026",
+      "June 20, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Oklahoma Panhandle State University",
+    "division": "NAIA",
+    "conference": "Sooner Athletic Conference",
+    "camp_types": [
+      "Satellite Camp"
+    ],
+    "dates": [
+      "May 23",
+      "May 29",
+      "May 30",
+      "July 8",
+      "July 9",
+      "July 10"
+    ],
+    "registration_url": "www.opsuaggies.com/sports/football",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Olivet Nazarene University",
+    "division": "NAIA",
+    "conference": "Chicagoland Collegiate Athletic Conference",
+    "camp_types": [
+      "Mega Camp"
+    ],
+    "dates": [
+      "June 10"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Reinhardt University",
+    "division": "NAIA",
+    "conference": "Appalachian Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 11",
+      "June 12",
+      "June 13",
+      "June 14",
+      "June 18",
+      "June 20",
+      "June 20",
+      "June 25",
+      "July 9"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Rio Grande",
+    "division": "NAIA",
+    "conference": "River States Conference",
+    "camp_types": [
+      "7on7",
+      "Youth Camp",
+      "Junior High Camp",
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 13, 2026",
+      "July 11, 2026",
+      "June 9, 2026",
+      "June 16, 2026",
+      "June 11, 2026",
+      "June 16, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Simpson University",
+    "division": "NAIA",
+    "conference": "Golden State Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 16"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "St. Thomas University",
+    "division": "NAIA",
+    "conference": "Sun Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 14"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "St. Thomas University",
+    "division": "NAIA",
+    "conference": "Sun Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 21"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Texas Wesleyan University",
+    "division": "NAIA",
+    "conference": "Sooner Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "March 1"
+    ],
+    "registration_url": "ramsfootballcamps.com",
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Texas Wesleyan University",
+    "division": "NAIA",
+    "conference": "Sooner Athletic Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 4",
+      "July 25"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Texas Wesleyan University",
+    "division": "NAIA",
+    "conference": "Sooner Athletic Conference",
+    "camp_types": [
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 19"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Texas Wesleyan University",
+    "division": "NAIA",
+    "conference": "Sooner Athletic Conference",
+    "camp_types": [
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 20"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Texas Wesleyan University",
+    "division": "NAIA",
+    "conference": "Sooner Athletic Conference",
+    "camp_types": [
+      "Satellite Camp"
+    ],
+    "dates": [
+      "June 21"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "University of Pikeville",
+    "division": "NAIA",
+    "conference": "Mid-South Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Women's Adult Bootcamp",
+      "Girl's Bootcamp",
+      "Speed Agility Camp",
+      "Specialist Camp",
+      "Middle School Team 7-on-7",
+      "High School Team 7-on-7",
+      "Youth Football Camp",
+      "OL/DL Camp"
+    ],
+    "dates": [
+      "May 16",
+      "May 25-July 7",
+      "May 25-July 7",
+      "May 25-July 7",
+      "June 19",
+      "June 17",
+      "July 18",
+      "July 20-July 25",
+      "July 25"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Union Commonwealth University",
+    "division": "NAIA",
+    "conference": "Mid-South Conference",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "May 30, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Valley City State University",
+    "division": "NAIA",
+    "conference": "North Star Athletic Association",
+    "camp_types": [
+      "Team Camp",
+      "Showcase Camp",
+      "Line of Scrimmage Camp"
+    ],
+    "dates": [
+      "June 5-7, 2026",
+      "June 9-11, 2026",
+      "July 7, 2026",
+      "July 8-9, 2026"
+    ],
+    "registration_url": null,
+    "twitter_handle": null
+  },
+  {
+    "school_name": "Warner University",
+    "division": "NAIA",
+    "conference": "Sun Conference",
+    "camp_types": [
+      "Prospect Camp",
+      "Wide Receiver Academy",
+      "Specialist Showcase"
+    ],
+    "dates": [
+      "February 14",
+      "April 18",
+      "May 16",
+      "June 20",
+      "July 11"
+    ],
+    "registration_url": "https://www.dialleoburkssrfootballcamps.com/camps.cfm",
+    "twitter_handle": null
+  }
+]
