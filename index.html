@@ -3,17 +3,22 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>College Football Camp Hub</title>
+<title>REC101 Camp Hub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Roboto+Condensed:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 :root{--fbs:#e63946;--fcs:#457b9d;--d2:#2a9d8f;--d3:#e9c46a;--naia:#8338ec;--bg:#0D0D0D;--card:#1E1A16;--text:#F7F2E8;--muted:#a89a86;--border:#3D2810;--accent:#C4620A;--radius:12px;--shadow:0 1px 3px rgba(0,0,0,.3),0 1px 2px rgba(0,0,0,.2)}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.5}
+body{font-family:'Roboto Condensed',sans-serif;background:var(--bg);color:var(--text);line-height:1.5}
+h1,.school-name,.popup-school,.badge,.view-toggle button,.card-header{font-family:'Oswald',sans-serif}
 header{background:#141110;border-bottom:1px solid var(--border);padding:16px 24px;position:sticky;top:0;z-index:1000}
 .header-inner{max-width:1400px;margin:0 auto;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
-h1{font-size:1.25rem;font-weight:700;white-space:nowrap}
-h1{color:var(--accent)}
-h1 span{font-weight:400;color:var(--muted)}
+h1{font-size:1.4rem;font-weight:700;white-space:nowrap;color:var(--accent);text-transform:uppercase;letter-spacing:1px}
+h1 span{font-weight:400;color:var(--muted);text-transform:none;letter-spacing:0}
+.tagline{font-size:.78rem;color:var(--muted);font-style:italic;margin-top:2px}
+.mission{font-size:.75rem;color:var(--muted);margin-top:4px}
 .search-box{flex:1;min-width:200px;position:relative}
 .search-box input{width:100%;padding:10px 14px 10px 38px;border:1px solid var(--border);border-radius:8px;font-size:.9rem;background:var(--card);color:var(--text);outline:none;transition:border .2s}
 .search-box input::placeholder{color:var(--muted)}
@@ -30,8 +35,8 @@ h1 span{font-weight:400;color:var(--muted)}
 #map-container{max-width:1400px;margin:0 auto;padding:0 24px}
 #map{height:520px;border-radius:var(--radius);border:1px solid var(--border);margin-top:8px}
 .map-legend{display:flex;gap:16px;padding:10px 0;flex-wrap:wrap;justify-content:center}
-.legend-item{display:flex;align-items:center;gap:6px;font-size:.8rem;color:var(--muted)}
-.legend-dot{width:12px;height:12px;border-radius:50%;border:2px solid var(--card);box-shadow:0 0 0 1px var(--border)}
+.legend-item{display:flex;align-items:center;gap:6px;font-size:.85rem;color:var(--text);font-family:'Oswald',sans-serif;text-transform:uppercase;letter-spacing:.5px}
+.legend-dot{width:16px;height:16px;border-radius:50%;border:2px solid var(--card);box-shadow:0 0 0 1px var(--border)}
 #grid-container{max-width:1400px;margin:0 auto;padding:16px 24px;display:none}
 .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px}
 .camp-card{background:var(--card);border-radius:var(--radius);border:1px solid var(--border);padding:20px;box-shadow:var(--shadow);border-left:4px solid var(--muted);transition:transform .15s,box-shadow .15s}
@@ -57,7 +62,7 @@ h1 span{font-weight:400;color:var(--muted)}
 .no-results{text-align:center;padding:60px 20px;color:var(--muted);font-size:1.1rem;grid-column:1/-1}
 .leaflet-popup-content-wrapper{border-radius:var(--radius)!important;box-shadow:var(--shadow)!important;background:var(--card)!important;color:var(--text)!important}
 .leaflet-popup-tip{background:var(--card)!important}
-.leaflet-popup-content{margin:14px 16px!important;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif!important;min-width:220px}
+.leaflet-popup-content{margin:14px 16px!important;font-family:'Roboto Condensed',sans-serif!important;min-width:220px}
 .leaflet-popup-close-button{color:var(--muted)!important}
 .leaflet-popup-close-button:hover{color:var(--text)!important}
 .popup-school{font-size:1rem;font-weight:600;margin-bottom:4px;color:var(--accent)}
@@ -70,8 +75,8 @@ h1 span{font-weight:400;color:var(--muted)}
 </head>
 <body>
 <header><div class="header-inner">
-<h1>Camp Hub <span>College Football</span></h1>
-<div class="search-box"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg><input type="text" id="search" placeholder="Search schools, conferences..."></div>
+<div><h1>REC101 Camp Hub</h1><div class="tagline">Where Education Takes the Field.</div></div>
+<div class="search-box"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg><input type="text" id="search" placeholder="Search schools, conferences..."><div class="mission">The only free camp database built for families, not recruiters.</div></div>
 <div class="view-toggle"><button id="btn-map" class="active" onclick="setView('map')">Map</button><button id="btn-grid" onclick="setView('grid')">Grid</button></div>
 </div></header>
 <div class="filters-bar">
