@@ -9380,7 +9380,7 @@ function escHtml(s) {
 
 let map, markerLayer;
 function initMap() {
-  map = L.map('map', {scrollWheelZoom: true}).setView([39.8, -98.5], 4);
+  map = L.map('map', {scrollWheelZoom: true}).setView([39.5, -96], 5);
   L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     attribution: '\u00a9 OSM \u00a9 CARTO', maxZoom: 18
   }).addTo(map);
@@ -9484,6 +9484,8 @@ document.getElementById('search').addEventListener('input', () => {
 populateFilters();
 initMap();
 updateMap();
+setTimeout(() => { map.invalidateSize(); }, 100);
+window.addEventListener('load', () => { map.invalidateSize(); });
 
 </script>
 </body>
