@@ -247,7 +247,7 @@
   "Cincinnati": {
     "city": "Cincinnati",
     "mascot": "Bearcats",
-    "primary_color": null,
+    "primary_color": "#717073",
     "secondary_color": "#717073",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png"
   },
@@ -268,7 +268,7 @@
   "Kennesaw State": {
     "city": "Atlanta",
     "mascot": "Owls",
-    "primary_color": null,
+    "primary_color": "#fdbb30",
     "secondary_color": "#fdbb30",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/338.png"
   },
@@ -429,7 +429,7 @@
   "Lamar": {
     "city": "Buna",
     "mascot": "Cardinals",
-    "primary_color": null,
+    "primary_color": "#ebebeb",
     "secondary_color": "#ebebeb",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2320.png"
   },
@@ -611,7 +611,7 @@
   "Iowa": {
     "city": "Iowa City",
     "mascot": "Hawkeyes",
-    "primary_color": null,
+    "primary_color": "#ffe100",
     "secondary_color": "#ffe100",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png"
   },
@@ -632,7 +632,7 @@
   "UNLV": {
     "city": "Las Vegas",
     "mascot": "Rebels",
-    "primary_color": null,
+    "primary_color": "#c2c4c6",
     "secondary_color": "#c2c4c6",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png"
   },
@@ -996,7 +996,7 @@
   "Appalachian State": {
     "city": "Boone",
     "mascot": "Mountaineers",
-    "primary_color": null,
+    "primary_color": "#ffcd00",
     "secondary_color": "#ffcd00",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png"
   },
@@ -1283,7 +1283,7 @@
   "Vanderbilt": {
     "city": "Nashville",
     "mascot": "Commodores",
-    "primary_color": null,
+    "primary_color": "#231f20",
     "secondary_color": "#231f20",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/238.png"
   },
@@ -1297,7 +1297,7 @@
   "Eastern Illinois": {
     "city": "Township of Charleston",
     "mascot": "Panthers",
-    "primary_color": null,
+    "primary_color": "#bebab9",
     "secondary_color": "#bebab9",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2197.png"
   },
@@ -1507,7 +1507,7 @@
   "UIW": {
     "city": "San Antonio",
     "mascot": "Cardinals",
-    "primary_color": null,
+    "primary_color": "#080808",
     "secondary_color": "#080808",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2916.png"
   },
@@ -1689,7 +1689,7 @@
   "New Mexico": {
     "city": "Albuquerque",
     "mascot": "Lobos",
-    "primary_color": null,
+    "primary_color": "#231f20",
     "secondary_color": "#231f20",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/167.png"
   },
@@ -1829,14 +1829,14 @@
   "Bryant": {
     "city": "North Smithfield",
     "mascot": "Bulldogs",
-    "primary_color": null,
+    "primary_color": "#9f8343",
     "secondary_color": "#9f8343",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2803.png"
   },
   "Davidson College": {
     "city": "Davidson",
     "mascot": "Wildcats",
-    "primary_color": null,
+    "primary_color": "#e51837",
     "secondary_color": "#e51837",
     "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2166.png"
   },
