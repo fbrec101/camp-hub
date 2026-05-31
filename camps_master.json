@@ -1658,7 +1658,7 @@
   {
     "school_name": "Drake",
     "division": "FCS",
-    "conference": "Pioneer Football League",
+    "conference": "Pioneer",
     "state": "IA",
     "camp_types": [
       "Football Camp"
@@ -1974,7 +1974,7 @@
   {
     "school_name": "Central Arkansas",
     "division": "FCS",
-    "conference": "United Athletic Conference",
+    "conference": "United Athletic",
     "state": "AR",
     "camp_types": [
       "All Arkansas Camp",
@@ -2684,7 +2684,7 @@
     "school_name": "Northwestern State",
     "division": "FCS",
     "conference": "Southland",
-    "state": "IL",
+    "state": "LA",
     "camp_types": [
       "Prospect Camp"
     ],
@@ -3285,7 +3285,7 @@
   {
     "school_name": "Central Oklahoma",
     "division": "D2",
-    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "conference": "MIAA",
     "state": "OK",
     "camp_types": [
       "Padded Camp",
@@ -3845,7 +3845,7 @@
   {
     "school_name": "Monmouth",
     "division": "FCS",
-    "conference": "Colonial Athletic Association",
+    "conference": "CAA",
     "state": "NJ",
     "camp_types": [
       "Prospect Camp",
@@ -3888,7 +3888,7 @@
     "school_name": "South Dakota",
     "division": "FCS",
     "conference": "Missouri Valley",
-    "state": "NE",
+    "state": "SD",
     "camp_types": [
       "Camp"
     ],
@@ -4014,7 +4014,7 @@
   {
     "school_name": "University of Puget Sound",
     "division": "D3",
-    "conference": "Northwest Conference",
+    "conference": "NWC",
     "state": "WA",
     "camp_types": [
       "Showcase"
@@ -4146,10 +4146,37 @@
     "status": "upcoming"
   },
   {
+    "school_name": "Northern Colorado",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "state": "CO",
+    "camp_types": [
+      "7on7",
+      "Mega Camp",
+      "Team Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "June 8, 2026",
+      "June 9, 2026",
+      "June 18, 2026",
+      "June 20, 2026",
+      "June 21, 2026",
+      "June 22, 2026",
+      "July 19, 2026",
+      "July 20, 2026",
+      "July 21, 2026"
+    ],
+    "date_sort": "2026-06-08",
+    "registration_url": "https://www.northerncoloradofootballcamps.com",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "South Dakota State",
     "division": "FCS",
     "conference": "Missouri Valley",
-    "state": "MN",
+    "state": "SD",
     "camp_types": [
       "Prospect Camp"
     ],
@@ -4357,7 +4384,7 @@
   {
     "school_name": "Dayton",
     "division": "FCS",
-    "conference": "Pioneer Football League",
+    "conference": "Pioneer",
     "state": "OH",
     "camp_types": [
       "Kicking/Specialists Camp",
@@ -4484,7 +4511,7 @@
   {
     "school_name": "Morehead State",
     "division": "FCS",
-    "conference": "Pioneer League",
+    "conference": "Pioneer",
     "state": "KY",
     "camp_types": [
       "Prospect Camp"
@@ -4717,7 +4744,7 @@
     "school_name": "North Dakota",
     "division": "FCS",
     "conference": "Missouri Valley",
-    "state": "MN",
+    "state": "ND",
     "camp_types": [
       "Big Man Camp",
       "Skill Camp"
@@ -4755,7 +4782,7 @@
   {
     "school_name": "Fort Hays State",
     "division": "D2",
-    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "conference": "MIAA",
     "state": "KS",
     "camp_types": [
       "7on7",
@@ -4776,7 +4803,7 @@
   {
     "school_name": "Washburn University",
     "division": "D2",
-    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "conference": "MIAA",
     "state": "KS",
     "camp_types": [
       "Prospect Camp"
@@ -4890,9 +4917,9 @@
   },
   {
     "school_name": "North Dakota State",
-    "division": "FBS",
-    "conference": "Missouri Valley (FCS)",
-    "state": "MN",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "state": "ND",
     "camp_types": [
       "Indy Camp"
     ],
@@ -5024,7 +5051,7 @@
   {
     "school_name": "Pittsburg State",
     "division": "D2",
-    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "conference": "MIAA",
     "state": "KS",
     "camp_types": [
       "Mega Camp",
@@ -5202,7 +5229,7 @@
   {
     "school_name": "Austin Peay",
     "division": "FCS",
-    "conference": "United Athletic Conference",
+    "conference": "United Athletic",
     "state": "KY",
     "camp_types": [
       "Football Camp"
@@ -5240,7 +5267,7 @@
   {
     "school_name": "Davidson College",
     "division": "FCS",
-    "conference": "Pioneer Football League",
+    "conference": "Pioneer",
     "state": "NC",
     "camp_types": [
       "National Academic Camp",
@@ -5400,7 +5427,7 @@
   {
     "school_name": "Pacific Lutheran University",
     "division": "D3",
-    "conference": "Northwest Conference",
+    "conference": "NWC",
     "state": "WA",
     "camp_types": [
       "Padded Showcase"
@@ -5642,7 +5669,7 @@
   {
     "school_name": "Lewis & Clark College",
     "division": "D3",
-    "conference": "Northwest Conference",
+    "conference": "NWC",
     "state": "OR",
     "camp_types": [
       "Showcase"
@@ -6963,7 +6990,7 @@
   {
     "school_name": "Emporia State",
     "division": "D2",
-    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "conference": "MIAA",
     "state": "KS",
     "camp_types": [
       "OL/DL Camp",
@@ -7374,6 +7401,38 @@
     "status": "upcoming"
   },
   {
+    "school_name": "Hardin-Simmons University",
+    "division": "D3",
+    "conference": "ASC",
+    "state": "TX",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "Dates listed at registration site"
+    ],
+    "date_sort": "2099-12-31",
+    "registration_url": "https://hsufootballcamps.com",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
+    "school_name": "University of Redlands",
+    "division": "D3",
+    "conference": "SCIAC",
+    "state": "CA",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "Dates listed at registration site"
+    ],
+    "date_sort": "2099-12-31",
+    "registration_url": "https://www.iefootballcamps.com",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "Louisville",
     "division": "FBS",
     "conference": "ACC",
@@ -7415,7 +7474,7 @@
   {
     "school_name": "University of La Verne",
     "division": "D3",
-    "conference": "Southern California Intercollegiate Athletic Conference",
+    "conference": "SCIAC",
     "state": "CA",
     "camp_types": [
       "Prospect Camp"
@@ -7980,7 +8039,7 @@
   {
     "school_name": "Marist",
     "division": "FCS",
-    "conference": "Pioneer League",
+    "conference": "Pioneer",
     "state": "NY",
     "camp_types": [
       "Exposure Camp"
@@ -8013,7 +8072,7 @@
   {
     "school_name": "Central Missouri",
     "division": "D2",
-    "conference": "Mid-America Intercollegiate Athletics Association (MIAA)",
+    "conference": "MIAA",
     "state": "MO",
     "camp_types": [
       "Individual Camp"
@@ -8046,7 +8105,7 @@
   {
     "school_name": "Whittier College",
     "division": "D3",
-    "conference": "Southern California Intercollegiate Athletic Conference",
+    "conference": "SCIAC",
     "state": "CA",
     "camp_types": [
       "Mega Camp"

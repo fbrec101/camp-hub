@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 /**
- * Normalize camp data for the current season:
- * - Merge duplicate school entries
- * - Drop past dates (relative to CAMP_SEASON_AS_OF)
- * - Attach state from school_coords.json
- * - Normalize registration URLs
+ * Normalize camp data for the current season.
+ * Reads camps_raw.json (+ manual_camps.json), writes camps_master.json.
  */
 import fs from 'fs';
 import path from 'path';
@@ -12,11 +9,25 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
+const RAW_FILE = path.join(ROOT, 'camps_raw.json');
+const MANUAL_FILE = path.join(ROOT, 'manual_camps.json');
+const OVERRIDES_FILE = path.join(ROOT, 'school_overrides.json');
 const CAMPS_FILE = path.join(ROOT, 'camps_master.json');
 const COORDS_FILE = path.join(ROOT, 'school_coords.json');
 
 const AS_OF = process.env.CAMP_SEASON_AS_OF || '2026-05-31';
 const CAMP_YEAR = Number(process.env.CAMP_YEAR || 2026);
+
+const CONFERENCE_ALIASES = {
+  'Missouri Valley (FCS)': 'Missouri Valley',
+  'Colonial Athletic Association': 'CAA',
+  'United Athletic Conference': 'United Athletic',
+  'Pioneer Football League': 'Pioneer',
+  'Pioneer League': 'Pioneer',
+  'Mid-America Intercollegiate Athletics Association (MIAA)': 'MIAA',
+  'Southern California Intercollegiate Athletic Conference': 'SCIAC',
+  'Northwest Conference': 'NWC',
+};
 
 const MONTHS = {
   january: 0, jan: 0, february: 1, feb: 1, march: 2, mar: 2,
@@ -100,6 +111,11 @@ function normalizeUrl(u) {
   return u;
 }
 
+function normConference(c) {
+  if (!c) return c;
+  return CONFERENCE_ALIASES[c] || c;
+}
+
 function mergeSchools(data) {
   const m = new Map();
   for (const e of data) {
@@ -110,28 +126,40 @@ function mergeSchools(data) {
       x.dates = [...new Set([...x.dates, ...e.dates])];
       if (!x.registration_url && e.registration_url) x.registration_url = e.registration_url;
       if (!x.twitter_handle && e.twitter_handle) x.twitter_handle = e.twitter_handle;
-      if (!x.city && e.city) x.city = e.city;
     } else {
-      m.set(k, {
-        ...e,
-        camp_types: [...e.camp_types],
-        dates: [...e.dates],
-      });
+      m.set(k, { ...e, camp_types: [...e.camp_types], dates: [...e.dates] });
     }
   }
   return [...m.values()];
 }
 
+function applyOverrides(school, overrides, coords) {
+  const o = overrides[school.school_name] || {};
+  const c = coords[school.school_name];
+  const state = o.state || (c ? stateFromCoords(c[0], c[1]) : null);
+  return {
+    ...school,
+    division: o.division || school.division,
+    conference: normConference(o.conference || school.conference),
+    state,
+  };
+}
+
 const asOfDate = new Date(AS_OF + 'T12:00:00');
 const coords = JSON.parse(fs.readFileSync(COORDS_FILE, 'utf8'));
-const raw = JSON.parse(fs.readFileSync(CAMPS_FILE, 'utf8'));
-const merged = mergeSchools(raw);
+const overrides = fs.existsSync(OVERRIDES_FILE)
+  ? JSON.parse(fs.readFileSync(OVERRIDES_FILE, 'utf8'))
+  : {};
+const raw = JSON.parse(fs.readFileSync(RAW_FILE, 'utf8'));
+const manual = fs.existsSync(MANUAL_FILE)
+  ? JSON.parse(fs.readFileSync(MANUAL_FILE, 'utf8'))
+  : [];
+const merged = mergeSchools([...raw, ...manual]);
 
 const out = [];
 
 for (const school of merged) {
-  const c = coords[school.school_name];
-  const state = c ? stateFromCoords(c[0], c[1]) : null;
+  const base = applyOverrides(school, overrides, coords);
 
   const allParsed = [];
   for (const dt of school.dates || []) {
@@ -140,22 +168,38 @@ for (const school of merged) {
     allParsed.push({ ...p, display: formatDate(p) });
   }
   allParsed.sort((a, b) => a.start - b.start);
-  if (!allParsed.length) continue;
+
+  if (!allParsed.length) {
+    if (!base.registration_url) continue;
+    out.push({
+      school_name: base.school_name,
+      division: base.division,
+      conference: base.conference,
+      state: base.state,
+      camp_types: [...new Set(base.camp_types)].sort(),
+      dates: ['Dates listed at registration site'],
+      date_sort: '2099-12-31',
+      registration_url: normalizeUrl(base.registration_url),
+      twitter_handle: base.twitter_handle || null,
+      status: 'upcoming',
+    });
+    continue;
+  }
 
   const upcoming = allParsed.filter((d) => d.end >= asOfDate);
   const displayDates = (upcoming.length ? upcoming : allParsed).map((d) => d.display);
   const nextSort = (upcoming[0] || allParsed[allParsed.length - 1]).start.toISOString().slice(0, 10);
 
   out.push({
-    school_name: school.school_name,
-    division: school.division,
-    conference: school.conference,
-    state,
-    camp_types: [...new Set(school.camp_types)].sort(),
+    school_name: base.school_name,
+    division: base.division,
+    conference: base.conference,
+    state: base.state,
+    camp_types: [...new Set(base.camp_types)].sort(),
     dates: displayDates,
     date_sort: nextSort,
-    registration_url: normalizeUrl(school.registration_url),
-    twitter_handle: school.twitter_handle || null,
+    registration_url: normalizeUrl(base.registration_url),
+    twitter_handle: base.twitter_handle || null,
     status: upcoming.length ? 'upcoming' : 'completed',
   });
 }
@@ -166,5 +210,7 @@ out.sort((a, b) => {
 });
 
 fs.writeFileSync(CAMPS_FILE, JSON.stringify(out, null, 2));
-console.log(`Normalized ${out.length} schools (${out.filter(s => s.status === 'upcoming').length} upcoming, ${out.filter(s => s.status === 'completed').length} completed)`);
-console.log(`June camps: ${out.filter(s => s.dates.some(d => d.startsWith('June'))).length} schools`);
+const fcs = out.filter((s) => s.division === 'FCS');
+console.log(`Normalized ${out.length} schools (${out.filter((s) => s.status === 'upcoming').length} upcoming, ${out.filter((s) => s.status === 'completed').length} completed)`);
+console.log(`FCS: ${fcs.length} (${fcs.filter((s) => s.status === 'upcoming').length} upcoming, ${fcs.filter((s) => s.dates.some((d) => d.startsWith('June'))).length} with June)`);
+console.log(`June camps overall: ${out.filter((s) => s.dates.some((d) => d.startsWith('June'))).length} schools`);

@@ -1,0 +1,11 @@
+[
+  {
+    "school_name": "Northern Colorado",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "camp_types": ["Team Camp", "Mega Camp", "7on7", "Youth Camp"],
+    "dates": ["June 8", "June 9", "June 18", "June 20", "June 21", "June 22", "July 19", "July 20", "July 21"],
+    "registration_url": "https://www.northerncoloradofootballcamps.com/register.cfm",
+    "twitter_handle": null
+  }
+]

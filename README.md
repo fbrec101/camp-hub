@@ -9,13 +9,16 @@ Family-facing college football camp database for the 2026 camp season.
 | File | Purpose |
 |------|---------|
 | `index.html` | App shell — map + grid views, filters |
-| `camps_master.json` | Camp records (source of truth) |
+| `camps_raw.json` | Original camp records (do not edit after normalize) |
+| `camps_master.json` | Normalized output for the app |
+| `manual_camps.json` | Hand-added / gap-fill entries (e.g. missing dates) |
+| `school_overrides.json` | Division, state, conference corrections |
 | `school_coords.json` | Lat/lng for map pins |
 | `scripts/normalize-camps.mjs` | Season prep — merge dupes, add states, format 2026 dates |
 
 ## Updating camp data
 
-1. Edit `camps_master.json` (or restore raw export, then normalize)
+1. Edit `camps_raw.json`, `manual_camps.json`, or `school_overrides.json`
 2. Run normalization before deploy:
 
 ```bash

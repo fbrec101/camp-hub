@@ -1,0 +1,16 @@
+{
+  "North Dakota State": {
+    "division": "FCS",
+    "state": "ND",
+    "conference": "Missouri Valley"
+  },
+  "North Dakota": { "state": "ND", "conference": "Missouri Valley" },
+  "South Dakota State": { "state": "SD", "conference": "Missouri Valley" },
+  "South Dakota": { "state": "SD", "conference": "Missouri Valley" },
+  "Northwestern State": { "state": "LA" },
+  "Northern Colorado": {
+    "division": "FCS",
+    "state": "CO",
+    "conference": "Big Sky"
+  }
+}
