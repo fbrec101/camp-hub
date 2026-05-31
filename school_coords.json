@@ -1,0 +1,1670 @@
+{
+  "Alabama": [
+    33.2119,
+    -87.5436
+  ],
+  "Appalachian State": [
+    36.2168,
+    -81.6746
+  ],
+  "Arizona": [
+    32.2319,
+    -110.9501
+  ],
+  "Arizona State": [
+    33.4255,
+    -111.94
+  ],
+  "Arkansas": [
+    36.0687,
+    -94.1742
+  ],
+  "Arkansas State": [
+    35.8423,
+    -90.674
+  ],
+  "Auburn": [
+    32.6099,
+    -85.4808
+  ],
+  "BYU": [
+    40.2338,
+    -111.6585
+  ],
+  "Ball State": [
+    40.1987,
+    -85.3863
+  ],
+  "Boise State": [
+    43.6037,
+    -116.1996
+  ],
+  "Boston College": [
+    42.3355,
+    -71.1685
+  ],
+  "Bowling Green": [
+    41.3756,
+    -83.6513
+  ],
+  "Buffalo": [
+    43.0018,
+    -78.7906
+  ],
+  "Cal": [
+    37.8724,
+    -122.2595
+  ],
+  "Central Michigan": [
+    43.5773,
+    -84.7742
+  ],
+  "Charlotte": [
+    35.3076,
+    -80.7337
+  ],
+  "Cincinnati": [
+    39.1329,
+    -84.515
+  ],
+  "Clemson": [
+    34.6834,
+    -82.8374
+  ],
+  "Coastal Carolina": [
+    33.7949,
+    -79.0178
+  ],
+  "Colorado": [
+    40.0076,
+    -105.2659
+  ],
+  "Colorado State": [
+    40.5734,
+    -105.0865
+  ],
+  "Delaware": [
+    39.6782,
+    -75.7514
+  ],
+  "Duke": [
+    36.0014,
+    -78.9382
+  ],
+  "East Carolina": [
+    35.6082,
+    -77.3664
+  ],
+  "Eastern Michigan": [
+    42.2521,
+    -83.6193
+  ],
+  "Florida Atlantic": [
+    26.3726,
+    -80.103
+  ],
+  "FIU": [
+    25.7572,
+    -80.3752
+  ],
+  "Florida": [
+    29.6516,
+    -82.349
+  ],
+  "Florida State": [
+    30.442,
+    -84.2986
+  ],
+  "Fresno State": [
+    36.8108,
+    -119.7458
+  ],
+  "Georgia Southern": [
+    32.419,
+    -81.7943
+  ],
+  "Georgia State": [
+    33.753,
+    -84.3885
+  ],
+  "Georgia Tech": [
+    33.7756,
+    -84.3963
+  ],
+  "Houston": [
+    29.7199,
+    -95.3422
+  ],
+  "Iowa": [
+    41.6612,
+    -91.5483
+  ],
+  "Iowa State": [
+    42.0266,
+    -93.6465
+  ],
+  "Jacksonville State": [
+    33.8268,
+    -85.7613
+  ],
+  "Kansas": [
+    38.9543,
+    -95.2558
+  ],
+  "Kansas State": [
+    39.1836,
+    -96.5717
+  ],
+  "Kennesaw State": [
+    34.039,
+    -84.5816
+  ],
+  "Kent State": [
+    41.1534,
+    -81.3412
+  ],
+  "LSU": [
+    30.4133,
+    -91.18
+  ],
+  "Liberty": [
+    37.3552,
+    -79.1727
+  ],
+  "Louisiana-Lafayette": [
+    30.2082,
+    -92.0199
+  ],
+  "Louisiana-Monroe": [
+    32.5282,
+    -92.0735
+  ],
+  "Louisiana Tech": [
+    32.5274,
+    -92.6382
+  ],
+  "Louisville": [
+    38.0282,
+    -85.5136
+  ],
+  "Marshall": [
+    38.4275,
+    -82.428
+  ],
+  "Maryland": [
+    38.9869,
+    -76.9426
+  ],
+  "Memphis": [
+    35.1184,
+    -89.9376
+  ],
+  "Miami": [
+    25.7572,
+    -80.377
+  ],
+  "Miami (Ohio)": [
+    39.5087,
+    -84.7346
+  ],
+  "Middle Tennessee": [
+    35.8456,
+    -86.3594
+  ],
+  "Mississippi State": [
+    33.4554,
+    -88.7887
+  ],
+  "Missouri": [
+    38.9358,
+    -92.3277
+  ],
+  "NC State": [
+    35.7872,
+    -78.6822
+  ],
+  "Navy": [
+    38.9824,
+    -76.4878
+  ],
+  "Nebraska": [
+    40.8202,
+    -96.7055
+  ],
+  "Nevada": [
+    39.5333,
+    -119.8134
+  ],
+  "New Mexico": [
+    35.0844,
+    -106.619
+  ],
+  "North Carolina": [
+    35.9049,
+    -79.0469
+  ],
+  "North Dakota State": [
+    46.8962,
+    -96.8025
+  ],
+  "North Texas": [
+    33.2094,
+    -97.1467
+  ],
+  "Northwestern": [
+    42.0565,
+    -87.6753
+  ],
+  "Notre Dame": [
+    41.7052,
+    -86.2353
+  ],
+  "Ohio": [
+    39.3231,
+    -82.1013
+  ],
+  "Ohio State": [
+    40.0061,
+    -83.0308
+  ],
+  "Oklahoma": [
+    35.2059,
+    -97.4455
+  ],
+  "Oklahoma State": [
+    36.1269,
+    -97.0682
+  ],
+  "Old Dominion": [
+    36.8857,
+    -76.3063
+  ],
+  "Ole Miss": [
+    34.3654,
+    -89.5386
+  ],
+  "Penn State": [
+    40.7982,
+    -77.8599
+  ],
+  "Purdue": [
+    40.4259,
+    -86.9081
+  ],
+  "Rice": [
+    29.7174,
+    -95.4018
+  ],
+  "Rutgers": [
+    40.5008,
+    -74.4474
+  ],
+  "SMU": [
+    32.8413,
+    -96.7841
+  ],
+  "Sacramento State": [
+    38.5601,
+    -121.4235
+  ],
+  "Sam Houston": [
+    30.7135,
+    -95.5491
+  ],
+  "San Diego State": [
+    32.7757,
+    -117.0719
+  ],
+  "South Alabama": [
+    30.6954,
+    -88.0431
+  ],
+  "South Carolina": [
+    33.9963,
+    -81.0299
+  ],
+  "Southern Miss": [
+    31.3271,
+    -89.5065
+  ],
+  "Stanford": [
+    37.4346,
+    -122.1609
+  ],
+  "Syracuse": [
+    43.0354,
+    -76.1352
+  ],
+  "TCU": [
+    32.7096,
+    -97.3631
+  ],
+  "Temple": [
+    39.9812,
+    -75.155
+  ],
+  "Texas": [
+    30.2838,
+    -97.7339
+  ],
+  "Texas A&M": [
+    30.6103,
+    -96.3398
+  ],
+  "Texas State": [
+    29.8891,
+    -97.9419
+  ],
+  "Toledo": [
+    41.6602,
+    -83.6135
+  ],
+  "Troy": [
+    31.8093,
+    -85.9694
+  ],
+  "UAB": [
+    33.5022,
+    -86.8092
+  ],
+  "UConn": [
+    41.8077,
+    -72.2527
+  ],
+  "UMass": [
+    42.3868,
+    -72.5301
+  ],
+  "UNLV": [
+    36.1083,
+    -115.1424
+  ],
+  "USC": [
+    34.0224,
+    -118.2851
+  ],
+  "USF": [
+    28.0587,
+    -82.4139
+  ],
+  "UTEP": [
+    31.7719,
+    -106.5042
+  ],
+  "UTSA": [
+    29.5835,
+    -98.6201
+  ],
+  "Utah": [
+    40.7649,
+    -111.8421
+  ],
+  "Vanderbilt": [
+    36.1447,
+    -86.8027
+  ],
+  "Virginia": [
+    38.0336,
+    -78.508
+  ],
+  "Virginia Tech": [
+    37.2284,
+    -80.4234
+  ],
+  "Wake Forest": [
+    36.1324,
+    -80.2759
+  ],
+  "Washington": [
+    47.6553,
+    -122.3035
+  ],
+  "Washington State": [
+    46.7298,
+    -117.1542
+  ],
+  "West Virginia": [
+    39.635,
+    -79.9545
+  ],
+  "Western Kentucky": [
+    36.9685,
+    -86.4753
+  ],
+  "Western Michigan": [
+    42.2837,
+    -85.6204
+  ],
+  "Wyoming": [
+    41.3149,
+    -105.5666
+  ],
+  "Alabama A&M": [
+    34.7834,
+    -86.5685
+  ],
+  "Alabama State": [
+    32.3643,
+    -86.295
+  ],
+  "Arkansas-Pine Bluff": [
+    34.2284,
+    -92.0032
+  ],
+  "Austin Peay": [
+    36.5381,
+    -87.3597
+  ],
+  "Bethune-Cookman": [
+    29.2107,
+    -81.0228
+  ],
+  "Brown": [
+    41.8268,
+    -71.4025
+  ],
+  "Bryant": [
+    41.9765,
+    -71.5298
+  ],
+  "Cal Poly": [
+    35.3051,
+    -120.6624
+  ],
+  "Campbell": [
+    35.3932,
+    -78.3969
+  ],
+  "Central Arkansas": [
+    35.0787,
+    -92.4471
+  ],
+  "Central Connecticut State": [
+    41.6612,
+    -72.8734
+  ],
+  "Charleston Southern": [
+    32.9268,
+    -80.0631
+  ],
+  "Chattanooga": [
+    35.1495,
+    -85.2672
+  ],
+  "Colgate": [
+    42.8159,
+    -75.531
+  ],
+  "Columbia": [
+    40.8075,
+    -73.9626
+  ],
+  "Cornell": [
+    42.4534,
+    -76.4735
+  ],
+  "Dartmouth": [
+    43.7044,
+    -72.2887
+  ],
+  "Davidson College": [
+    35.4993,
+    -80.8484
+  ],
+  "Dayton": [
+    39.7392,
+    -84.1791
+  ],
+  "Drake": [
+    41.6028,
+    -93.6501
+  ],
+  "Duquesne": [
+    40.4354,
+    -79.9967
+  ],
+  "ETSU": [
+    36.3029,
+    -82.3632
+  ],
+  "East Texas A&M": [
+    33.2482,
+    -95.9041
+  ],
+  "Eastern Illinois": [
+    39.48,
+    -88.1756
+  ],
+  "Eastern Washington": [
+    47.5957,
+    -117.5995
+  ],
+  "Elon": [
+    36.1002,
+    -79.5036
+  ],
+  "FAMU": [
+    30.4188,
+    -84.2999
+  ],
+  "Fordham": [
+    40.8604,
+    -73.8854
+  ],
+  "Furman": [
+    34.9256,
+    -82.2693
+  ],
+  "Gardner-Webb": [
+    35.3426,
+    -81.539
+  ],
+  "Grambling State": [
+    32.5268,
+    -92.7148
+  ],
+  "Harvard": [
+    42.377,
+    -71.1167
+  ],
+  "Houston Christian": [
+    29.8193,
+    -95.436
+  ],
+  "Howard": [
+    38.9218,
+    -77.02
+  ],
+  "Idaho": [
+    46.727,
+    -117.0093
+  ],
+  "Idaho State": [
+    42.8628,
+    -112.4297
+  ],
+  "Illinois State": [
+    40.5142,
+    -88.9906
+  ],
+  "Indiana State": [
+    39.4667,
+    -87.4139
+  ],
+  "Jackson State": [
+    32.2988,
+    -90.2148
+  ],
+  "Lafayette": [
+    40.6948,
+    -75.2193
+  ],
+  "Lehigh": [
+    40.6068,
+    -75.3786
+  ],
+  "Lindenwood": [
+    38.7876,
+    -90.4829
+  ],
+  "Marist": [
+    41.7073,
+    -73.9271
+  ],
+  "McNeese State": [
+    30.2088,
+    -93.2108
+  ],
+  "Mercer": [
+    32.8374,
+    -83.648
+  ],
+  "Mercyhurst": [
+    42.1117,
+    -80.077
+  ],
+  "Monmouth": [
+    40.2638,
+    -74.012
+  ],
+  "Montana": [
+    46.8625,
+    -113.9851
+  ],
+  "Montana State": [
+    45.6644,
+    -111.0519
+  ],
+  "Morehead State": [
+    38.1845,
+    -83.4321
+  ],
+  "Morgan State": [
+    39.3428,
+    -76.5836
+  ],
+  "Northern Arizona": [
+    35.1828,
+    -111.6551
+  ],
+  "New Haven": [
+    41.3083,
+    -72.9279
+  ],
+  "Nicholls State": [
+    29.7355,
+    -90.714
+  ],
+  "North Alabama": [
+    34.7282,
+    -87.6991
+  ],
+  "North Dakota": [
+    46.9221,
+    -96.7296
+  ],
+  "Northern Colorado": [
+    40.4069,
+    -104.6977
+  ],
+  "Northern Iowa": [
+    42.5134,
+    -92.4626
+  ],
+  "Northwestern State": [
+    42.0565,
+    -87.6753
+  ],
+  "Penn": [
+    40.6856,
+    -79.1572
+  ],
+  "Prairie View A&M": [
+    30.0877,
+    -95.9822
+  ],
+  "Princeton": [
+    40.344,
+    -74.6514
+  ],
+  "Rhode Island": [
+    41.485,
+    -71.5257
+  ],
+  "Robert Morris": [
+    40.5181,
+    -80.2198
+  ],
+  "Southeast Missouri State": [
+    37.3056,
+    -89.5181
+  ],
+  "Southern Illinois": [
+    37.7086,
+    -89.2178
+  ],
+  "Sacred Heart": [
+    41.3876,
+    -73.1996
+  ],
+  "San Diego": [
+    32.7717,
+    -117.1888
+  ],
+  "South Carolina State": [
+    33.4957,
+    -80.859
+  ],
+  "South Dakota": [
+    42.7717,
+    -96.9289
+  ],
+  "South Dakota State": [
+    44.3197,
+    -96.7847
+  ],
+  "Southeastern Louisiana": [
+    30.5218,
+    -90.4612
+  ],
+  "Southern": [
+    32.9268,
+    -80.0631
+  ],
+  "Southern Utah": [
+    37.6775,
+    -113.0619
+  ],
+  "Stephen F. Austin": [
+    31.6099,
+    -94.6558
+  ],
+  "Stony Brook": [
+    40.9148,
+    -73.1236
+  ],
+  "Tarleton State": [
+    32.2432,
+    -97.7867
+  ],
+  "Tennessee Tech": [
+    36.1787,
+    -85.5016
+  ],
+  "Texas Southern": [
+    29.7236,
+    -95.3534
+  ],
+  "The Citadel": [
+    32.8074,
+    -79.9614
+  ],
+  "Towson": [
+    39.3993,
+    -76.606
+  ],
+  "UC Davis": [
+    38.5382,
+    -121.7617
+  ],
+  "UIW": [
+    29.4627,
+    -98.4742
+  ],
+  "University of St. Thomas": [
+    44.9417,
+    -93.1236
+  ],
+  "Utah Tech": [
+    37.1041,
+    -113.5841
+  ],
+  "Villanova": [
+    40.0369,
+    -75.3449
+  ],
+  "Wagner": [
+    40.6368,
+    -74.099
+  ],
+  "Weber State": [
+    41.2272,
+    -111.9738
+  ],
+  "West Georgia": [
+    33.7948,
+    -85.0766
+  ],
+  "Western Carolina": [
+    35.3082,
+    -83.1879
+  ],
+  "Western Illinois": [
+    40.4626,
+    -90.6718
+  ],
+  "William & Mary": [
+    37.2707,
+    -76.7075
+  ],
+  "Wofford": [
+    34.9374,
+    -81.9496
+  ],
+  "Yale": [
+    41.3163,
+    -72.9223
+  ],
+  "Youngstown State": [
+    41.1014,
+    -80.6459
+  ],
+  "Adams State": [
+    37.4697,
+    -105.9672
+  ],
+  "Albany State": [
+    31.5749,
+    -84.1535
+  ],
+  "Allen University": [
+    34.0007,
+    -81.0348
+  ],
+  "American International College": [
+    42.1015,
+    -72.5898
+  ],
+  "Anderson University": [
+    40.1028,
+    -85.68
+  ],
+  "Arkansas-Monticello": [
+    33.624,
+    -91.7924
+  ],
+  "Arkansas Tech": [
+    35.2784,
+    -93.1338
+  ],
+  "Augustana University": [
+    43.5473,
+    -96.7313
+  ],
+  "Bemidji State": [
+    47.4927,
+    -94.8772
+  ],
+  "Bentley University": [
+    42.3868,
+    -71.2218
+  ],
+  "Black Hills State": [
+    44.3903,
+    -103.8791
+  ],
+  "Bloomsburg University": [
+    41.0048,
+    -76.4538
+  ],
+  "Carson-Newman": [
+    36.1015,
+    -83.4741
+  ],
+  "Catawba College": [
+    35.654,
+    -80.4857
+  ],
+  "Central Missouri": [
+    38.7476,
+    -93.7349
+  ],
+  "Central Oklahoma": [
+    35.6528,
+    -97.4781
+  ],
+  "Central State": [
+    39.7134,
+    -83.8771
+  ],
+  "Chadron State College": [
+    42.8278,
+    -102.9966
+  ],
+  "University of Charleston": [
+    38.3498,
+    -81.6326
+  ],
+  "Colorado School of Mines": [
+    39.7514,
+    -105.2211
+  ],
+  "Concordia University, St. Paul": [
+    44.9566,
+    -93.1016
+  ],
+  "Davenport University": [
+    42.9634,
+    -85.6681
+  ],
+  "Delta State": [
+    33.4629,
+    -90.704
+  ],
+  "East Central University": [
+    34.6743,
+    -96.6808
+  ],
+  "East Stroudsburg University": [
+    41.0026,
+    -75.1799
+  ],
+  "Emory and Henry College": [
+    36.7009,
+    -81.9832
+  ],
+  "Emporia State": [
+    38.4032,
+    -96.1817
+  ],
+  "Fairmont State": [
+    39.4807,
+    -80.1426
+  ],
+  "Ferris State": [
+    43.6976,
+    -85.4836
+  ],
+  "Ferrum College": [
+    36.9243,
+    -80.0284
+  ],
+  "Fort Hays State": [
+    38.8717,
+    -99.3267
+  ],
+  "Fort Lewis College": [
+    37.1525,
+    -107.8817
+  ],
+  "Glenville State": [
+    38.9312,
+    -80.8387
+  ],
+  "Grand Valley State": [
+    42.9633,
+    -85.8891
+  ],
+  "Harding University": [
+    35.254,
+    -91.7196
+  ],
+  "Henderson State": [
+    34.0998,
+    -93.0543
+  ],
+  "Indiana University of Pennsylvania": [
+    40.6856,
+    -79.1572
+  ],
+  "Johnson C. Smith University": [
+    35.2271,
+    -80.856
+  ],
+  "Kentucky State": [
+    38.2009,
+    -84.8733
+  ],
+  "Kentucky Wesleyan": [
+    37.7773,
+    -87.119
+  ],
+  "Kutztown University": [
+    40.5157,
+    -75.783
+  ],
+  "Lenoir-Rhyne": [
+    35.7243,
+    -81.339
+  ],
+  "Lincoln University (Missouri)": [
+    38.947,
+    -92.1349
+  ],
+  "Lincoln University (Pennsylvania)": [
+    39.8084,
+    -75.9277
+  ],
+  "Livingstone College": [
+    35.6729,
+    -80.4742
+  ],
+  "Mars Hill University": [
+    35.8268,
+    -82.551
+  ],
+  "Michigan Tech": [
+    47.1129,
+    -88.5475
+  ],
+  "Midwestern State": [
+    33.9137,
+    -98.5237
+  ],
+  "Minnesota Duluth": [
+    46.8164,
+    -92.0793
+  ],
+  "Minnesota State - Mankato": [
+    44.1458,
+    -93.9988
+  ],
+  "Minnesota State - Moorhead": [
+    46.8713,
+    -96.7898
+  ],
+  "Minot State": [
+    48.2388,
+    -101.2963
+  ],
+  "Missouri S&T": [
+    38.9358,
+    -92.3277
+  ],
+  "Missouri Western State": [
+    39.779,
+    -94.856
+  ],
+  "Nebraska-Kearney": [
+    40.7228,
+    -99.0873
+  ],
+  "New Mexico Highlands": [
+    35.5942,
+    -105.2219
+  ],
+  "Newberry College": [
+    34.2849,
+    -81.6143
+  ],
+  "Northeastern State": [
+    36.1534,
+    -95.0063
+  ],
+  "Northern State": [
+    45.4647,
+    -98.4659
+  ],
+  "Northwest Missouri State": [
+    40.3556,
+    -94.8811
+  ],
+  "Northwestern Oklahoma State": [
+    36.4148,
+    -99.4065
+  ],
+  "Northwood University": [
+    43.6232,
+    -84.2394
+  ],
+  "Ouachita Baptist University": [
+    34.1196,
+    -93.0602
+  ],
+  "PennWest Clarion": [
+    41.2098,
+    -79.3845
+  ],
+  "PennWest Edinboro": [
+    41.8754,
+    -80.1284
+  ],
+  "Pittsburg State": [
+    37.3975,
+    -94.7052
+  ],
+  "Saint Anselm": [
+    42.987,
+    -71.4996
+  ],
+  "Shepherd": [
+    39.4318,
+    -77.9869
+  ],
+  "Shippensburg University": [
+    40.0501,
+    -77.5197
+  ],
+  "Shorter University": [
+    34.359,
+    -85.1743
+  ],
+  "Sioux Falls": [
+    43.5473,
+    -96.7313
+  ],
+  "Slippery Rock": [
+    41.0642,
+    -80.0556
+  ],
+  "Southeastern Oklahoma State": [
+    34.0074,
+    -96.3968
+  ],
+  "Southern Arkansas": [
+    33.596,
+    -93.0496
+  ],
+  "Southwest Baptist University": [
+    36.9368,
+    -93.3799
+  ],
+  "Thomas More": [
+    38.9318,
+    -84.5588
+  ],
+  "Tiffin University": [
+    41.1148,
+    -83.1774
+  ],
+  "Tuskegee": [
+    32.431,
+    -85.7077
+  ],
+  "University of Indianapolis": [
+    39.6717,
+    -86.1397
+  ],
+  "UNC Pembroke": [
+    34.6838,
+    -79.1919
+  ],
+  "UVA Wise": [
+    36.9757,
+    -82.5738
+  ],
+  "Upper Iowa": [
+    43.2852,
+    -91.801
+  ],
+  "Virginia Union": [
+    37.5601,
+    -77.4469
+  ],
+  "Walsh University": [
+    40.8759,
+    -81.4076
+  ],
+  "Washburn University": [
+    39.0414,
+    -95.6836
+  ],
+  "Wayne State College": [
+    42.2342,
+    -97.0166
+  ],
+  "Wayne State University": [
+    42.3574,
+    -83.0695
+  ],
+  "West Chester": [
+    39.9526,
+    -75.596
+  ],
+  "West Florida": [
+    30.5463,
+    -87.2191
+  ],
+  "West Liberty": [
+    39.6432,
+    -80.5929
+  ],
+  "West Texas A&M": [
+    35.1745,
+    -101.936
+  ],
+  "West Virginia State": [
+    38.4218,
+    -81.801
+  ],
+  "Western Colorado": [
+    38.5458,
+    -107.3226
+  ],
+  "Western New Mexico": [
+    32.774,
+    -108.1565
+  ],
+  "William Jewell College": [
+    39.2302,
+    -94.4194
+  ],
+  "Winston-Salem State": [
+    36.0956,
+    -80.2781
+  ],
+  "Adrian College": [
+    41.8978,
+    -84.0372
+  ],
+  "Albright College": [
+    40.3362,
+    -75.9274
+  ],
+  "Alfred State College": [
+    42.254,
+    -77.7899
+  ],
+  "Alvernia University": [
+    40.3362,
+    -75.9274
+  ],
+  "Amherst College": [
+    42.3709,
+    -72.517
+  ],
+  "Augsburg University": [
+    44.943,
+    -93.233
+  ],
+  "Augustana College": [
+    41.5117,
+    -90.5512
+  ],
+  "Bates College": [
+    44.1059,
+    -70.2037
+  ],
+  "Berry College": [
+    34.3073,
+    -85.216
+  ],
+  "Bluffton University": [
+    40.8959,
+    -83.893
+  ],
+  "Bowdoin College": [
+    43.9074,
+    -69.9634
+  ],
+  "Calvin University": [
+    42.9282,
+    -85.5888
+  ],
+  "Capital University": [
+    39.9573,
+    -82.9413
+  ],
+  "Carroll University": [
+    43.0617,
+    -88.1956
+  ],
+  "Carthage College": [
+    42.5784,
+    -87.8412
+  ],
+  "Case Western Reserve University": [
+    41.5051,
+    -81.6082
+  ],
+  "Claremont-Mudd-Scripps": [
+    34.1066,
+    -117.71
+  ],
+  "Crown College": [
+    44.9452,
+    -93.5599
+  ],
+  "Denison University": [
+    40.0934,
+    -82.5257
+  ],
+  "University of Dubuque": [
+    42.5064,
+    -90.7282
+  ],
+  "East Texas Baptist University": [
+    32.296,
+    -94.3671
+  ],
+  "Fairleigh Dickinson University-Florham": [
+    40.7626,
+    -74.3929
+  ],
+  "Franklin & Marshall College": [
+    40.0379,
+    -76.3157
+  ],
+  "Hamilton College": [
+    43.0579,
+    -75.4054
+  ],
+  "Hardin-Simmons University": [
+    32.4624,
+    -99.7218
+  ],
+  "Hope College": [
+    42.7887,
+    -86.1089
+  ],
+  "Howard Payne University": [
+    31.8235,
+    -98.9981
+  ],
+  "Illinois College": [
+    39.7314,
+    -90.2285
+  ],
+  "John Carroll University": [
+    41.4928,
+    -81.529
+  ],
+  "King's College": [
+    41.2459,
+    -75.8813
+  ],
+  "University of La Verne": [
+    34.1014,
+    -117.7678
+  ],
+  "Lake Forest College": [
+    42.2528,
+    -87.8406
+  ],
+  "Lebanon Valley College": [
+    40.2737,
+    -76.4471
+  ],
+  "Lewis & Clark College": [
+    45.4511,
+    -122.6699
+  ],
+  "Lyon College": [
+    35.9112,
+    -91.6499
+  ],
+  "MIT": [
+    42.3601,
+    -71.0942
+  ],
+  "Macalester College": [
+    44.9388,
+    -93.1696
+  ],
+  "University of Mary Hardin-Baylor": [
+    31.0574,
+    -97.4568
+  ],
+  "Maryville College": [
+    35.7571,
+    -83.9963
+  ],
+  "Massachusetts Maritime Academy": [
+    41.743,
+    -70.6245
+  ],
+  "Middlebury College": [
+    44.0085,
+    -73.1801
+  ],
+  "Millsaps College": [
+    32.3371,
+    -90.199
+  ],
+  "University of Minnesota Morris": [
+    45.5886,
+    -95.9019
+  ],
+  "Mount St. Joseph University": [
+    39.1023,
+    -84.6134
+  ],
+  "Muhlenberg College": [
+    40.6087,
+    -75.4983
+  ],
+  "Muskingum University": [
+    39.9568,
+    -81.9957
+  ],
+  "Nebraska Wesleyan University": [
+    40.8476,
+    -96.6445
+  ],
+  "University of New England": [
+    43.4255,
+    -70.4514
+  ],
+  "North Central College": [
+    41.7856,
+    -88.1459
+  ],
+  "Norwich University": [
+    44.2034,
+    -72.5221
+  ],
+  "Olivet College": [
+    42.4439,
+    -84.9244
+  ],
+  "Otterbein University": [
+    40.1012,
+    -82.9963
+  ],
+  "Pacific Lutheran University": [
+    47.1315,
+    -122.439
+  ],
+  "University of Puget Sound": [
+    47.2612,
+    -122.4711
+  ],
+  "University of Redlands": [
+    34.0556,
+    -117.1488
+  ],
+  "Roanoke College": [
+    37.2871,
+    -80.057
+  ],
+  "University of Rochester": [
+    43.1284,
+    -77.6279
+  ],
+  "Rose-Hulman Institute of Technology": [
+    39.4797,
+    -87.3239
+  ],
+  "Saint Vincent College": [
+    40.2993,
+    -79.3876
+  ],
+  "Schreiner University": [
+    29.9897,
+    -99.1415
+  ],
+  "Simpson University": [
+    40.5849,
+    -122.3917
+  ],
+  "Springfield College": [
+    42.1065,
+    -72.5773
+  ],
+  "Texas Lutheran University": [
+    29.5736,
+    -97.8618
+  ],
+  "Thiel College": [
+    41.1487,
+    -80.4901
+  ],
+  "Trinity University": [
+    29.792,
+    -98.4862
+  ],
+  "University of Chicago": [
+    41.7886,
+    -87.5987
+  ],
+  "Union College": [
+    42.8142,
+    -73.9302
+  ],
+  "Ursinus College": [
+    40.1893,
+    -75.4491
+  ],
+  "Utica University": [
+    43.1009,
+    -75.2327
+  ],
+  "WPI": [
+    42.2746,
+    -71.8063
+  ],
+  "Washington University in St. Louis": [
+    38.6488,
+    -90.3108
+  ],
+  "Washington & Jefferson College": [
+    40.1748,
+    -80.2462
+  ],
+  "Washington & Lee University": [
+    37.7882,
+    -79.4428
+  ],
+  "Waynesburg University": [
+    39.8959,
+    -80.1795
+  ],
+  "Wesleyan University": [
+    41.5556,
+    -72.659
+  ],
+  "Wheaton College (IL)": [
+    41.8661,
+    -88.097
+  ],
+  "Whittier College": [
+    33.9783,
+    -118.0325
+  ],
+  "Wilkes University": [
+    41.2459,
+    -75.8813
+  ],
+  "Williams College": [
+    42.7134,
+    -73.2029
+  ],
+  "Wisconsin Lutheran College": [
+    43.0508,
+    -88.0356
+  ],
+  "University of Wisconsin-Eau Claire": [
+    44.7974,
+    -91.502
+  ],
+  "University of Wisconsin-Oshkosh": [
+    44.0247,
+    -88.5426
+  ],
+  "University of Wisconsin-Platteville": [
+    42.7341,
+    -90.4782
+  ],
+  "University of Wisconsin-River Falls": [
+    44.8608,
+    -92.6327
+  ],
+  "University of Wisconsin-Stevens Point": [
+    44.5236,
+    -89.5746
+  ],
+  "University of Wisconsin-Stout": [
+    44.9369,
+    -91.8427
+  ],
+  "University of Wisconsin-Whitewater": [
+    42.8336,
+    -88.7323
+  ],
+  "College of Wooster": [
+    40.8051,
+    -81.9351
+  ],
+  "Ave Maria University": [
+    26.2728,
+    -81.4551
+  ],
+  "Baker University": [
+    38.7717,
+    -95.2366
+  ],
+  "Benedictine College": [
+    39.5649,
+    -95.1278
+  ],
+  "Campbellsville University": [
+    37.3428,
+    -85.3413
+  ],
+  "Carroll College": [
+    46.5958,
+    -112.027
+  ],
+  "Dakota State University": [
+    44.0117,
+    -97.1148
+  ],
+  "Georgetown College": [
+    38.2098,
+    -84.5577
+  ],
+  "Graceland University": [
+    40.7378,
+    -93.5527
+  ],
+  "Indiana Wesleyan University": [
+    40.5648,
+    -85.6591
+  ],
+  "University of Jamestown": [
+    46.9055,
+    -98.6981
+  ],
+  "Keiser University": [
+    26.1223,
+    -80.1434
+  ],
+  "Lindsey Wilson College": [
+    36.8381,
+    -85.9166
+  ],
+  "Marian University": [
+    39.8404,
+    -86.1802
+  ],
+  "Missouri Baptist University": [
+    38.9358,
+    -92.3277
+  ],
+  "Missouri Valley College": [
+    38.8836,
+    -93.0027
+  ],
+  "Montana Tech": [
+    45.9024,
+    -112.5213
+  ],
+  "Montana Western": [
+    45.8655,
+    -112.64
+  ],
+  "Northwestern College": [
+    42.0565,
+    -87.6753
+  ],
+  "Oklahoma Panhandle State University": [
+    36.7334,
+    -100.6271
+  ],
+  "Olivet Nazarene University": [
+    41.1478,
+    -87.8603
+  ],
+  "Reinhardt University": [
+    34.359,
+    -84.7358
+  ],
+  "University of Rio Grande": [
+    38.8751,
+    -82.3674
+  ],
+  "St. Thomas University": [
+    25.9177,
+    -80.302
+  ],
+  "Texas Wesleyan University": [
+    32.7412,
+    -97.2991
+  ],
+  "University of Pikeville": [
+    37.4793,
+    -82.5188
+  ],
+  "Union Commonwealth University": [
+    36.8668,
+    -83.8868
+  ],
+  "Valley City State University": [
+    46.9238,
+    -98.002
+  ],
+  "Warner University": [
+    27.9014,
+    -81.5876
+  ]
+}
