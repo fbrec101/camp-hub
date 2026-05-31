@@ -25,11 +25,9 @@ Family-facing college football camp database for the 2026 camp season.
 node scripts/normalize-camps.mjs
 ```
 
-Set season context if needed:
+Set `CAMP_SEASON_AS_OF=2026-06-15` when re-running mid-season to drop past dates.
 
-```bash
-CAMP_SEASON_AS_OF=2026-06-15 CAMP_YEAR=2026 node scripts/normalize-camps.mjs
-```
+Gap-fill schools without published 2026 camps are omitted (e.g. Albany, Alcorn, Butler, Hampton, Merrimack, UT Martin).
 
 3. Push to GitHub — Pages auto-deploys from `main`
 

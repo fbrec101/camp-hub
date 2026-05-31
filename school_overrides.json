@@ -8,9 +8,12 @@
   "South Dakota State": { "state": "SD", "conference": "Missouri Valley" },
   "South Dakota": { "state": "SD", "conference": "Missouri Valley" },
   "Northwestern State": { "state": "LA" },
-  "Northern Colorado": {
-    "division": "FCS",
-    "state": "CO",
-    "conference": "Big Sky"
-  }
+  "Northern Colorado": { "division": "FCS", "state": "CO", "conference": "Big Sky" },
+  "North Carolina A&T": { "conference": "CAA" },
+  "North Carolina Central": { "conference": "MEAC" },
+  "New Hampshire": { "conference": "CAA", "state": "NH" },
+  "Long Island": { "conference": "NEC" },
+  "Murray State": { "conference": "OVC" },
+  "Georgetown": { "conference": "Patriot" },
+  "Lamar": { "conference": "Southland" }
 }

@@ -1368,6 +1368,28 @@
     "status": "upcoming"
   },
   {
+    "school_name": "Lamar",
+    "division": "FCS",
+    "conference": "Southland",
+    "state": "TX",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 2, 2026",
+      "June 3, 2026",
+      "June 4, 2026",
+      "June 8, 2026",
+      "June 10, 2026",
+      "June 11, 2026",
+      "June 20, 2026"
+    ],
+    "date_sort": "2026-06-02",
+    "registration_url": "https://www.lamarfootballcamps.com/",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "Auburn",
     "division": "FBS",
     "conference": "SEC",
@@ -1791,6 +1813,43 @@
     ],
     "date_sort": "2026-06-03",
     "registration_url": null,
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
+    "school_name": "Missouri State",
+    "division": "FCS",
+    "conference": "Missouri Valley",
+    "state": "MO",
+    "camp_types": [
+      "High School Prospect Camp"
+    ],
+    "dates": [
+      "June 3, 2026",
+      "June 17, 2026"
+    ],
+    "date_sort": "2026-06-03",
+    "registration_url": "https://info.abcsportscamps.com/msufootball",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
+    "school_name": "Murray State",
+    "division": "FCS",
+    "conference": "OVC",
+    "state": "KY",
+    "camp_types": [
+      "Prospect Camp",
+      "Specialist Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "June 3, 2026",
+      "June 4, 2026",
+      "June 20, 2026"
+    ],
+    "date_sort": "2026-06-03",
+    "registration_url": "https://www.coachjodywrightcamps.com/",
     "twitter_handle": null,
     "status": "upcoming"
   },
@@ -2339,6 +2398,24 @@
     ],
     "date_sort": "2026-06-04",
     "registration_url": "https://ramsfootballcamps.com",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
+    "school_name": "Valparaiso",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "state": "IN",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 4, 2026",
+      "June 7, 2026",
+      "June 25, 2026"
+    ],
+    "date_sort": "2026-06-04",
+    "registration_url": "https://www.valpofootballcamps.com/",
     "twitter_handle": null,
     "status": "upcoming"
   },
@@ -4701,6 +4778,23 @@
     "status": "upcoming"
   },
   {
+    "school_name": "Samford",
+    "division": "FCS",
+    "conference": "SoCon",
+    "state": "AL",
+    "camp_types": [
+      "Night of Champions Prospect Camp"
+    ],
+    "dates": [
+      "June 10, 2026",
+      "June 17, 2026"
+    ],
+    "date_sort": "2026-06-10",
+    "registration_url": "https://www.samfordfootballcamps.com/",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "Duke",
     "division": "FBS",
     "conference": "ACC",
@@ -5152,6 +5246,23 @@
     "status": "upcoming"
   },
   {
+    "school_name": "North Carolina A&T",
+    "division": "FCS",
+    "conference": "CAA",
+    "state": "NC",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 12, 2026",
+      "July 11, 2026"
+    ],
+    "date_sort": "2026-06-12",
+    "registration_url": "https://www.ncatsfootballcamps.com/",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "Arkansas State",
     "division": "FBS",
     "conference": "Sun Belt",
@@ -5457,6 +5568,38 @@
     "status": "upcoming"
   },
   {
+    "school_name": "Delaware State",
+    "division": "FCS",
+    "conference": "MEAC",
+    "state": "DE",
+    "camp_types": [
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "June 13, 2026"
+    ],
+    "date_sort": "2026-06-13",
+    "registration_url": "https://www.delawarestatefootballcamps.com/",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
+    "school_name": "Georgetown",
+    "division": "FCS",
+    "conference": "Patriot",
+    "state": "MD",
+    "camp_types": [
+      "Specialist Camp"
+    ],
+    "dates": [
+      "June 13, 2026"
+    ],
+    "date_sort": "2026-06-13",
+    "registration_url": "https://www.georgetownfootballcamps.com/",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "East Carolina",
     "division": "FBS",
     "conference": "AAC",
@@ -5647,6 +5790,23 @@
     ],
     "date_sort": "2026-06-14",
     "registration_url": null,
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
+    "school_name": "Portland State",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "state": "OR",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 14, 2026",
+      "July 22, 2026"
+    ],
+    "date_sort": "2026-06-14",
+    "registration_url": "https://www.portlandstatefootballcamps.com/",
     "twitter_handle": null,
     "status": "upcoming"
   },
@@ -5920,6 +6080,22 @@
     "status": "upcoming"
   },
   {
+    "school_name": "Norfolk State",
+    "division": "FCS",
+    "conference": "MEAC",
+    "state": "VA",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 17, 2026"
+    ],
+    "date_sort": "2026-06-17",
+    "registration_url": "https://www.norfolkstatefootballcamps.com/",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "Chattanooga",
     "division": "FCS",
     "conference": "SoCon",
@@ -6143,6 +6319,22 @@
     "status": "upcoming"
   },
   {
+    "school_name": "Maine",
+    "division": "FCS",
+    "conference": "CAA",
+    "state": "ME",
+    "camp_types": [
+      "Elite Prospect Camp"
+    ],
+    "dates": [
+      "June 19, 2026"
+    ],
+    "date_sort": "2026-06-19",
+    "registration_url": "https://www.mainefootballcamps.com/",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "Georgia Southern",
     "division": "FBS",
     "conference": "Sun Belt",
@@ -6344,6 +6536,23 @@
     "status": "upcoming"
   },
   {
+    "school_name": "Stonehill",
+    "division": "FCS",
+    "conference": "NEC",
+    "state": "MA",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "June 20, 2026",
+      "June 27, 2026"
+    ],
+    "date_sort": "2026-06-20",
+    "registration_url": "https://www.stonehillfootballcamps.com/",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "Washington State",
     "division": "FBS",
     "conference": "Pac-12",
@@ -6538,6 +6747,24 @@
     "status": "upcoming"
   },
   {
+    "school_name": "Holy Cross",
+    "division": "FCS",
+    "conference": "Patriot",
+    "state": "MA",
+    "camp_types": [
+      "Showcase Camp"
+    ],
+    "dates": [
+      "June 22, 2026",
+      "June 23, 2026",
+      "July 22, 2026"
+    ],
+    "date_sort": "2026-06-22",
+    "registration_url": "https://www.goholycrossfootballcamps.com/",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "Eastern Washington",
     "division": "FCS",
     "conference": "Big Sky",
@@ -6591,6 +6818,25 @@
     ],
     "date_sort": "2026-06-24",
     "registration_url": null,
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
+    "school_name": "North Carolina Central",
+    "division": "FCS",
+    "conference": "MEAC",
+    "state": "NC",
+    "camp_types": [
+      "Prospect Camp",
+      "Youth Camp"
+    ],
+    "dates": [
+      "June 24, 2026",
+      "June 26, 2026",
+      "June 27, 2026"
+    ],
+    "date_sort": "2026-06-24",
+    "registration_url": "https://www.activekids.com/durham-nc/football/football-camps/trei-oliver-prospect-camp-2026",
     "twitter_handle": null,
     "status": "upcoming"
   },
@@ -6885,6 +7131,25 @@
     "status": "upcoming"
   },
   {
+    "school_name": "New Hampshire",
+    "division": "FCS",
+    "conference": "CAA",
+    "state": "NH",
+    "camp_types": [
+      "Football Evening Camp"
+    ],
+    "dates": [
+      "July 7, 2026",
+      "July 8, 2026",
+      "July 9, 2026",
+      "July 10, 2026"
+    ],
+    "date_sort": "2026-07-07",
+    "registration_url": "https://www.unh.edu/youthprograms/course/football-evening-camp",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "Hope College",
     "division": "D3",
     "conference": "MIAA",
@@ -6984,6 +7249,23 @@
     ],
     "date_sort": "2026-07-10",
     "registration_url": null,
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
+    "school_name": "Richmond",
+    "division": "FCS",
+    "conference": "CAA",
+    "state": "VA",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 10, 2026",
+      "July 11, 2026"
+    ],
+    "date_sort": "2026-07-10",
+    "registration_url": "https://richmondspiderscamps.com/",
     "twitter_handle": null,
     "status": "upcoming"
   },
@@ -7088,6 +7370,22 @@
     "status": "upcoming"
   },
   {
+    "school_name": "Long Island",
+    "division": "FCS",
+    "conference": "NEC",
+    "state": "NY",
+    "camp_types": [
+      "Specialist Camp"
+    ],
+    "dates": [
+      "July 11, 2026"
+    ],
+    "date_sort": "2026-07-11",
+    "registration_url": "https://www.liufootballcamps.com/",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
     "school_name": "Carthage College",
     "division": "D3",
     "conference": "CCIW",
@@ -7100,6 +7398,40 @@
     ],
     "date_sort": "2026-07-12",
     "registration_url": null,
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
+    "school_name": "VMI",
+    "division": "FCS",
+    "conference": "SoCon",
+    "state": "VA",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 12, 2026",
+      "July 19, 2026"
+    ],
+    "date_sort": "2026-07-12",
+    "registration_url": "https://vmikeydets.com/sports/2023/6/6/vmi-football-camps.aspx",
+    "twitter_handle": null,
+    "status": "upcoming"
+  },
+  {
+    "school_name": "Bucknell",
+    "division": "FCS",
+    "conference": "Patriot",
+    "state": "NY",
+    "camp_types": [
+      "Prospect Camp"
+    ],
+    "dates": [
+      "July 13, 2026",
+      "July 20, 2026"
+    ],
+    "date_sort": "2026-07-13",
+    "registration_url": "https://www.bucknellfootballcamps.com/",
     "twitter_handle": null,
     "status": "upcoming"
   },

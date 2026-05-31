@@ -1666,5 +1666,24 @@
   "Warner University": [
     27.9014,
     -81.5876
-  ]
+  ],
+  "Portland State": [45.5112, -122.6869],
+  "Missouri State": [37.1994, -93.2818],
+  "Murray State": [36.6109, -88.3210],
+  "Delaware State": [39.1889, -75.5410],
+  "Georgetown": [38.9076, -77.0723],
+  "Holy Cross": [42.2373, -71.8083],
+  "Lamar": [30.3293, -94.1018],
+  "Long Island": [40.8667, -72.8857],
+  "Maine": [44.8995, -68.6712],
+  "New Hampshire": [43.1355, -70.9339],
+  "Norfolk State": [36.8865, -76.2588],
+  "North Carolina A&T": [36.0726, -79.7730],
+  "North Carolina Central": [35.9742, -78.8989],
+  "Richmond": [37.5750, -77.5400],
+  "Samford": [33.4642, -86.7919],
+  "Stonehill": [42.0603, -71.0801],
+  "Valparaiso": [41.4639, -87.0439],
+  "Bucknell": [40.9540, -76.8824],
+  "VMI": [37.7872, -79.4367]
 }
