@@ -47,6 +47,7 @@ h1 span{font-weight:400;color:var(--muted);text-transform:none;letter-spacing:0;
 #grid-container{max-width:1400px;margin:0 auto;padding:16px 24px;display:none}
 .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px}
 .camp-card{background:var(--card);border-radius:var(--radius);border:1px solid var(--border);padding:20px;box-shadow:var(--shadow);border-left:4px solid var(--muted);transition:transform .15s,box-shadow .15s}
+.camp-card.has-brand{border-left-color:var(--school-accent,var(--muted))}
 .camp-card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,.4)}
 .camp-card[data-div="FBS"]{border-left-color:var(--fbs)}
 .camp-card[data-div="FCS"]{border-left-color:var(--fcs)}
@@ -55,7 +56,10 @@ h1 span{font-weight:400;color:var(--muted);text-transform:none;letter-spacing:0;
 .camp-card.completed{opacity:.72;border-left-color:var(--muted)!important}
 .completed-tag{font-size:.65rem;background:var(--border);color:var(--muted);padding:2px 6px;border-radius:4px;text-transform:uppercase;letter-spacing:.5px}
 .card-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:10px;gap:8px}
-.school-name{font-size:1.05rem;font-weight:600}
+.card-title-row{display:flex;align-items:flex-start;gap:10px;min-width:0}
+.school-logo{width:36px;height:36px;object-fit:contain;flex-shrink:0;background:#fff;border-radius:6px;padding:2px}
+.school-name{font-size:1.05rem;font-weight:600;line-height:1.2}
+.school-mascot{font-size:.75rem;color:var(--muted);font-weight:400;margin-top:2px}
 .badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:.7rem;font-weight:600;color:#fff;text-transform:uppercase;letter-spacing:.5px;flex-shrink:0}
 .badge-FBS{background:var(--fbs)}.badge-FCS{background:var(--fcs)}.badge-D2{background:var(--d2)}.badge-D3{background:var(--d3)}.badge-NAIA{background:var(--naia)}
 .meta{font-size:.82rem;color:var(--muted);margin-bottom:10px}
@@ -74,6 +78,8 @@ h1 span{font-weight:400;color:var(--muted);text-transform:none;letter-spacing:0;
 .leaflet-popup-content{margin:14px 16px!important;font-family:'Roboto Condensed',sans-serif!important;min-width:220px}
 .leaflet-popup-close-button{color:var(--muted)!important}
 .popup-school{font-size:1rem;font-weight:600;margin-bottom:4px;color:var(--accent)}
+.popup-mascot{font-size:.78rem;color:var(--muted);margin-bottom:4px}
+.popup-logo{width:32px;height:32px;object-fit:contain;background:#fff;border-radius:4px;padding:2px;margin-bottom:6px}
 .popup-conf{font-size:.8rem;color:var(--muted);margin-bottom:8px}
 .popup-camps{list-style:none;font-size:.82rem;margin-bottom:8px}
 .popup-camps li{padding:2px 0}
@@ -133,6 +139,25 @@ function escHtml(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+function schoolAccent(s) {
+  const c = s.primary_color;
+  if (c && /^#[0-9a-fA-F]{6}$/.test(c) && c.toLowerCase() !== '#000000') return c;
+  return DIV_COLORS[s.division] || '#999';
+}
+
+function locationLabel(s) {
+  const st = s.state ? (STATE_NAMES[s.state] || s.state) : '';
+  if (s.city && st) return s.city + ', ' + st;
+  if (s.city) return s.city;
+  if (st) return st;
+  return 'Location TBD';
+}
+
+function logoHtml(s, cls) {
+  if (!s.logo_url) return '';
+  return '<img class="' + cls + '" src="' + escHtml(s.logo_url) + '" alt="" loading="lazy" onerror="this.style.display=\'none\'">';
+}
+
 function getFilters() {
   return {
     division: document.getElementById('filter-division').value,
@@ -154,7 +179,7 @@ function matchesFilters(s, f) {
   if (upcomingOnly && s.status === 'completed') return false;
   if (f.search) {
     const stateName = STATE_NAMES[s.state] || '';
-    const hay = (s.school_name + ' ' + s.conference + ' ' + s.division + ' ' + stateName + ' ' + s.state + ' ' + s.camp_types.join(' ')).toLowerCase();
+    const hay = (s.school_name + ' ' + (s.mascot || '') + ' ' + (s.city || '') + ' ' + s.conference + ' ' + s.division + ' ' + stateName + ' ' + s.state + ' ' + s.camp_types.join(' ')).toLowerCase();
     if (!hay.includes(f.search)) return false;
   }
   return true;
@@ -221,17 +246,21 @@ function updateMap() {
   for (const s of filtered) {
     const c = schoolCoords[s.school_name];
     if (!c) continue;
-    const color = DIV_COLORS[s.division] || '#999';
+    const color = schoolAccent(s);
     const mk = L.circleMarker(c, { radius: 7, fillColor: color, color: '#111', weight: 2, fillOpacity: .9 });
     const camps = s.camp_types.map(t => '<li>' + escHtml(t) + '</li>').join('');
     const dates = s.dates.map(d => escHtml(d)).join('<br>');
-    const loc = s.state ? escHtml(STATE_NAMES[s.state] || s.state) : '';
+    const loc = escHtml(locationLabel(s));
+    const mascot = s.mascot ? '<div class="popup-mascot">' + escHtml(s.mascot) + '</div>' : '';
+    const logo = logoHtml(s, 'popup-logo');
     const link = s.registration_url ? '<a class="popup-link" href="' + escHtml(s.registration_url) + '" target="_blank" rel="noopener">Register →</a>' : '';
     const tw = s.twitter_handle ? '<div style="font-size:.78rem;margin-top:4px"><a href="https://x.com/' + escHtml(s.twitter_handle.replace('@','')) + '" target="_blank" rel="noopener" style="color:var(--text)">' + escHtml(s.twitter_handle) + '</a></div>' : '';
     mk.bindPopup(
+      logo +
       '<div class="popup-school">' + escHtml(s.school_name) + '</div>' +
+      mascot +
       '<span class="badge badge-' + s.division + '">' + s.division + '</span>' +
-      '<div class="popup-conf">' + escHtml(s.conference) + (loc ? ' · ' + loc : '') + '</div>' +
+      '<div class="popup-conf">' + escHtml(s.conference) + ' · ' + loc + '</div>' +
       '<ul class="popup-camps">' + camps + '</ul>' +
       '<div style="font-size:.78rem;color:#a89a86;line-height:1.4">' + dates + '</div>' +
       link + tw
@@ -254,12 +283,17 @@ function updateGrid() {
     const camps = s.camp_types.map(t => '<li><strong>' + escHtml(t) + '</strong></li>').join('');
     const link = url ? '<a class="reg-link" href="' + escHtml(url) + '" target="_blank" rel="noopener">Register →</a>' : '<span class="no-reg">Registration link not listed — check athletics site</span>';
     const tw = s.twitter_handle ? '<a class="twitter-link" href="https://x.com/' + escHtml(s.twitter_handle.replace('@','')) + '" target="_blank" rel="noopener">' + escHtml(s.twitter_handle) + '</a>' : '';
-    const loc = s.state ? escHtml(STATE_NAMES[s.state] || s.state) : 'Location TBD';
+    const accent = schoolAccent(s);
+    const mascot = s.mascot ? '<div class="school-mascot">' + escHtml(s.mascot) + '</div>' : '';
+    const loc = escHtml(locationLabel(s));
     const nextDate = s.dates[0] ? '<span style="color:var(--accent);font-weight:600">Next: ' + escHtml(s.dates[0]) + '</span>' : '';
     const completed = s.status === 'completed' ? ' completed' : '';
     const completedTag = s.status === 'completed' ? '<span class="completed-tag">Completed</span>' : '';
-    return '<div class="camp-card' + completed + '" data-div="' + s.division + '">' +
-      '<div class="card-header"><div class="school-name">' + escHtml(s.school_name) + '</div><div style="display:flex;gap:6px;align-items:center">' + completedTag + '<span class="badge badge-' + s.division + '">' + s.division + '</span></div></div>' +
+    const brandClass = s.primary_color ? ' has-brand' : '';
+    return '<div class="camp-card' + completed + brandClass + '" data-div="' + s.division + '" style="--school-accent:' + escHtml(accent) + '">' +
+      '<div class="card-header"><div class="card-title-row">' + logoHtml(s, 'school-logo') +
+      '<div><div class="school-name">' + escHtml(s.school_name) + '</div>' + mascot + '</div></div>' +
+      '<div style="display:flex;gap:6px;align-items:center">' + completedTag + '<span class="badge badge-' + s.division + '">' + s.division + '</span></div></div>' +
       '<div class="meta">' + escHtml(s.conference) + ' · ' + loc + '<br>' + nextDate + '</div>' +
       '<ul class="camp-list">' + camps + '</ul>' +
       '<div class="camp-dates" style="margin-bottom:10px">' + s.dates.map(d => escHtml(d)).join(' · ') + '</div>' +

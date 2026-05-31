@@ -1,0 +1,3047 @@
+{
+  "Alabama": {
+    "city": "Tuscaloosa",
+    "mascot": "Crimson Tide",
+    "primary_color": "#690014",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+  },
+  "Arizona": {
+    "city": "Tucson",
+    "mascot": "Wildcats",
+    "primary_color": "#002449",
+    "secondary_color": "#00205b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+  },
+  "Boise State": {
+    "city": "Boise",
+    "mascot": "Broncos",
+    "primary_color": "#09347a",
+    "secondary_color": "#d8d9da",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/68.png"
+  },
+  "Colorado State": {
+    "city": "Fort Collins",
+    "mascot": "Rams",
+    "primary_color": "#004537",
+    "secondary_color": "#ffc425",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/36.png"
+  },
+  "Florida": {
+    "city": "Gainesville",
+    "mascot": "Gators",
+    "primary_color": "#0021a5",
+    "secondary_color": "#0021a5",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/57.png"
+  },
+  "Florida State": {
+    "city": "Tallahassee",
+    "mascot": "Seminoles",
+    "primary_color": "#782f40",
+    "secondary_color": "#ceb888",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/52.png"
+  },
+  "Georgia Tech": {
+    "city": "Atlanta",
+    "mascot": "Yellow Jackets",
+    "primary_color": "#00223e",
+    "secondary_color": "#002c56",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/59.png"
+  },
+  "Houston": {
+    "city": "Houston",
+    "mascot": "Cougars",
+    "primary_color": "#c90822",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/248.png"
+  },
+  "Jacksonville State": {
+    "city": "Jacksonville",
+    "mascot": "Gamecocks",
+    "primary_color": "#b50500",
+    "secondary_color": "#b5b7ba",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/55.png"
+  },
+  "Memphis": {
+    "city": "Memphis",
+    "mascot": "Tigers",
+    "primary_color": "#002447",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/235.png"
+  },
+  "Middle Tennessee": {
+    "city": "Murfreesboro",
+    "mascot": "Blue Raiders",
+    "primary_color": "#0079c2",
+    "secondary_color": "#c3c5c8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png"
+  },
+  "Nevada": {
+    "city": "Reno",
+    "mascot": "Wolf Pack",
+    "primary_color": "#153e5f",
+    "secondary_color": "#8e9295",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png"
+  },
+  "SMU": {
+    "city": "Dallas",
+    "mascot": "Mustangs",
+    "primary_color": "#e32f38",
+    "secondary_color": "#ecdcb9",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png"
+  },
+  "Wake Forest": {
+    "city": "Winston-Salem",
+    "mascot": "Demon Deacons",
+    "primary_color": "#9e7e38",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/154.png"
+  },
+  "West Virginia": {
+    "city": "Morgantown",
+    "mascot": "Mountaineers",
+    "primary_color": "#ffc600",
+    "secondary_color": "#eaaa00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/277.png"
+  },
+  "Bethune-Cookman": {
+    "city": "Daytona Beach",
+    "mascot": "Wildcats",
+    "primary_color": "#7b1831",
+    "secondary_color": "#e9aa12",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2065.png"
+  },
+  "Fordham": {
+    "city": "New York City",
+    "mascot": "Rams",
+    "primary_color": "#830032",
+    "secondary_color": "#909090",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2230.png"
+  },
+  "Jackson State": {
+    "city": "Jackson",
+    "mascot": "Tigers",
+    "primary_color": "#123297",
+    "secondary_color": "#b5b7ba",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2296.png"
+  },
+  "Mercer": {
+    "city": "Macon",
+    "mascot": "Bears",
+    "primary_color": "#ff7f29",
+    "secondary_color": "#080808",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2382.png"
+  },
+  "Tarleton State": {
+    "city": "Glen Rose",
+    "mascot": "Texans",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2627.png"
+  },
+  "UC Davis": {
+    "city": "Davis",
+    "mascot": "Aggies",
+    "primary_color": "#183563",
+    "secondary_color": "#bc9305",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/302.png"
+  },
+  "Utah Tech": {
+    "city": "St. George",
+    "mascot": "Trailblazers",
+    "primary_color": "#00843d",
+    "secondary_color": "#ffffff",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/3101.png"
+  },
+  "Arkansas Tech": {
+    "city": "Township of Illinois",
+    "mascot": "Wonder Boys",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2033.png"
+  },
+  "Glenville State": {
+    "city": "Glenville",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2249.png"
+  },
+  "Missouri Western State": {
+    "city": "St. Joseph",
+    "mascot": "Griffons",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/137.png"
+  },
+  "Nebraska-Kearney": {
+    "city": "Kearney",
+    "mascot": "Lopers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2438.png"
+  },
+  "Wayne State University": {
+    "city": "Detroit",
+    "mascot": "Warriors",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/131.png"
+  },
+  "Fairleigh Dickinson University-Florham": {
+    "city": "Madison",
+    "mascot": "Devils",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2221.png"
+  },
+  "University of Mary Hardin-Baylor": {
+    "city": "Belton",
+    "mascot": "Crusaders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2371.png"
+  },
+  "North Central College": {
+    "city": "Naperville",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/3071.png"
+  },
+  "Trinity University": {
+    "city": "San Antonio",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/386.png"
+  },
+  "Arizona State": {
+    "city": "Phoenix",
+    "mascot": "Sun Devils",
+    "primary_color": "#942139",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/9.png"
+  },
+  "BYU": {
+    "city": "Provo-Orem",
+    "mascot": "Cougars",
+    "primary_color": "#001e4c",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png"
+  },
+  "Boston College": {
+    "city": "Boston",
+    "mascot": "Eagles",
+    "primary_color": "#88001a",
+    "secondary_color": "#a39161",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/103.png"
+  },
+  "Charlotte": {
+    "city": "Charlotte",
+    "mascot": "49ers",
+    "primary_color": "#0c562d",
+    "secondary_color": "#cfab7a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png"
+  },
+  "Cincinnati": {
+    "city": "Cincinnati",
+    "mascot": "Bearcats",
+    "primary_color": null,
+    "secondary_color": "#717073",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png"
+  },
+  "Clemson": {
+    "city": "Clemson",
+    "mascot": "Tigers",
+    "primary_color": "#f66733",
+    "secondary_color": "#522d80",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/228.png"
+  },
+  "Iowa State": {
+    "city": "Township of Washington",
+    "mascot": "Cyclones",
+    "primary_color": "#660015",
+    "secondary_color": "#830b2c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/66.png"
+  },
+  "Kennesaw State": {
+    "city": "Atlanta",
+    "mascot": "Owls",
+    "primary_color": null,
+    "secondary_color": "#fdbb30",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/338.png"
+  },
+  "LSU": {
+    "city": "East Baton Rouge Parish",
+    "mascot": "Tigers",
+    "primary_color": "#22005c",
+    "secondary_color": "#fdd023",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
+  },
+  "Marshall": {
+    "city": "Huntington",
+    "mascot": "Thundering Herd",
+    "primary_color": "#186329",
+    "secondary_color": "#be854c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/276.png"
+  },
+  "Ohio State": {
+    "city": "Columbus",
+    "mascot": "Buckeyes",
+    "primary_color": "#de3121",
+    "secondary_color": "#666666",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/194.png"
+  },
+  "Oklahoma": {
+    "city": "Norman",
+    "mascot": "Sooners",
+    "primary_color": "#7b0000",
+    "secondary_color": "#cccccc",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/201.png"
+  },
+  "Penn State": {
+    "city": "State College",
+    "mascot": "Nittany Lions",
+    "primary_color": "#00265d",
+    "secondary_color": "#002e5c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/213.png"
+  },
+  "South Carolina": {
+    "city": "Columbia",
+    "mascot": "Gamecocks",
+    "primary_color": "#670010",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png"
+  },
+  "Texas A&M": {
+    "city": "South Brazos",
+    "mascot": "Aggies",
+    "primary_color": "#5c0025",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/245.png"
+  },
+  "UAB": {
+    "city": "Birmingham",
+    "mascot": "Blazers",
+    "primary_color": "#003b28",
+    "secondary_color": "#ffc845",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/5.png"
+  },
+  "USF": {
+    "city": "Tampa",
+    "mascot": "Bulls",
+    "primary_color": "#004a36",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/58.png"
+  },
+  "Washington": {
+    "city": "Seattle",
+    "mascot": "Huskies",
+    "primary_color": "#2b2f64",
+    "secondary_color": "#e8e3d3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
+  },
+  "Charleston Southern": {
+    "city": "North Charleston",
+    "mascot": "Buccaneers",
+    "primary_color": "#2e3192",
+    "secondary_color": "#ded090",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2127.png"
+  },
+  "ETSU": {
+    "city": "Johnson City",
+    "mascot": "Buccaneers",
+    "primary_color": "#002d61",
+    "secondary_color": "#ffc423",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2193.png"
+  },
+  "Furman": {
+    "city": "Greer",
+    "mascot": "Paladins",
+    "primary_color": "#4a2184",
+    "secondary_color": "#909090",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/231.png"
+  },
+  "Houston Christian": {
+    "city": "Houston",
+    "mascot": "Huskies",
+    "primary_color": "#00539c",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2277.png"
+  },
+  "Lehigh": {
+    "city": "Bethlehem",
+    "mascot": "Mountain Hawks",
+    "primary_color": "#6c2b2a",
+    "secondary_color": "#b69e70",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2329.png"
+  },
+  "Stephen F. Austin": {
+    "city": "Nacogdoches",
+    "mascot": "Lumberjacks",
+    "primary_color": "#393996",
+    "secondary_color": "#bec0c2",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2617.png"
+  },
+  "Adams State": {
+    "city": "Alamosa",
+    "mascot": "Grizzlies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2001.png"
+  },
+  "Ouachita Baptist University": {
+    "city": "Clark County",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2888.png"
+  },
+  "Alvernia University": {
+    "city": "Reading",
+    "mascot": "Golden Wolves",
+    "primary_color": "#862633",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/alvernia-university.svg"
+  },
+  "John Carroll University": {
+    "city": "University Heights",
+    "mascot": "Blue Streaks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2302.png"
+  },
+  "Utica University": {
+    "city": "Utica",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/390.png"
+  },
+  "Northwestern College": {
+    "city": "Orange City",
+    "mascot": "Red Raiders",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/northwestern-college.svg"
+  },
+  "Lamar": {
+    "city": "Buna",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2320.png"
+  },
+  "Auburn": {
+    "city": "Auburn-opelika",
+    "mascot": "Tigers",
+    "primary_color": "#03244d",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2.png"
+  },
+  "Eastern Michigan": {
+    "city": "Ypsilanti",
+    "mascot": "Eagles",
+    "primary_color": "#00331b",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png"
+  },
+  "Florida Atlantic": {
+    "city": "Miami",
+    "mascot": "Owls",
+    "primary_color": "#004b85",
+    "secondary_color": "#bb2f4c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png"
+  },
+  "FIU": {
+    "city": "Miami",
+    "mascot": "Golden Panthers",
+    "primary_color": "#001538",
+    "secondary_color": "#c5960c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png"
+  },
+  "Kansas": {
+    "city": "Lawrence",
+    "mascot": "Jayhawks",
+    "primary_color": "#0022b4",
+    "secondary_color": "#e8000d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+  },
+  "Kent State": {
+    "city": "Kent",
+    "mascot": "Golden Flashes",
+    "primary_color": "#002445",
+    "secondary_color": "#f0b510",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png"
+  },
+  "Louisiana-Monroe": {
+    "city": "Ouachita Parish",
+    "mascot": "Warhawks",
+    "primary_color": "#231f20",
+    "secondary_color": "#b18445",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png"
+  },
+  "Nebraska": {
+    "city": "Lincoln",
+    "mascot": "Cornhuskers",
+    "primary_color": "#f20017",
+    "secondary_color": "#f5f1e7",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png"
+  },
+  "Ole Miss": {
+    "city": "District 1",
+    "mascot": "Rebels",
+    "primary_color": "#001148",
+    "secondary_color": "#00205b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png"
+  },
+  "Rutgers": {
+    "city": "New Brunswick",
+    "mascot": "Scarlet Knights",
+    "primary_color": "#d21034",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/164.png"
+  },
+  "San Diego State": {
+    "city": "San Diego",
+    "mascot": "Aztecs",
+    "primary_color": "#bf2c37",
+    "secondary_color": "#a8996e",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/21.png"
+  },
+  "Texas": {
+    "city": "Austin",
+    "mascot": "Longhorns",
+    "primary_color": "#ee7524",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+  },
+  "Texas State": {
+    "city": "San Marcos",
+    "mascot": "Bobcats",
+    "primary_color": "#4e1719",
+    "secondary_color": "#b4975a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/326.png"
+  },
+  "Utah": {
+    "city": "Salt Lake City",
+    "mascot": "Utes",
+    "primary_color": "#890012",
+    "secondary_color": "#7e8083",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/254.png"
+  },
+  "Drake": {
+    "city": "Des Moines",
+    "mascot": "Bulldogs",
+    "primary_color": "#004477",
+    "secondary_color": "#c0c0c0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2181.png"
+  },
+  "McNeese State": {
+    "city": "Lake Charles",
+    "mascot": "Cowboys",
+    "primary_color": "#00529c",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2377.png"
+  },
+  "Youngstown State": {
+    "city": "Youngstown",
+    "mascot": "Penguins",
+    "primary_color": "#e51936",
+    "secondary_color": "#690717",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2754.png"
+  },
+  "Northeastern State": {
+    "city": "North Cherokee",
+    "mascot": "RiverHawks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/196.png"
+  },
+  "Tuskegee": {
+    "city": "Tuskegee",
+    "mascot": "Golden Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2657.png"
+  },
+  "Western New Mexico": {
+    "city": "Santa Clara",
+    "mascot": "Mustangs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2703.png"
+  },
+  "Ursinus College": {
+    "city": "Philadelphia",
+    "mascot": "Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2667.png"
+  },
+  "Missouri State": {
+    "city": "Springfield",
+    "mascot": "Bears",
+    "primary_color": "#5f0000",
+    "secondary_color": "#e8e8e8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2623.png"
+  },
+  "Murray State": {
+    "city": "Murray",
+    "mascot": "Racers",
+    "primary_color": "#002148",
+    "secondary_color": "#000e00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/93.png"
+  },
+  "Colorado": {
+    "city": "Boulder",
+    "mascot": "Buffaloes",
+    "primary_color": "#d1c57e",
+    "secondary_color": "#ffd200",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
+  },
+  "Georgia State": {
+    "city": "Atlanta",
+    "mascot": "Panthers",
+    "primary_color": "#1e539a",
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png"
+  },
+  "Iowa": {
+    "city": "Iowa City",
+    "mascot": "Hawkeyes",
+    "primary_color": null,
+    "secondary_color": "#ffe100",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png"
+  },
+  "Missouri": {
+    "city": "Township of Columbia",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png"
+  },
+  "Syracuse": {
+    "city": "Syracuse",
+    "mascot": "Orange",
+    "primary_color": "#f37321",
+    "secondary_color": "#0d1d37",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/183.png"
+  },
+  "UNLV": {
+    "city": "Las Vegas",
+    "mascot": "Rebels",
+    "primary_color": null,
+    "secondary_color": "#c2c4c6",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png"
+  },
+  "UTSA": {
+    "city": "San Antonio",
+    "mascot": "Roadrunners",
+    "primary_color": "#002a5c",
+    "secondary_color": "#f47321",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png"
+  },
+  "Campbell": {
+    "city": "Township of Ingrams",
+    "mascot": "Camels",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2097.png"
+  },
+  "Central Arkansas": {
+    "city": "Township of Cadron",
+    "mascot": "Bears",
+    "primary_color": "#a7a9ac",
+    "secondary_color": "#8e959a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2110.png"
+  },
+  "Duquesne": {
+    "city": "Pittsburgh",
+    "mascot": "Dukes",
+    "primary_color": "#002d62",
+    "secondary_color": "#b90b2e",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2184.png"
+  },
+  "Prairie View A&M": {
+    "city": "Prairie View",
+    "mascot": "Panthers",
+    "primary_color": "#4d0960",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2504.png"
+  },
+  "Rhode Island": {
+    "city": "South Kingstown",
+    "mascot": "Rams",
+    "primary_color": "#3691c6",
+    "secondary_color": "#5ab3e8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/227.png"
+  },
+  "Southern Utah": {
+    "city": "Cedar City",
+    "mascot": "Thunderbirds",
+    "primary_color": "#d10000",
+    "secondary_color": "#c2c3c0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/253.png"
+  },
+  "West Georgia": {
+    "city": "Buchanan",
+    "mascot": "Wolves",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2698.png"
+  },
+  "Anderson University": {
+    "city": "Anderson",
+    "mascot": "Ravens",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2023.png"
+  },
+  "University of Charleston": {
+    "city": "Charleston",
+    "mascot": "Golden Eagles",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2128.png"
+  },
+  "Fairmont State": {
+    "city": "Fairmont",
+    "mascot": "Falcons",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2986.png"
+  },
+  "Ferris State": {
+    "city": "Big Rapids",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2222.png"
+  },
+  "Kutztown University": {
+    "city": "Township of Maxatawny",
+    "mascot": "Golden Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2315.png"
+  },
+  "New Mexico Highlands": {
+    "city": "Las Vegas",
+    "mascot": "Cowboys",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2424.png"
+  },
+  "Southern Arkansas": {
+    "city": "Township of Liberty",
+    "mascot": "Muleriders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2568.png"
+  },
+  "West Florida": {
+    "city": "Cantonment",
+    "mascot": "Argonauts",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "https://ncaa-api.henrygd.me/logo/west-florida.svg"
+  },
+  "Berry College": {
+    "city": "Rome",
+    "mascot": "Vikings",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2757.png"
+  },
+  "University of Dubuque": {
+    "city": "Dubuque",
+    "mascot": "Spartans",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/49.png"
+  },
+  "East Texas Baptist University": {
+    "city": "Beckville",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2194.png"
+  },
+  "Indiana Wesleyan University": {
+    "city": "Marion",
+    "mascot": "Wildcats",
+    "primary_color": "#002855",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/indiana-wesleyan-university.svg"
+  },
+  "Texas Wesleyan University": {
+    "city": "Fort Worth",
+    "mascot": "Rams",
+    "primary_color": "#003087",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/texas-wesleyan-university.svg"
+  },
+  "Valparaiso": {
+    "city": "Township of Center",
+    "mascot": "Crusaders",
+    "primary_color": "#794500",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2674.png"
+  },
+  "Coastal Carolina": {
+    "city": "Conway",
+    "mascot": "Chanticleers",
+    "primary_color": "#007073",
+    "secondary_color": "#876447",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/324.png"
+  },
+  "Mississippi State": {
+    "city": "District 2",
+    "mascot": "Bulldogs",
+    "primary_color": "#762123",
+    "secondary_color": "#c8c8c8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/344.png"
+  },
+  "Northwestern": {
+    "city": "Evanston",
+    "mascot": "Wildcats",
+    "primary_color": "#372286",
+    "secondary_color": "#d6cac1",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/77.png"
+  },
+  "Rice": {
+    "city": "Houston",
+    "mascot": "Owls",
+    "primary_color": "#003d7d",
+    "secondary_color": "#d1d5d8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/242.png"
+  },
+  "Sam Houston": {
+    "city": "Huntsville",
+    "mascot": "Bearkats",
+    "primary_color": "#f78f1e",
+    "secondary_color": "#f78e1e",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2534.png"
+  },
+  "Southern Miss": {
+    "city": "District 5",
+    "mascot": "Golden Eagles",
+    "primary_color": "#ffaa3c",
+    "secondary_color": "#ffc423",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png"
+  },
+  "TCU": {
+    "city": "Fort Worth",
+    "mascot": "Horned Frogs",
+    "primary_color": "#3c377d",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png"
+  },
+  "Temple": {
+    "city": "Philadelphia",
+    "mascot": "Owls",
+    "primary_color": "#a80532",
+    "secondary_color": "#a7a9ac",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/218.png"
+  },
+  "Toledo": {
+    "city": "Toledo",
+    "mascot": "Rockets",
+    "primary_color": "#00488f",
+    "secondary_color": "#ffd51d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png"
+  },
+  "Troy": {
+    "city": "Troy",
+    "mascot": "Trojans",
+    "primary_color": "#ae0210",
+    "secondary_color": "#88898c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png"
+  },
+  "Virginia Tech": {
+    "city": "District E-01",
+    "mascot": "Hokies",
+    "primary_color": "#74232d",
+    "secondary_color": "#c2c1ba",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/259.png"
+  },
+  "Western Kentucky": {
+    "city": "Bowling Green",
+    "mascot": "Hilltoppers",
+    "primary_color": "#f32026",
+    "secondary_color": "#b3b5b8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/98.png"
+  },
+  "Western Michigan": {
+    "city": "Kalamazoo",
+    "mascot": "Broncos",
+    "primary_color": "#b59966",
+    "secondary_color": "#bfa979",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png"
+  },
+  "Lindenwood": {
+    "city": "Township of Rivers",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2815.png"
+  },
+  "Montana State": {
+    "city": "Bozeman",
+    "mascot": "Bobcats",
+    "primary_color": "#003875",
+    "secondary_color": "#bf965c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/147.png"
+  },
+  "New Haven": {
+    "city": "New Haven",
+    "mascot": "Chargers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2441.png"
+  },
+  "Northwestern State": {
+    "city": "Natchitoches Parish",
+    "mascot": "Demons",
+    "primary_color": "#492f91",
+    "secondary_color": "#ed6118",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2466.png"
+  },
+  "Southeastern Louisiana": {
+    "city": "Tangipahoa Parish",
+    "mascot": "Lions",
+    "primary_color": "#007550",
+    "secondary_color": "#dca008",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2545.png"
+  },
+  "Towson": {
+    "city": "Baltimore",
+    "mascot": "Tigers",
+    "primary_color": "#ffc229",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/119.png"
+  },
+  "Western Carolina": {
+    "city": "Cullowhee",
+    "mascot": "Catamounts",
+    "primary_color": "#492f91",
+    "secondary_color": "#bf9e70",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2717.png"
+  },
+  "Carson-Newman": {
+    "city": "District 5",
+    "mascot": "Eagles",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2105.png"
+  },
+  "Catawba College": {
+    "city": "Salisbury",
+    "mascot": "Indians",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/catawba-college.svg"
+  },
+  "Kentucky State": {
+    "city": "Frankfort",
+    "mascot": "Thorobreds",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2310.png"
+  },
+  "Kentucky Wesleyan": {
+    "city": "Owensboro",
+    "mascot": "Panthers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2316.png"
+  },
+  "Shorter University": {
+    "city": "Armuchee",
+    "mascot": "Hawks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2560.png"
+  },
+  "Southeastern Oklahoma State": {
+    "city": "Durant",
+    "mascot": "Savage Storm",
+    "primary_color": "#004b87",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/southeastern-oklahoma-state.svg"
+  },
+  "Tiffin University": {
+    "city": "Tiffin",
+    "mascot": "Dragons",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2838.png"
+  },
+  "Baker University": {
+    "city": "Township of Palmyra",
+    "mascot": "Wildcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/488.png"
+  },
+  "Valley City State University": {
+    "city": "Valley City",
+    "mascot": "Vikings",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/628.png"
+  },
+  "Appalachian State": {
+    "city": "Boone",
+    "mascot": "Mountaineers",
+    "primary_color": null,
+    "secondary_color": "#ffcd00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png"
+  },
+  "Buffalo": {
+    "city": "Town of Amherst",
+    "mascot": "Bulls",
+    "primary_color": "#041a9b",
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png"
+  },
+  "Fresno State": {
+    "city": "Fresno",
+    "mascot": "Bulldogs",
+    "primary_color": "#c41230",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/278.png"
+  },
+  "Old Dominion": {
+    "city": "Norfolk",
+    "mascot": "Monarchs",
+    "primary_color": "#00507d",
+    "secondary_color": "#a1d2f1",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/295.png"
+  },
+  "UMass": {
+    "city": "Amherst",
+    "mascot": "Minutemen",
+    "primary_color": "#880007",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/113.png"
+  },
+  "Alabama A&M": {
+    "city": "Huntsville",
+    "mascot": "Bulldogs",
+    "primary_color": "#790000",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2010.png"
+  },
+  "Cal Poly": {
+    "city": "San Luis Obispo",
+    "mascot": "Mustangs",
+    "primary_color": "#1e4d2b",
+    "secondary_color": "#eed897",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/13.png"
+  },
+  "East Texas A&M": {
+    "city": "Commerce",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2837.png"
+  },
+  "FAMU": {
+    "city": "Tallahassee",
+    "mascot": "Rattlers",
+    "primary_color": "#f89728",
+    "secondary_color": "#00843d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/50.png"
+  },
+  "Gardner-Webb": {
+    "city": "Shelby",
+    "mascot": "Bulldogs",
+    "primary_color": "#c12535",
+    "secondary_color": "#909090",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2241.png"
+  },
+  "Morgan State": {
+    "city": "Baltimore",
+    "mascot": "Bears",
+    "primary_color": "#014786",
+    "secondary_color": "#f47937",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2415.png"
+  },
+  "Northern Arizona": {
+    "city": "Flagstaff",
+    "mascot": "Lumberjacks",
+    "primary_color": "#003976",
+    "secondary_color": "#1b3069",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2464.png"
+  },
+  "North Alabama": {
+    "city": "Muscle Shoals",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2453.png"
+  },
+  "Robert Morris": {
+    "city": "Township of Moon",
+    "mascot": "Colonials",
+    "primary_color": "#00214d",
+    "secondary_color": "#a21d2b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2523.png"
+  },
+  "Sacred Heart": {
+    "city": "Newtown",
+    "mascot": "Pioneers",
+    "primary_color": "#a40012",
+    "secondary_color": "#c29472",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2529.png"
+  },
+  "Tennessee Tech": {
+    "city": "Cookeville",
+    "mascot": "Golden Eagles",
+    "primary_color": "#5a4099",
+    "secondary_color": "#ffde00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2635.png"
+  },
+  "William & Mary": {
+    "city": "Williamsburg",
+    "mascot": "Tribe",
+    "primary_color": "#103217",
+    "secondary_color": "#f6b220",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2729.png"
+  },
+  "Central Oklahoma": {
+    "city": "Oklahoma City",
+    "mascot": "Bronchos",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2122.png"
+  },
+  "East Stroudsburg University": {
+    "city": "East Stroudsburg",
+    "mascot": "Warriors",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2188.png"
+  },
+  "Ferrum College": {
+    "city": "Blue Ridge District",
+    "mascot": "Panthers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/366.png"
+  },
+  "Lincoln University (Pennsylvania)": {
+    "city": "Oxford",
+    "mascot": "Orange & Blue",
+    "primary_color": "#f47920",
+    "secondary_color": "#003087",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/lincoln-university-pennsylvania.svg"
+  },
+  "Livingstone College": {
+    "city": "Salisbury",
+    "mascot": "Blue Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2940.png"
+  },
+  "Minot State": {
+    "city": "Minot",
+    "mascot": "Beavers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/568.png"
+  },
+  "Schreiner University": {
+    "city": "Kerrville",
+    "mascot": "Mountaineers",
+    "primary_color": "#512888",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/schreiner-university.svg"
+  },
+  "Keiser University": {
+    "city": "West Palm Beach",
+    "mascot": "Seahawks",
+    "primary_color": "#0066cc",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/keiser-university.svg"
+  },
+  "Arkansas": {
+    "city": "Fayetteville",
+    "mascot": "Razorbacks",
+    "primary_color": "#9c1831",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png"
+  },
+  "Ball State": {
+    "city": "Township of Center",
+    "mascot": "Cardinals",
+    "primary_color": "#da0000",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png"
+  },
+  "Cal": {
+    "city": "San Francisco",
+    "mascot": "Golden Bears",
+    "primary_color": "#031522",
+    "secondary_color": "#ffc423",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/25.png"
+  },
+  "Central Michigan": {
+    "city": "Mount Pleasant",
+    "mascot": "Chippewas",
+    "primary_color": "#6a0032",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png"
+  },
+  "Kansas State": {
+    "city": "Manhattan",
+    "mascot": "Wildcats",
+    "primary_color": "#633194",
+    "secondary_color": "#e7d2ad",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png"
+  },
+  "Liberty": {
+    "city": "Lynchburg",
+    "mascot": "Flames",
+    "primary_color": "#071740",
+    "secondary_color": "#a61f21",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png"
+  },
+  "Louisiana-Lafayette": {
+    "city": "Lafayette Parish",
+    "mascot": "Ragin' Cajuns",
+    "primary_color": "#ce2842",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/309.png"
+  },
+  "Maryland": {
+    "city": "Washington",
+    "mascot": "Terrapins",
+    "primary_color": "#d5002b",
+    "secondary_color": "#ffcd00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/120.png"
+  },
+  "Miami": {
+    "city": "Miami",
+    "mascot": "Hurricanes",
+    "primary_color": "#004325",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"
+  },
+  "NC State": {
+    "city": "Raleigh",
+    "mascot": "Wolfpack",
+    "primary_color": "#ef1216",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/152.png"
+  },
+  "North Carolina": {
+    "city": "Chapel Hill",
+    "mascot": "Tar Heels",
+    "primary_color": "#99bfe5",
+    "secondary_color": "#13294b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+  },
+  "North Texas": {
+    "city": "Denton",
+    "mascot": "Mean Green",
+    "primary_color": "#00853d",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/249.png"
+  },
+  "Oklahoma State": {
+    "city": "Stillwater",
+    "mascot": "Cowboys",
+    "primary_color": "#ff6500",
+    "secondary_color": "#ff9900",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/197.png"
+  },
+  "Purdue": {
+    "city": "Township of Wabash",
+    "mascot": "Boilermakers",
+    "primary_color": "#b89d29",
+    "secondary_color": "#a4a9ad",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png"
+  },
+  "South Alabama": {
+    "city": "Mobile",
+    "mascot": "Jaguars",
+    "primary_color": "#003e7e",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/6.png"
+  },
+  "UConn": {
+    "city": "Mansfield City",
+    "mascot": "Huskies",
+    "primary_color": "#001d40",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+  },
+  "Vanderbilt": {
+    "city": "Nashville",
+    "mascot": "Commodores",
+    "primary_color": null,
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/238.png"
+  },
+  "Columbia": {
+    "city": "New York",
+    "mascot": "Lions",
+    "primary_color": "#174785",
+    "secondary_color": "#004b85",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/171.png"
+  },
+  "Eastern Illinois": {
+    "city": "Township of Charleston",
+    "mascot": "Panthers",
+    "primary_color": null,
+    "secondary_color": "#bebab9",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2197.png"
+  },
+  "Monmouth": {
+    "city": "Township of Ocean",
+    "mascot": "Hawks",
+    "primary_color": "#051844",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2405.png"
+  },
+  "Northern Iowa": {
+    "city": "Cedar Falls",
+    "mascot": "Panthers",
+    "primary_color": "#473282",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2460.png"
+  },
+  "South Dakota": {
+    "city": "Township of Vermillion",
+    "mascot": "Coyotes",
+    "primary_color": "#cd1241",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/233.png"
+  },
+  "Wofford": {
+    "city": "Spartanburg",
+    "mascot": "Terriers",
+    "primary_color": "#533b23",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2747.png"
+  },
+  "Arkansas-Monticello": {
+    "city": "Township of Marion",
+    "mascot": "Weevils",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2028.png"
+  },
+  "Augustana University": {
+    "city": "Sioux Falls",
+    "mascot": "Vikings",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2043.png"
+  },
+  "Indiana University of Pennsylvania": {
+    "city": "Indiana",
+    "mascot": "Crimson Hawks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2291.png"
+  },
+  "Amherst College": {
+    "city": "Amherst",
+    "mascot": "Mammoths",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/7.png"
+  },
+  "Augustana College": {
+    "city": "Rock Island",
+    "mascot": "Vikings",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2042.png"
+  },
+  "University of Puget Sound": {
+    "city": "Tacoma",
+    "mascot": "Loggers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2508.png"
+  },
+  "Union College": {
+    "city": "Schenectady",
+    "mascot": "Dutchmen",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2841.png"
+  },
+  "WPI": {
+    "city": "Worcester",
+    "mascot": "Engineers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2749.png"
+  },
+  "University of Wisconsin-Oshkosh": {
+    "city": "Oshkosh",
+    "mascot": "Titans",
+    "primary_color": "#000000",
+    "secondary_color": "#ffd200",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-wisconsin-oshkosh.svg"
+  },
+  "Louisiana Tech": {
+    "city": "Lincoln Parish",
+    "mascot": "Bulldogs",
+    "primary_color": "#002d65",
+    "secondary_color": "#d3313a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png"
+  },
+  "Virginia": {
+    "city": "Samuel Miller District",
+    "mascot": "Cavaliers",
+    "primary_color": "#00204e",
+    "secondary_color": "#002d62",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/258.png"
+  },
+  "Howard": {
+    "city": "Washington",
+    "mascot": "Bison",
+    "primary_color": "#9e0b0e",
+    "secondary_color": "#6b818d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/47.png"
+  },
+  "Northern Colorado": {
+    "city": "Greeley",
+    "mascot": "Bears",
+    "primary_color": "#13558d",
+    "secondary_color": "#ffc533",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2458.png"
+  },
+  "South Dakota State": {
+    "city": "Township of Brookings",
+    "mascot": "Jackrabbits",
+    "primary_color": "#005dab",
+    "secondary_color": "#c33139",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2571.png"
+  },
+  "Colorado School of Mines": {
+    "city": "Golden",
+    "mascot": "Orediggers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2146.png"
+  },
+  "Northwestern Oklahoma State": {
+    "city": "Woodward",
+    "mascot": "Rangers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2823.png"
+  },
+  "Adrian College": {
+    "city": "Adrian",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2003.png"
+  },
+  "Illinois College": {
+    "city": "Jacksonville",
+    "mascot": "Blueboys",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2286.png"
+  },
+  "Montana Tech": {
+    "city": "Butte",
+    "mascot": "Orediggers",
+    "primary_color": "#006633",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/montana-tech.svg"
+  },
+  "Montana Western": {
+    "city": "Dillon",
+    "mascot": "Bulldogs",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2701.png"
+  },
+  "Bowling Green": {
+    "city": "Bowling Green",
+    "mascot": "Falcons",
+    "primary_color": "#2b1000",
+    "secondary_color": "#492000",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/189.png"
+  },
+  "Delaware": {
+    "city": "Philadelphia",
+    "mascot": "Blue Hens",
+    "primary_color": "#033594",
+    "secondary_color": "#e8ce31",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/48.png"
+  },
+  "Notre Dame": {
+    "city": "Township of Portage",
+    "mascot": "Fighting Irish",
+    "primary_color": "#00122b",
+    "secondary_color": "#ae9142",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/87.png"
+  },
+  "Sacramento State": {
+    "city": "Sacramento",
+    "mascot": "Hornets",
+    "primary_color": "#00573c",
+    "secondary_color": "#cdb97d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/16.png"
+  },
+  "Dayton": {
+    "city": "Dayton",
+    "mascot": "Flyers",
+    "primary_color": "#004b8d",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2168.png"
+  },
+  "UIW": {
+    "city": "San Antonio",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": "#080808",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2916.png"
+  },
+  "Villanova": {
+    "city": "Philadelphia",
+    "mascot": "Wildcats",
+    "primary_color": "#123d7c",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/222.png"
+  },
+  "Minnesota State - Mankato": {
+    "city": "Mankato",
+    "mascot": "Mavericks",
+    "primary_color": "#4f2170",
+    "secondary_color": "#ffc82d",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/minnesota-state---mankato.svg"
+  },
+  "University of Wisconsin-Eau Claire": {
+    "city": "Eau Claire",
+    "mascot": "Blugolds",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2738.png"
+  },
+  "University of Rio Grande": {
+    "city": "Rio Grande",
+    "mascot": "RedStorm",
+    "primary_color": "#c8102e",
+    "secondary_color": "#000000",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-rio-grande.svg"
+  },
+  "Morehead State": {
+    "city": "Morehead",
+    "mascot": "Eagles",
+    "primary_color": "#094fa3",
+    "secondary_color": "#fed91a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2413.png"
+  },
+  "Southern Illinois": {
+    "city": "Township of Carbondale",
+    "mascot": "Salukis",
+    "primary_color": "#85283d",
+    "secondary_color": "#c2c3c0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/79.png"
+  },
+  "Wagner": {
+    "city": "New York City",
+    "mascot": "Seahawks",
+    "primary_color": "#00483a",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2681.png"
+  },
+  "Delta State": {
+    "city": "District 3",
+    "mascot": "Statesmen",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2170.png"
+  },
+  "Emory and Henry College": {
+    "city": "Madison District",
+    "mascot": "Wasps",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2213.png"
+  },
+  "Minnesota Duluth": {
+    "city": "Duluth",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/134.png"
+  },
+  "West Texas A&M": {
+    "city": "Amarillo",
+    "mascot": "Buffaloes",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2704.png"
+  },
+  "Macalester College": {
+    "city": "Saint Paul",
+    "mascot": "Scots",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2359.png"
+  },
+  "Carroll College": {
+    "city": "Helena",
+    "mascot": "Fighting Saints",
+    "primary_color": "#006633",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/carroll-college.svg"
+  },
+  "Olivet Nazarene University": {
+    "city": "Bourbonnais",
+    "mascot": "Tigers",
+    "primary_color": "#512888",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/olivet-nazarene-university.svg"
+  },
+  "Samford": {
+    "city": "Birmingham",
+    "mascot": "Bulldogs",
+    "primary_color": "#005485",
+    "secondary_color": "#bc0023",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2535.png"
+  },
+  "Duke": {
+    "city": "Durham",
+    "mascot": "Blue Devils",
+    "primary_color": "#001a57",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+  },
+  "Miami (Ohio)": {
+    "city": "Oxford",
+    "mascot": "RedHawks",
+    "primary_color": "#a4000c",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/193.png"
+  },
+  "North Dakota": {
+    "city": "Township of Oakport",
+    "mascot": "Fighting Hawks",
+    "primary_color": "#00a26b",
+    "secondary_color": "#c2c3c0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/155.png"
+  },
+  "Albany State": {
+    "city": "Albany",
+    "mascot": "Golden Rams",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2013.png"
+  },
+  "Fort Hays State": {
+    "city": "Hays",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2231.png"
+  },
+  "Washburn University": {
+    "city": "Topeka",
+    "mascot": "Ichabods",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2687.png"
+  },
+  "Howard Payne University": {
+    "city": "Bangs",
+    "mascot": "Yellow Jackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2758.png"
+  },
+  "University of Wisconsin-Platteville": {
+    "city": "Platteville",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/272.png"
+  },
+  "University of Wisconsin-Whitewater": {
+    "city": "Whitewater",
+    "mascot": "Warhawks",
+    "primary_color": "#512888",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-wisconsin-whitewater.svg"
+  },
+  "Reinhardt University": {
+    "city": "White",
+    "mascot": "Eagles",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2890.png"
+  },
+  "New Mexico": {
+    "city": "Albuquerque",
+    "mascot": "Lobos",
+    "primary_color": null,
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/167.png"
+  },
+  "North Dakota State": {
+    "city": "Fargo",
+    "mascot": "Bison",
+    "primary_color": "#01402a",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2449.png"
+  },
+  "Idaho": {
+    "city": "Moscow",
+    "mascot": "Yotes",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "https://ncaa-api.henrygd.me/logo/idaho.svg"
+  },
+  "Idaho State": {
+    "city": "Pocatello",
+    "mascot": "Bengals",
+    "primary_color": "#ef8c00",
+    "secondary_color": "#e9a126",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/304.png"
+  },
+  "South Carolina State": {
+    "city": "Orangeburg",
+    "mascot": "Bulldogs",
+    "primary_color": "#7d1315",
+    "secondary_color": "#104897",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2569.png"
+  },
+  "Bloomsburg University": {
+    "city": "Bloomsburg",
+    "mascot": "Huskies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2071.png"
+  },
+  "Harding University": {
+    "city": "Township of Gray",
+    "mascot": "Bison",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2264.png"
+  },
+  "Lenoir-Rhyne": {
+    "city": "Hickory",
+    "mascot": "Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2331.png"
+  },
+  "Pittsburg State": {
+    "city": "Pittsburg",
+    "mascot": "Gorillas",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/90.png"
+  },
+  "West Virginia State": {
+    "city": "Institute",
+    "mascot": "Yellow Jackets",
+    "primary_color": "#000000",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/west-virginia-state.svg"
+  },
+  "Calvin University": {
+    "city": "Grand Rapids",
+    "mascot": "Knights",
+    "primary_color": "#862633",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/calvin-university.svg"
+  },
+  "Springfield College": {
+    "city": "Springfield",
+    "mascot": "Pride",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/81.png"
+  },
+  "Campbellsville University": {
+    "city": "Campbellsville",
+    "mascot": "Tigers",
+    "primary_color": "#862633",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/campbellsville-university.svg"
+  },
+  "Marian University": {
+    "city": "Indianapolis",
+    "mascot": "Knights",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2366.png"
+  },
+  "North Carolina A&T": {
+    "city": "Greensboro",
+    "mascot": "Aggies",
+    "primary_color": "#0505aa",
+    "secondary_color": "#004684",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2448.png"
+  },
+  "Arkansas State": {
+    "city": "Jonesboro",
+    "mascot": "Red Wolves",
+    "primary_color": "#e81018",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png"
+  },
+  "Stanford": {
+    "city": "San Jose",
+    "mascot": "Cardinal",
+    "primary_color": "#a80532",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/24.png"
+  },
+  "Wyoming": {
+    "city": "Laramie",
+    "mascot": "Cowboys",
+    "primary_color": "#533b22",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png"
+  },
+  "Alabama State": {
+    "city": "Montgomery",
+    "mascot": "Hornets",
+    "primary_color": "#e9a900",
+    "secondary_color": "#0a0a0a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2011.png"
+  },
+  "Austin Peay": {
+    "city": "Clarksville",
+    "mascot": "Governors",
+    "primary_color": "#8e0b0b",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2046.png"
+  },
+  "Bryant": {
+    "city": "North Smithfield",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": "#9f8343",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2803.png"
+  },
+  "Davidson College": {
+    "city": "Davidson",
+    "mascot": "Wildcats",
+    "primary_color": null,
+    "secondary_color": "#e51837",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2166.png"
+  },
+  "Elon": {
+    "city": "Township 3-Boone Station",
+    "mascot": "Phoenix",
+    "primary_color": "#020303",
+    "secondary_color": "#b59a57",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2210.png"
+  },
+  "Montana": {
+    "city": "Missoula",
+    "mascot": "Grizzlies",
+    "primary_color": "#751d4a",
+    "secondary_color": "#666666",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/149.png"
+  },
+  "East Central University": {
+    "city": "South Central Pontotoc",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2191.png"
+  },
+  "Henderson State": {
+    "city": "Clark County",
+    "mascot": "Reddies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2271.png"
+  },
+  "University of Indianapolis": {
+    "city": "Indianapolis",
+    "mascot": "Greyhounds",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2292.png"
+  },
+  "Virginia Union": {
+    "city": "Richmond",
+    "mascot": "Panthers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2676.png"
+  },
+  "Lebanon Valley College": {
+    "city": "Township of West Cornwall",
+    "mascot": "Flying Dutchmen",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/388.png"
+  },
+  "Pacific Lutheran University": {
+    "city": "Tacoma",
+    "mascot": "Lutes",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2486.png"
+  },
+  "Ave Maria University": {
+    "city": "Immokalee",
+    "mascot": "Gyrenes",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/3178.png"
+  },
+  "Delaware State": {
+    "city": "Dover",
+    "mascot": "Hornets",
+    "primary_color": "#ff3630",
+    "secondary_color": "#009cdd",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2169.png"
+  },
+  "Georgetown": {
+    "city": "Washington",
+    "mascot": "Hoyas",
+    "primary_color": "#110e42",
+    "secondary_color": "#001c58",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/46.png"
+  },
+  "East Carolina": {
+    "city": "Greenville",
+    "mascot": "Pirates",
+    "primary_color": "#4b1869",
+    "secondary_color": "#f0907b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/151.png"
+  },
+  "USC": {
+    "city": "Los Angeles",
+    "mascot": "Trojans",
+    "primary_color": "#ae2531",
+    "secondary_color": "#ffc72c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
+  },
+  "Penn": {
+    "city": "Township of Rayne",
+    "mascot": "Quakers",
+    "primary_color": "#082a74",
+    "secondary_color": "#a6163d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/219.png"
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "mascot": "Tigers",
+    "primary_color": "#ff9408",
+    "secondary_color": "#080808",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/163.png"
+  },
+  "San Diego": {
+    "city": "San Diego",
+    "mascot": "Toreros",
+    "primary_color": "#2f99d4",
+    "secondary_color": "#2f99d4",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/301.png"
+  },
+  "Southern": {
+    "city": "Baton Rouge",
+    "mascot": "Jaguars",
+    "primary_color": "#004b97",
+    "secondary_color": "#ffc82d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2582.png"
+  },
+  "Northwest Missouri State": {
+    "city": "Township of Polk",
+    "mascot": "Bearcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/138.png"
+  },
+  "University of Rochester": {
+    "city": "Rochester",
+    "mascot": "Yellow Jackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/184.png"
+  },
+  "Georgetown College": {
+    "city": "Georgetown",
+    "mascot": "Tigers",
+    "primary_color": "#000000",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/georgetown-college.svg"
+  },
+  "St. Thomas University": {
+    "city": "Miami Gardens",
+    "mascot": "Bobcats",
+    "primary_color": "#003087",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/st-thomas-university.svg"
+  },
+  "Portland State": {
+    "city": "Portland",
+    "mascot": "Vikings",
+    "primary_color": "#00311e",
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2502.png"
+  },
+  "Capital University": {
+    "city": "Bexley",
+    "mascot": "Crusaders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/424.png"
+  },
+  "Lewis & Clark College": {
+    "city": "Portland",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2333.png"
+  },
+  "Newberry College": {
+    "city": "Newberry",
+    "mascot": "Wolves",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2444.png"
+  },
+  "Slippery Rock": {
+    "city": "Township of Slippery Rock",
+    "mascot": "The Rock",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/215.png"
+  },
+  "Olivet College": {
+    "city": "Olivet",
+    "mascot": "Comets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/354.png"
+  },
+  "Washington & Jefferson College": {
+    "city": "Washington",
+    "mascot": "Presidents",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2686.png"
+  },
+  "The Citadel": {
+    "city": "Charleston",
+    "mascot": "Bulldogs",
+    "primary_color": "#002b5c",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2643.png"
+  },
+  "Weber State": {
+    "city": "Ogden",
+    "mascot": "Wildcats",
+    "primary_color": "#18005a",
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2692.png"
+  },
+  "Western Illinois": {
+    "city": "Macomb",
+    "mascot": "Leathernecks",
+    "primary_color": "#4e1e8a",
+    "secondary_color": "#ffc90a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2710.png"
+  },
+  "West Chester": {
+    "city": "Philadelphia",
+    "mascot": "Golden Rams",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/223.png"
+  },
+  "Carroll University": {
+    "city": "Waukesha",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/32.png"
+  },
+  "Otterbein University": {
+    "city": "Columbus",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/359.png"
+  },
+  "University of Wisconsin-River Falls": {
+    "city": "River Falls",
+    "mascot": "Falcons",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-wisconsin-river-falls.svg"
+  },
+  "University of Pikeville": {
+    "city": "Pikeville",
+    "mascot": "Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/95.png"
+  },
+  "Norfolk State": {
+    "city": "Norfolk",
+    "mascot": "Spartans",
+    "primary_color": "#046546",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2450.png"
+  },
+  "Chattanooga": {
+    "city": "District 1",
+    "mascot": "Mocs",
+    "primary_color": "#00386b",
+    "secondary_color": "#dca71d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/236.png"
+  },
+  "Lafayette": {
+    "city": "Easton",
+    "mascot": "Leopards",
+    "primary_color": "#790000",
+    "secondary_color": "#a59474",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/322.png"
+  },
+  "Stony Brook": {
+    "city": "Brookhaven",
+    "mascot": "Seawolves",
+    "primary_color": "#990000",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2619.png"
+  },
+  "University of St. Thomas": {
+    "city": "St. Paul",
+    "mascot": "Tommies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2900.png"
+  },
+  "Yale": {
+    "city": "New Haven",
+    "mascot": "Bulldogs",
+    "primary_color": "#004a81",
+    "secondary_color": "#286dc0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/43.png"
+  },
+  "Lincoln University (Missouri)": {
+    "city": "Jefferson City",
+    "mascot": "Blue Tigers",
+    "primary_color": "#003087",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/lincoln-university-missouri.svg"
+  },
+  "Texas Lutheran University": {
+    "city": "Seguin",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2639.png"
+  },
+  "Navy": {
+    "city": "Baltimore",
+    "mascot": "Midshipmen",
+    "primary_color": "#131630",
+    "secondary_color": "#b6a77c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png"
+  },
+  "UTEP": {
+    "city": "El Paso",
+    "mascot": "Miners",
+    "primary_color": "#002843",
+    "secondary_color": "#ff6f12",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png"
+  },
+  "Arkansas-Pine Bluff": {
+    "city": "Township of Vaugine",
+    "mascot": "Golden Lions",
+    "primary_color": "#e0aa0f",
+    "secondary_color": "#eaaa00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2029.png"
+  },
+  "Northwood University": {
+    "city": "Midland",
+    "mascot": "Timberwolves",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2886.png"
+  },
+  "Thomas More": {
+    "city": "Independence",
+    "mascot": "Saints",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2646.png"
+  },
+  "Maine": {
+    "city": "Orono",
+    "mascot": "Black Bears",
+    "primary_color": "#127dbe",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/311.png"
+  },
+  "Georgia Southern": {
+    "city": "Statesboro",
+    "mascot": "Eagles",
+    "primary_color": "#003775",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/290.png"
+  },
+  "Central Connecticut State": {
+    "city": "Plainville",
+    "mascot": "Blue Devils",
+    "primary_color": "#1b49a2",
+    "secondary_color": "#d1d5d8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2115.png"
+  },
+  "Southeast Missouri State": {
+    "city": "Township of Cape Girardeau",
+    "mascot": "Redhawks",
+    "primary_color": "#cc0000",
+    "secondary_color": "#080808",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2546.png"
+  },
+  "Johnson C. Smith University": {
+    "city": "Charlotte",
+    "mascot": "Golden Bulls",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2304.png"
+  },
+  "William Jewell College": {
+    "city": "Township of Liberty",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2911.png"
+  },
+  "Nebraska Wesleyan University": {
+    "city": "Lincoln",
+    "mascot": "Neb Wesleyan",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/6845.png"
+  },
+  "College of Wooster": {
+    "city": "Wooster",
+    "mascot": "Fighting Scots",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2748.png"
+  },
+  "Graceland University": {
+    "city": "Township of Clay",
+    "mascot": "Yellowjackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/530.png"
+  },
+  "Lindsey Wilson College": {
+    "city": "Tracy",
+    "mascot": "Blue Raiders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2877.png"
+  },
+  "Missouri Baptist University": {
+    "city": "Township of Columbia",
+    "mascot": "Spartans",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2880.png"
+  },
+  "Warner University": {
+    "city": "Lake Wales",
+    "mascot": "Royals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2683.png"
+  },
+  "Stonehill": {
+    "city": "Boston",
+    "mascot": "Chieftains",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/284.png"
+  },
+  "Washington State": {
+    "city": "Pullman",
+    "mascot": "Cougars",
+    "primary_color": "#94022a",
+    "secondary_color": "#6a747c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/265.png"
+  },
+  "Dartmouth": {
+    "city": "Hanover",
+    "mascot": "Big Green",
+    "primary_color": "#005730",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/159.png"
+  },
+  "Indiana State": {
+    "city": "Township of Sugar Creek",
+    "mascot": "Sycamores",
+    "primary_color": "#00669a",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/282.png"
+  },
+  "Washington University in St. Louis": {
+    "city": "St. Louis",
+    "mascot": "Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/143.png"
+  },
+  "Brown": {
+    "city": "Providence",
+    "mascot": "Bears",
+    "primary_color": "#411e09",
+    "secondary_color": "#949300",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/225.png"
+  },
+  "Illinois State": {
+    "city": "Township of Normal",
+    "mascot": "Redbirds",
+    "primary_color": "#ce1126",
+    "secondary_color": "#ffe716",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2287.png"
+  },
+  "American International College": {
+    "city": "Springfield",
+    "mascot": "Yellow Jackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2022.png"
+  },
+  "Central State": {
+    "city": "Township of Xenia",
+    "mascot": "Marauders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2119.png"
+  },
+  "Michigan Tech": {
+    "city": "Houghton",
+    "mascot": "Huskies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2392.png"
+  },
+  "Claremont-Mudd-Scripps": {
+    "city": "Claremont",
+    "mascot": "Stags/Athenas",
+    "primary_color": "#8a2432",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/claremont-mudd-scripps.svg"
+  },
+  "Holy Cross": {
+    "city": "Worcester",
+    "mascot": "Crusaders",
+    "primary_color": "#0a0a0a",
+    "secondary_color": "#080808",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/107.png"
+  },
+  "Eastern Washington": {
+    "city": "Cheney",
+    "mascot": "Eagles",
+    "primary_color": "#a10022",
+    "secondary_color": "#abb4bc",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/331.png"
+  },
+  "Harvard": {
+    "city": "Boston",
+    "mascot": "Crimson",
+    "primary_color": "#990000",
+    "secondary_color": "#dbdbdb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/108.png"
+  },
+  "Massachusetts Maritime Academy": {
+    "city": "Buzzards Bay",
+    "mascot": "Buccaneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/110.png"
+  },
+  "North Carolina Central": {
+    "city": "Durham",
+    "mascot": "Eagles",
+    "primary_color": "#880023",
+    "secondary_color": "#c2c3c0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2428.png"
+  },
+  "Concordia University, St. Paul": {
+    "city": "Saint Paul",
+    "mascot": "Golden Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/3066.png"
+  },
+  "University of Wisconsin-Stout": {
+    "city": "Menomonie",
+    "mascot": "Blue Devils",
+    "primary_color": "#002855",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-wisconsin-stout.svg"
+  },
+  "Colgate": {
+    "city": "Hamilton",
+    "mascot": "Raiders",
+    "primary_color": "#8b011d",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2142.png"
+  },
+  "Cornell": {
+    "city": "Ithaca",
+    "mascot": "Big Red",
+    "primary_color": "#d60027",
+    "secondary_color": "#101010",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/172.png"
+  },
+  "Texas Southern": {
+    "city": "Houston",
+    "mascot": "Tigers",
+    "primary_color": "#6a0403",
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2640.png"
+  },
+  "Grand Valley State": {
+    "city": "Charter Township of Allendale",
+    "mascot": "Lakers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/125.png"
+  },
+  "Minnesota State - Moorhead": {
+    "city": "Moorhead",
+    "mascot": "Dragon",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2817.png"
+  },
+  "Sioux Falls": {
+    "city": "Sioux Falls",
+    "mascot": "Cougars",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2894.png"
+  },
+  "UNC Pembroke": {
+    "city": "Township of Pembroke",
+    "mascot": "Braves",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2882.png"
+  },
+  "Allen University": {
+    "city": "Columbia",
+    "mascot": "Yellow Jackets",
+    "primary_color": "#004b87",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/allen-university.svg"
+  },
+  "Northern State": {
+    "city": "Township of Aberdeen",
+    "mascot": "Wolves",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/425.png"
+  },
+  "Wayne State College": {
+    "city": "Wayne",
+    "mascot": "Wildcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2844.png"
+  },
+  "Crown College": {
+    "city": "Orono",
+    "mascot": "Storm",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/509.png"
+  },
+  "MIT": {
+    "city": "Boston",
+    "mascot": "Engineers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/109.png"
+  },
+  "Wesleyan University": {
+    "city": "Middletown",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/336.png"
+  },
+  "Fort Lewis College": {
+    "city": "Durango",
+    "mascot": "Skyhawks",
+    "primary_color": "#003087",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/fort-lewis-college.svg"
+  },
+  "New Hampshire": {
+    "city": "Durham",
+    "mascot": "Wildcats",
+    "primary_color": "#004990",
+    "secondary_color": "#c3c4c6",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/160.png"
+  },
+  "Hope College": {
+    "city": "Holland",
+    "mascot": "Flying Dutchmen",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2812.png"
+  },
+  "Oklahoma Panhandle State University": {
+    "city": "Goodwell",
+    "mascot": "Aggies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2824.png"
+  },
+  "Midwestern State": {
+    "city": "Wichita Falls",
+    "mascot": "Mustangs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2395.png"
+  },
+  "Dakota State University": {
+    "city": "Township of Lake View",
+    "mascot": "Trojans",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/512.png"
+  },
+  "Wheaton College (IL)": {
+    "city": "Wheaton",
+    "mascot": "Thunder",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/396.png"
+  },
+  "University of Wisconsin-Stevens Point": {
+    "city": "Stevens Point",
+    "mascot": "Pointers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2743.png"
+  },
+  "Richmond": {
+    "city": "Richmond",
+    "mascot": "Spiders",
+    "primary_color": "#9e0712",
+    "secondary_color": "#b90b2e",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/257.png"
+  },
+  "Emporia State": {
+    "city": "Emporia",
+    "mascot": "Hornets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2214.png"
+  },
+  "PennWest Edinboro": {
+    "city": "Edinboro",
+    "mascot": "Fighting Scots",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2205.png"
+  },
+  "Southwest Baptist University": {
+    "city": "Township of Cass",
+    "mascot": "Bearcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2586.png"
+  },
+  "Denison University": {
+    "city": "Township of Granville",
+    "mascot": "Big Red",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2171.png"
+  },
+  "University of Minnesota Morris": {
+    "city": "Morris",
+    "mascot": "Cougars",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2399.png"
+  },
+  "Wilkes University": {
+    "city": "Wilkes-Barre Township",
+    "mascot": "Colonels",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/398.png"
+  },
+  "Long Island": {
+    "city": "Brookville",
+    "mascot": "Sharks",
+    "primary_color": "#0066cc",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2089.png"
+  },
+  "Carthage College": {
+    "city": "City of Kenosha",
+    "mascot": "Redmen",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2106.png"
+  },
+  "VMI": {
+    "city": "Lexington",
+    "mascot": "Keydets",
+    "primary_color": "#e52d37",
+    "secondary_color": "#eec52b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2678.png"
+  },
+  "Bucknell": {
+    "city": "Township of East Buffalo",
+    "mascot": "Bison",
+    "primary_color": "#000060",
+    "secondary_color": "#00316e",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2083.png"
+  },
+  "UVA Wise": {
+    "city": "District 2",
+    "mascot": "Highland Cavaliers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2842.png"
+  },
+  "Bowdoin College": {
+    "city": "Brunswick",
+    "mascot": "Polar Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/340.png"
+  },
+  "University of Jamestown": {
+    "city": "Township of Midway",
+    "mascot": "Jimmies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2939.png"
+  },
+  "Bentley University": {
+    "city": "Boston",
+    "mascot": "Falcons",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2060.png"
+  },
+  "Missouri S&T": {
+    "city": "Township of Columbia",
+    "mascot": "Miners",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2402.png"
+  },
+  "Upper Iowa": {
+    "city": "Township of Decorah",
+    "mascot": "Peacocks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/389.png"
+  },
+  "University of Chicago": {
+    "city": "Chicago",
+    "mascot": "Maroons",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/80.png"
+  },
+  "Mercyhurst": {
+    "city": "Erie",
+    "mascot": "Lakers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2385.png"
+  },
+  "Saint Anselm": {
+    "city": "Manchester",
+    "mascot": "Hawks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2830.png"
+  },
+  "Western Colorado": {
+    "city": "Gunnison",
+    "mascot": "Mountaineers",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/western-colorado.svg"
+  },
+  "Case Western Reserve University": {
+    "city": "Cleveland",
+    "mascot": "Spartans",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2963.png"
+  },
+  "Rose-Hulman Institute of Technology": {
+    "city": "Terre Haute",
+    "mascot": "Engineers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/86.png"
+  },
+  "Washington & Lee University": {
+    "city": "Lexington",
+    "mascot": "Generals",
+    "primary_color": "#003087",
+    "secondary_color": "#ffffff",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2688.png"
+  },
+  "Williams College": {
+    "city": "Williamstown",
+    "mascot": "Ephs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2731.png"
+  },
+  "Black Hills State": {
+    "city": "Unorganized Territory of North Lawrence",
+    "mascot": "Yellow Jackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2069.png"
+  },
+  "Bates College": {
+    "city": "Lewiston",
+    "mascot": "Bobcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/121.png"
+  },
+  "Shepherd": {
+    "city": "Tuscarora",
+    "mascot": "Rams",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2974.png"
+  },
+  "Thiel College": {
+    "city": "Township of Shenango",
+    "mascot": "Tomcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2644.png"
+  },
+  "Hardin-Simmons University": {
+    "city": "Abilene",
+    "mascot": "Cowboys",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2810.png"
+  },
+  "University of Redlands": {
+    "city": "San Bernardino",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/29.png"
+  },
+  "Louisville": {
+    "city": "Mount Washington",
+    "mascot": "Cardinals",
+    "primary_color": "#ad000a",
+    "secondary_color": "#cccccc",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
+  },
+  "Augsburg University": {
+    "city": "Minneapolis",
+    "mascot": "Auggies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/124.png"
+  },
+  "University of La Verne": {
+    "city": "Los Angeles",
+    "mascot": "Leopards",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2318.png"
+  },
+  "Millsaps College": {
+    "city": "District 2",
+    "mascot": "Majors",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2398.png"
+  },
+  "Davenport University": {
+    "city": "Grand Rapids",
+    "mascot": "Panthers",
+    "primary_color": "#c8102e",
+    "secondary_color": "#000000",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/davenport-university.svg"
+  },
+  "Franklin & Marshall College": {
+    "city": "Lancaster",
+    "mascot": "Diplomats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2234.png"
+  },
+  "Wisconsin Lutheran College": {
+    "city": "Wauwatosa",
+    "mascot": "Warriors",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2741.png"
+  },
+  "Saint Vincent College": {
+    "city": "Latrobe",
+    "mascot": "Bearcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2614.png"
+  },
+  "Bemidji State": {
+    "city": "Bemidji",
+    "mascot": "Beavers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/132.png"
+  },
+  "PennWest Clarion": {
+    "city": "Clarion",
+    "mascot": "Golden Eagles",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2134.png"
+  },
+  "Lake Forest College": {
+    "city": "Township of Shields",
+    "mascot": "Foresters",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/262.png"
+  },
+  "Roanoke College": {
+    "city": "Salem",
+    "mascot": "Maroons",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/roanoke-college.svg"
+  },
+  "Simpson University": {
+    "city": "Redding",
+    "mascot": "Storm",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2564.png"
+  },
+  "Hamilton College": {
+    "city": "Kirkland",
+    "mascot": "Continentals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/348.png"
+  },
+  "Middlebury College": {
+    "city": "Middlebury (village)",
+    "mascot": "Panthers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2394.png"
+  },
+  "University of New England": {
+    "city": "Biddeford",
+    "mascot": "Nor'easters",
+    "primary_color": "#003087",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-new-england.svg"
+  },
+  "Norwich University": {
+    "city": "Barre",
+    "mascot": "Cadets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2467.png"
+  },
+  "Benedictine College": {
+    "city": "Atchison",
+    "mascot": "Bndctne Col",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/16111.png"
+  },
+  "Muhlenberg College": {
+    "city": "Allentown",
+    "mascot": "Mules",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2422.png"
+  },
+  "Mars Hill University": {
+    "city": "Mars Hill",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2369.png"
+  },
+  "Muskingum University": {
+    "city": "Township of Falls",
+    "mascot": "Muskies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/332.png"
+  },
+  "Bluffton University": {
+    "city": "Township of Richland",
+    "mascot": "Beavers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2074.png"
+  },
+  "Shippensburg University": {
+    "city": "Shippensburg",
+    "mascot": "Raiders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2559.png"
+  },
+  "West Liberty": {
+    "city": "District 2",
+    "mascot": "Hilltoppers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2699.png"
+  },
+  "Walsh University": {
+    "city": "Township of Plain",
+    "mascot": "Cavaliers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2682.png"
+  },
+  "Grambling State": {
+    "city": "Lincoln Parish",
+    "mascot": "Tigers",
+    "primary_color": "#ee8601",
+    "secondary_color": "#ffd10a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2755.png"
+  },
+  "Albright College": {
+    "city": "Reading",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2015.png"
+  },
+  "Alfred State College": {
+    "city": "Town of Alfred",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/3162.png"
+  },
+  "King's College": {
+    "city": "Wilkes-Barre",
+    "mascot": "Monarchs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/247.png"
+  },
+  "Lyon College": {
+    "city": "Batesville",
+    "mascot": "Scots",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/lyon-college.svg"
+  },
+  "Maryville College": {
+    "city": "Maryville",
+    "mascot": "Fighting Scots",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2373.png"
+  },
+  "Mount St. Joseph University": {
+    "city": "Delhi",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2419.png"
+  },
+  "Waynesburg University": {
+    "city": "Waynesburg",
+    "mascot": "Yellow Jackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2845.png"
+  },
+  "Missouri Valley College": {
+    "city": "Marshall",
+    "mascot": "Vikings",
+    "primary_color": "#512888",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/missouri-valley-college.svg"
+  },
+  "Union Commonwealth University": {
+    "city": "Barbourville",
+    "mascot": "Bulldogs",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/union-commonwealth-university.svg"
+  },
+  "Ohio": {
+    "city": "Township of Athens",
+    "mascot": "Bobcats",
+    "primary_color": "#295a29",
+    "secondary_color": "#e4bb85",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/195.png"
+  },
+  "Marist": {
+    "city": "Poughkeepsie",
+    "mascot": "Red Foxes",
+    "primary_color": "#e53730",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2368.png"
+  },
+  "Nicholls State": {
+    "city": "Thibodaux",
+    "mascot": "Colonels",
+    "primary_color": "#c41230",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2447.png"
+  },
+  "Central Missouri": {
+    "city": "Warrensburg",
+    "mascot": "Mules",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2118.png"
+  },
+  "Chadron State College": {
+    "city": "Chadron",
+    "mascot": "Eagles",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2123.png"
+  },
+  "Whittier College": {
+    "city": "Los Angeles",
+    "mascot": "Poets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2850.png"
+  }
+}

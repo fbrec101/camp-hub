@@ -12,6 +12,7 @@ const ROOT = path.resolve(__dirname, '..');
 const RAW_FILE = path.join(ROOT, 'camps_raw.json');
 const MANUAL_FILE = path.join(ROOT, 'manual_camps.json');
 const OVERRIDES_FILE = path.join(ROOT, 'school_overrides.json');
+const META_FILE = path.join(ROOT, 'school_meta.json');
 const CAMPS_FILE = path.join(ROOT, 'camps_master.json');
 const COORDS_FILE = path.join(ROOT, 'school_coords.json');
 
@@ -145,10 +146,25 @@ function applyOverrides(school, overrides, coords) {
   };
 }
 
+function withMetaFields(base, meta) {
+  const m = meta[base.school_name] || {};
+  return {
+    ...base,
+    city: m.city || null,
+    mascot: m.mascot || null,
+    primary_color: m.primary_color || null,
+    secondary_color: m.secondary_color || null,
+    logo_url: m.logo_url || null,
+  };
+}
+
 const asOfDate = new Date(AS_OF + 'T12:00:00');
 const coords = JSON.parse(fs.readFileSync(COORDS_FILE, 'utf8'));
 const overrides = fs.existsSync(OVERRIDES_FILE)
   ? JSON.parse(fs.readFileSync(OVERRIDES_FILE, 'utf8'))
+  : {};
+const meta = fs.existsSync(META_FILE)
+  ? JSON.parse(fs.readFileSync(META_FILE, 'utf8'))
   : {};
 const raw = JSON.parse(fs.readFileSync(RAW_FILE, 'utf8'));
 const manual = fs.existsSync(MANUAL_FILE)
@@ -171,7 +187,7 @@ for (const school of merged) {
 
   if (!allParsed.length) {
     if (!base.registration_url) continue;
-    out.push({
+    out.push(withMetaFields({
       school_name: base.school_name,
       division: base.division,
       conference: base.conference,
@@ -182,7 +198,7 @@ for (const school of merged) {
       registration_url: normalizeUrl(base.registration_url),
       twitter_handle: base.twitter_handle || null,
       status: 'upcoming',
-    });
+    }, meta));
     continue;
   }
 
@@ -190,7 +206,7 @@ for (const school of merged) {
   const displayDates = (upcoming.length ? upcoming : allParsed).map((d) => d.display);
   const nextSort = (upcoming[0] || allParsed[allParsed.length - 1]).start.toISOString().slice(0, 10);
 
-  out.push({
+  out.push(withMetaFields({
     school_name: base.school_name,
     division: base.division,
     conference: base.conference,
@@ -201,7 +217,7 @@ for (const school of merged) {
     registration_url: normalizeUrl(base.registration_url),
     twitter_handle: base.twitter_handle || null,
     status: upcoming.length ? 'upcoming' : 'completed',
-  });
+  }, meta));
 }
 
 out.sort((a, b) => {
@@ -214,3 +230,6 @@ const fcs = out.filter((s) => s.division === 'FCS');
 console.log(`Normalized ${out.length} schools (${out.filter((s) => s.status === 'upcoming').length} upcoming, ${out.filter((s) => s.status === 'completed').length} completed)`);
 console.log(`FCS: ${fcs.length} (${fcs.filter((s) => s.status === 'upcoming').length} upcoming, ${fcs.filter((s) => s.dates.some((d) => d.startsWith('June'))).length} with June)`);
 console.log(`June camps overall: ${out.filter((s) => s.dates.some((d) => d.startsWith('June'))).length} schools`);
+if (Object.keys(meta).length) {
+  console.log(`Meta: ${out.filter((s) => s.mascot).length} mascots, ${out.filter((s) => s.city).length} cities, ${out.filter((s) => s.primary_color).length} colors`);
+}

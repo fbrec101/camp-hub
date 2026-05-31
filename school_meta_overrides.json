@@ -1,0 +1,400 @@
+{
+  "Utah Tech": {
+    "sdv_name": "Dixie State",
+    "mascot": "Trailblazers",
+    "primary_color": "#00843d",
+    "secondary_color": "#ffffff",
+    "city": "St. George"
+  },
+  "Houston Christian": {
+    "sdv_name": "Houston Baptist",
+    "city": "Houston"
+  },
+  "East Texas A&M": {
+    "sdv_name": "Texas A&M-Commerce",
+    "mascot": "Lions",
+    "city": "Commerce"
+  },
+  "Louisiana-Lafayette": {
+    "sdv_name": "Louisiana"
+  },
+  "Southern": {
+    "sdv_name": "Southern",
+    "city": "Baton Rouge"
+  },
+  "UIW": {
+    "sdv_name": "Incarnate Word",
+    "city": "San Antonio"
+  },
+  "Columbia": {
+    "sdv_name": "Columbia",
+    "city": "New York"
+  },
+  "Missouri Western State": {
+    "sdv_name": "Missouri Western",
+    "city": "St. Joseph"
+  },
+  "Wayne State University": {
+    "sdv_name": "Wayne State (MI)",
+    "city": "Detroit"
+  },
+  "Wayne State College": {
+    "sdv_name": "Wayne State (NE)",
+    "city": "Wayne"
+  },
+  "Fairleigh Dickinson University-Florham": {
+    "sdv_name": "FDU-Florham",
+    "city": "Madison"
+  },
+  "Trinity University": {
+    "sdv_name": "Trinity (TX)",
+    "city": "San Antonio"
+  },
+  "McNeese State": {
+    "sdv_name": "McNeese",
+    "city": "Lake Charles"
+  },
+  "Anderson University": {
+    "sdv_name": "Anderson (IN)",
+    "city": "Anderson"
+  },
+  "University of Charleston": {
+    "sdv_name": "Charleston (WV)",
+    "city": "Charleston"
+  },
+  "Lincoln University (Pennsylvania)": {
+    "mascot": "Orange & Blue",
+    "primary_color": "#f47920",
+    "secondary_color": "#003087",
+    "city": "Oxford"
+  },
+  "Augustana University": {
+    "sdv_name": "Augustana (SD)",
+    "city": "Sioux Falls"
+  },
+  "Augustana College": {
+    "sdv_name": "Augustana (IL)",
+    "city": "Rock Island"
+  },
+  "Indiana University of Pennsylvania": {
+    "sdv_name": "Indiana (PA)",
+    "city": "Indiana"
+  },
+  "University of Wisconsin-Oshkosh": {
+    "sdv_name": "Wisconsin-Oshkosh",
+    "mascot": "Titans",
+    "primary_color": "#000000",
+    "secondary_color": "#ffd200",
+    "city": "Oshkosh"
+  },
+  "University of Wisconsin-Whitewater": {
+    "sdv_name": "Wisconsin-Whitewater",
+    "mascot": "Warhawks",
+    "primary_color": "#512888",
+    "secondary_color": "#ffffff",
+    "city": "Whitewater"
+  },
+  "University of Wisconsin-River Falls": {
+    "mascot": "Falcons",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "city": "River Falls"
+  },
+  "University of Wisconsin-Stout": {
+    "mascot": "Blue Devils",
+    "primary_color": "#002855",
+    "secondary_color": "#ffffff",
+    "city": "Menomonie"
+  },
+  "Colorado School of Mines": {
+    "sdv_name": "Colorado Mines",
+    "city": "Golden"
+  },
+  "Minnesota State - Mankato": {
+    "sdv_name": "Mankato State",
+    "mascot": "Mavericks",
+    "primary_color": "#4f2170",
+    "secondary_color": "#ffc82d",
+    "city": "Mankato"
+  },
+  "Minnesota State - Moorhead": {
+    "sdv_name": "Minnesota St-Moorhead",
+    "city": "Moorhead"
+  },
+  "Miami (Ohio)": {
+    "sdv_name": "Miami (OH)",
+    "city": "Oxford"
+  },
+  "Albany State": {
+    "sdv_name": "Albany State (GA)",
+    "city": "Albany"
+  },
+  "Carroll University": {
+    "sdv_name": "Carroll (WI)",
+    "city": "Waukesha"
+  },
+  "University of St. Thomas": {
+    "sdv_name": "St. Thomas (MN)",
+    "city": "St. Paul"
+  },
+  "Lincoln University (Missouri)": {
+    "mascot": "Blue Tigers",
+    "primary_color": "#003087",
+    "secondary_color": "#ffffff",
+    "city": "Jefferson City"
+  },
+  "Washington University in St. Louis": {
+    "sdv_name": "Washington (MO)",
+    "city": "St. Louis"
+  },
+  "Claremont-Mudd-Scripps": {
+    "mascot": "Stags/Athenas",
+    "primary_color": "#8a2432",
+    "secondary_color": "#ffc72c",
+    "city": "Claremont"
+  },
+  "Massachusetts Maritime Academy": {
+    "sdv_name": "Mass Maritime",
+    "city": "Buzzards Bay"
+  },
+  "Allen University": {
+    "mascot": "Yellow Jackets",
+    "primary_color": "#004b87",
+    "secondary_color": "#ffc72c",
+    "city": "Columbia"
+  },
+  "Wheaton College (IL)": {
+    "sdv_name": "Wheaton College (Ill)",
+    "city": "Wheaton"
+  },
+  "PennWest Edinboro": {
+    "sdv_name": "Edinboro",
+    "city": "Edinboro"
+  },
+  "PennWest Clarion": {
+    "sdv_name": "Clarion",
+    "city": "Clarion"
+  },
+  "Long Island": {
+    "sdv_name": "LIU Post",
+    "mascot": "Sharks",
+    "primary_color": "#0066cc",
+    "city": "Brookville"
+  },
+  "University of Chicago": {
+    "sdv_name": "Chicago",
+    "city": "Chicago"
+  },
+  "Saint Anselm": {
+    "sdv_name": "St. Anselm",
+    "city": "Manchester"
+  },
+  "Western Colorado": {
+    "mascot": "Mountaineers",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "city": "Gunnison"
+  },
+  "Rose-Hulman Institute of Technology": {
+    "sdv_name": "Rose-Hulman",
+    "city": "Terre Haute"
+  },
+  "Saint Vincent College": {
+    "sdv_name": "St. Vincent",
+    "city": "Latrobe"
+  },
+  "King's College": {
+    "sdv_name": "King's College (PA)",
+    "city": "Wilkes-Barre"
+  },
+  "Maryville College": {
+    "sdv_name": "Maryville TN",
+    "city": "Maryville"
+  },
+  "Nicholls State": {
+    "sdv_name": "Nicholls",
+    "city": "Thibodaux"
+  },
+  "Central Missouri": {
+    "sdv_name": "Central Missouri State",
+    "city": "Warrensburg"
+  },
+  "Indiana Wesleyan University": {
+    "mascot": "Wildcats",
+    "primary_color": "#002855",
+    "secondary_color": "#ffffff",
+    "city": "Marion"
+  },
+  "Texas Wesleyan University": {
+    "mascot": "Rams",
+    "primary_color": "#003087",
+    "secondary_color": "#ffc72c",
+    "city": "Fort Worth"
+  },
+  "Keiser University": {
+    "mascot": "Seahawks",
+    "primary_color": "#0066cc",
+    "secondary_color": "#ffffff",
+    "city": "West Palm Beach"
+  },
+  "Montana Tech": {
+    "mascot": "Orediggers",
+    "primary_color": "#006633",
+    "secondary_color": "#ffc72c",
+    "city": "Butte"
+  },
+  "Montana Western": {
+    "mascot": "Bulldogs",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "city": "Dillon"
+  },
+  "University of Rio Grande": {
+    "mascot": "RedStorm",
+    "primary_color": "#c8102e",
+    "secondary_color": "#000000",
+    "city": "Rio Grande"
+  },
+  "Carroll College": {
+    "mascot": "Fighting Saints",
+    "primary_color": "#006633",
+    "secondary_color": "#ffffff",
+    "city": "Helena"
+  },
+  "Olivet Nazarene University": {
+    "mascot": "Tigers",
+    "primary_color": "#512888",
+    "secondary_color": "#ffc72c",
+    "city": "Bourbonnais"
+  },
+  "Campbellsville University": {
+    "mascot": "Tigers",
+    "primary_color": "#862633",
+    "secondary_color": "#ffc72c",
+    "city": "Campbellsville"
+  },
+  "St. Thomas University": {
+    "mascot": "Bobcats",
+    "primary_color": "#003087",
+    "secondary_color": "#ffffff",
+    "city": "Miami Gardens"
+  },
+  "Northwestern College": {
+    "mascot": "Red Raiders",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "city": "Orange City",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/northwestern-college.svg"
+  },
+  "Georgetown College": {
+    "sdv_name": "Georgetown (Kentucky)",
+    "mascot": "Tigers",
+    "primary_color": "#000000",
+    "secondary_color": "#ffc72c",
+    "city": "Georgetown"
+  },
+  "Missouri Valley College": {
+    "mascot": "Vikings",
+    "primary_color": "#512888",
+    "secondary_color": "#ffc72c",
+    "city": "Marshall"
+  },
+  "Marian University": {
+    "sdv_name": "Marian",
+    "city": "Indianapolis"
+  },
+  "Alvernia University": {
+    "mascot": "Golden Wolves",
+    "primary_color": "#862633",
+    "secondary_color": "#ffc72c",
+    "city": "Reading"
+  },
+  "Schreiner University": {
+    "mascot": "Mountaineers",
+    "primary_color": "#512888",
+    "secondary_color": "#ffffff",
+    "city": "Kerrville"
+  },
+  "Davenport University": {
+    "mascot": "Panthers",
+    "primary_color": "#c8102e",
+    "secondary_color": "#000000",
+    "city": "Grand Rapids"
+  },
+  "Calvin University": {
+    "mascot": "Knights",
+    "primary_color": "#862633",
+    "secondary_color": "#ffc72c",
+    "city": "Grand Rapids"
+  },
+  "Roanoke College": {
+    "mascot": "Maroons",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "city": "Salem"
+  },
+  "University of New England": {
+    "mascot": "Nor'easters",
+    "primary_color": "#003087",
+    "secondary_color": "#ffc72c",
+    "city": "Biddeford"
+  },
+  "Lyon College": {
+    "mascot": "Scots",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "city": "Batesville"
+  },
+  "Oklahoma Panhandle State University": {
+    "sdv_name": "OK Panhandle St",
+    "city": "Goodwell"
+  },
+  "Valley City State University": {
+    "sdv_name": "Valley City State",
+    "city": "Valley City"
+  },
+  "Union Commonwealth University": {
+    "mascot": "Bulldogs",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "city": "Barbourville"
+  },
+  "Catawba College": {
+    "mascot": "Indians",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "city": "Salisbury"
+  },
+  "Southeastern Oklahoma State": {
+    "mascot": "Savage Storm",
+    "primary_color": "#004b87",
+    "secondary_color": "#ffc72c",
+    "city": "Durant"
+  },
+  "West Virginia State": {
+    "mascot": "Yellow Jackets",
+    "primary_color": "#000000",
+    "secondary_color": "#ffc72c",
+    "city": "Institute"
+  },
+  "Fort Lewis College": {
+    "mascot": "Skyhawks",
+    "primary_color": "#003087",
+    "secondary_color": "#ffc72c",
+    "city": "Durango"
+  },
+  "Washington & Jefferson College": {
+    "sdv_name": "Washington & Jefferson",
+    "mascot": "Presidents",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "city": "Washington"
+  },
+  "Washington & Lee University": {
+    "sdv_name": "Washington & Lee",
+    "mascot": "Generals",
+    "primary_color": "#003087",
+    "secondary_color": "#ffffff",
+    "city": "Lexington"
+  }
+}

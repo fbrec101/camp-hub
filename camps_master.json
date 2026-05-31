@@ -21,7 +21,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tuscaloosa",
+    "mascot": "Crimson Tide",
+    "primary_color": "#690014",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
   },
   {
     "school_name": "Arizona",
@@ -51,7 +56,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://www.brentbrennanfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tucson",
+    "mascot": "Wildcats",
+    "primary_color": "#002449",
+    "secondary_color": "#00205b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
   },
   {
     "school_name": "Boise State",
@@ -73,7 +83,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://broncosportscamp.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Boise",
+    "mascot": "Broncos",
+    "primary_color": "#09347a",
+    "secondary_color": "#d8d9da",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/68.png"
   },
   {
     "school_name": "Colorado State",
@@ -92,7 +107,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://CSSRamFootballCamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Fort Collins",
+    "mascot": "Rams",
+    "primary_color": "#004537",
+    "secondary_color": "#ffc425",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/36.png"
   },
   {
     "school_name": "Florida",
@@ -114,7 +134,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Gainesville",
+    "mascot": "Gators",
+    "primary_color": "#0021a5",
+    "secondary_color": "#0021a5",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/57.png"
   },
   {
     "school_name": "Florida State",
@@ -140,7 +165,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://www.coachnorvellcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tallahassee",
+    "mascot": "Seminoles",
+    "primary_color": "#782f40",
+    "secondary_color": "#ceb888",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/52.png"
   },
   {
     "school_name": "Georgia Tech",
@@ -163,7 +193,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Atlanta",
+    "mascot": "Yellow Jackets",
+    "primary_color": "#00223e",
+    "secondary_color": "#002c56",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/59.png"
   },
   {
     "school_name": "Houston",
@@ -181,7 +216,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://williefritzfootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Houston",
+    "mascot": "Cougars",
+    "primary_color": "#c90822",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/248.png"
   },
   {
     "school_name": "Jacksonville State",
@@ -208,7 +248,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://www.gamecocksfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Jacksonville",
+    "mascot": "Gamecocks",
+    "primary_color": "#b50500",
+    "secondary_color": "#b5b7ba",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/55.png"
   },
   {
     "school_name": "Memphis",
@@ -232,7 +277,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Memphis",
+    "mascot": "Tigers",
+    "primary_color": "#002447",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/235.png"
   },
   {
     "school_name": "Middle Tennessee",
@@ -259,7 +309,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://derekmasonfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Murfreesboro",
+    "mascot": "Blue Raiders",
+    "primary_color": "#0079c2",
+    "secondary_color": "#c3c5c8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png"
   },
   {
     "school_name": "Nevada",
@@ -279,7 +334,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://nevadafootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Reno",
+    "mascot": "Wolf Pack",
+    "primary_color": "#153e5f",
+    "secondary_color": "#8e9295",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png"
   },
   {
     "school_name": "SMU",
@@ -295,7 +355,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://coachlashleecamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Dallas",
+    "mascot": "Mustangs",
+    "primary_color": "#e32f38",
+    "secondary_color": "#ecdcb9",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png"
   },
   {
     "school_name": "Wake Forest",
@@ -312,7 +377,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://jakedickertfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Winston-Salem",
+    "mascot": "Demon Deacons",
+    "primary_color": "#9e7e38",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/154.png"
   },
   {
     "school_name": "West Virginia",
@@ -341,7 +411,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://wvusports.com/feature/footballcamps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Morgantown",
+    "mascot": "Mountaineers",
+    "primary_color": "#ffc600",
+    "secondary_color": "#eaaa00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/277.png"
   },
   {
     "school_name": "Bethune-Cookman",
@@ -369,7 +444,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://linktr.ee/bwcamps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Daytona Beach",
+    "mascot": "Wildcats",
+    "primary_color": "#7b1831",
+    "secondary_color": "#e9aa12",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2065.png"
   },
   {
     "school_name": "Fordham",
@@ -392,7 +472,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://www.joeconlinfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "New York City",
+    "mascot": "Rams",
+    "primary_color": "#830032",
+    "secondary_color": "#909090",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2230.png"
   },
   {
     "school_name": "Jackson State",
@@ -408,7 +493,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Jackson",
+    "mascot": "Tigers",
+    "primary_color": "#123297",
+    "secondary_color": "#b5b7ba",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2296.png"
   },
   {
     "school_name": "Mercer",
@@ -425,7 +515,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://coachjoeltaylorfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Macon",
+    "mascot": "Bears",
+    "primary_color": "#ff7f29",
+    "secondary_color": "#080808",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2382.png"
   },
   {
     "school_name": "Tarleton State",
@@ -455,7 +550,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://tarletonfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Glen Rose",
+    "mascot": "Texans",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2627.png"
   },
   {
     "school_name": "UC Davis",
@@ -477,7 +577,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Davis",
+    "mascot": "Aggies",
+    "primary_color": "#183563",
+    "secondary_color": "#bc9305",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/302.png"
   },
   {
     "school_name": "Utah Tech",
@@ -501,7 +606,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "St. George",
+    "mascot": "Trailblazers",
+    "primary_color": "#00843d",
+    "secondary_color": "#ffffff",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/3101.png"
   },
   {
     "school_name": "Arkansas Tech",
@@ -527,7 +637,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Illinois",
+    "mascot": "Wonder Boys",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2033.png"
   },
   {
     "school_name": "Glenville State",
@@ -555,7 +670,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Glenville",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2249.png"
   },
   {
     "school_name": "Missouri Western State",
@@ -581,7 +701,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "St. Joseph",
+    "mascot": "Griffons",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/137.png"
   },
   {
     "school_name": "Nebraska-Kearney",
@@ -599,7 +724,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Kearney",
+    "mascot": "Lopers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2438.png"
   },
   {
     "school_name": "Wayne State University",
@@ -615,7 +745,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Detroit",
+    "mascot": "Warriors",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/131.png"
   },
   {
     "school_name": "Fairleigh Dickinson University-Florham",
@@ -631,7 +766,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://avcsportscamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Madison",
+    "mascot": "Devils",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2221.png"
   },
   {
     "school_name": "University of Mary Hardin-Baylor",
@@ -647,7 +787,12 @@
     "date_sort": "2026-06-01",
     "registration_url": "https://umhbfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Belton",
+    "mascot": "Crusaders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2371.png"
   },
   {
     "school_name": "North Central College",
@@ -666,7 +811,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Naperville",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/3071.png"
   },
   {
     "school_name": "Trinity University",
@@ -687,7 +837,12 @@
     "date_sort": "2026-06-01",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "San Antonio",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/386.png"
   },
   {
     "school_name": "Arizona State",
@@ -713,7 +868,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://arizonastatefootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Phoenix",
+    "mascot": "Sun Devils",
+    "primary_color": "#942139",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/9.png"
   },
   {
     "school_name": "BYU",
@@ -733,7 +893,12 @@
     "date_sort": "2026-06-02",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Provo-Orem",
+    "mascot": "Cougars",
+    "primary_color": "#001e4c",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png"
   },
   {
     "school_name": "Boston College",
@@ -757,7 +922,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://bostoncollegefootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Boston",
+    "mascot": "Eagles",
+    "primary_color": "#88001a",
+    "secondary_color": "#a39161",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/103.png"
   },
   {
     "school_name": "Charlotte",
@@ -784,7 +954,12 @@
     "date_sort": "2026-06-02",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Charlotte",
+    "mascot": "49ers",
+    "primary_color": "#0c562d",
+    "secondary_color": "#cfab7a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png"
   },
   {
     "school_name": "Cincinnati",
@@ -810,7 +985,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://ucfbcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Cincinnati",
+    "mascot": "Bearcats",
+    "primary_color": null,
+    "secondary_color": "#717073",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png"
   },
   {
     "school_name": "Clemson",
@@ -829,7 +1009,12 @@
     "date_sort": "2026-06-02",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Clemson",
+    "mascot": "Tigers",
+    "primary_color": "#f66733",
+    "secondary_color": "#522d80",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/228.png"
   },
   {
     "school_name": "Iowa State",
@@ -852,7 +1037,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://www.iowastatefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Washington",
+    "mascot": "Cyclones",
+    "primary_color": "#660015",
+    "secondary_color": "#830b2c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/66.png"
   },
   {
     "school_name": "Kennesaw State",
@@ -869,7 +1059,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://kennesawstatefootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Atlanta",
+    "mascot": "Owls",
+    "primary_color": null,
+    "secondary_color": "#fdbb30",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/338.png"
   },
   {
     "school_name": "LSU",
@@ -893,7 +1088,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://lsusports.net/footballcamps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "East Baton Rouge Parish",
+    "mascot": "Tigers",
+    "primary_color": "#22005c",
+    "secondary_color": "#fdd023",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
   },
   {
     "school_name": "Marshall",
@@ -915,7 +1115,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://tonygibsonfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Huntington",
+    "mascot": "Thundering Herd",
+    "primary_color": "#186329",
+    "secondary_color": "#be854c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/276.png"
   },
   {
     "school_name": "Ohio State",
@@ -939,7 +1144,12 @@
     "date_sort": "2026-06-02",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Columbus",
+    "mascot": "Buckeyes",
+    "primary_color": "#de3121",
+    "secondary_color": "#666666",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/194.png"
   },
   {
     "school_name": "Oklahoma",
@@ -961,7 +1171,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://brentvenablesfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Norman",
+    "mascot": "Sooners",
+    "primary_color": "#7b0000",
+    "secondary_color": "#cccccc",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/201.png"
   },
   {
     "school_name": "Penn State",
@@ -985,7 +1200,12 @@
     "date_sort": "2026-06-02",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "State College",
+    "mascot": "Nittany Lions",
+    "primary_color": "#00265d",
+    "secondary_color": "#002e5c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/213.png"
   },
   {
     "school_name": "South Carolina",
@@ -1013,7 +1233,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://shanebeamerfootballcamp.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Columbia",
+    "mascot": "Gamecocks",
+    "primary_color": "#670010",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png"
   },
   {
     "school_name": "Texas A&M",
@@ -1038,7 +1263,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://12thman.com/footballcamp",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "South Brazos",
+    "mascot": "Aggies",
+    "primary_color": "#5c0025",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/245.png"
   },
   {
     "school_name": "UAB",
@@ -1063,7 +1293,12 @@
     "date_sort": "2026-06-02",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Birmingham",
+    "mascot": "Blazers",
+    "primary_color": "#003b28",
+    "secondary_color": "#ffc845",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/5.png"
   },
   {
     "school_name": "USF",
@@ -1087,7 +1322,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://www.brianhartlinefootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tampa",
+    "mascot": "Bulls",
+    "primary_color": "#004a36",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/58.png"
   },
   {
     "school_name": "Washington",
@@ -1110,7 +1350,12 @@
     "date_sort": "2026-06-02",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Seattle",
+    "mascot": "Huskies",
+    "primary_color": "#2b2f64",
+    "secondary_color": "#e8e3d3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
   },
   {
     "school_name": "Charleston Southern",
@@ -1130,7 +1375,12 @@
     "date_sort": "2026-06-02",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "North Charleston",
+    "mascot": "Buccaneers",
+    "primary_color": "#2e3192",
+    "secondary_color": "#ded090",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2127.png"
   },
   {
     "school_name": "ETSU",
@@ -1156,7 +1406,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://etsufootballyearevents.com/register.cfm",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Johnson City",
+    "mascot": "Buccaneers",
+    "primary_color": "#002d61",
+    "secondary_color": "#ffc423",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2193.png"
   },
   {
     "school_name": "Furman",
@@ -1179,7 +1434,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://furmanfootballcamp.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Greer",
+    "mascot": "Paladins",
+    "primary_color": "#4a2184",
+    "secondary_color": "#909090",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/231.png"
   },
   {
     "school_name": "Houston Christian",
@@ -1196,7 +1456,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://huskyfbcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Houston",
+    "mascot": "Huskies",
+    "primary_color": "#00539c",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2277.png"
   },
   {
     "school_name": "Lehigh",
@@ -1221,7 +1486,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://www.brownandwhitefootballcamp.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Bethlehem",
+    "mascot": "Mountain Hawks",
+    "primary_color": "#6c2b2a",
+    "secondary_color": "#b69e70",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2329.png"
   },
   {
     "school_name": "Stephen F. Austin",
@@ -1244,7 +1514,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://sfafootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Nacogdoches",
+    "mascot": "Lumberjacks",
+    "primary_color": "#393996",
+    "secondary_color": "#bec0c2",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2617.png"
   },
   {
     "school_name": "Adams State",
@@ -1264,7 +1539,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://adamsstatefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Alamosa",
+    "mascot": "Grizzlies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2001.png"
   },
   {
     "school_name": "Ouachita Baptist University",
@@ -1289,7 +1569,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://ouachitatigerfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Clark County",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2888.png"
   },
   {
     "school_name": "Alvernia University",
@@ -1306,7 +1591,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://www.auwolves.com/sports/football",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Reading",
+    "mascot": "Golden Wolves",
+    "primary_color": "#862633",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/alvernia-university.svg"
   },
   {
     "school_name": "John Carroll University",
@@ -1322,7 +1612,12 @@
     "date_sort": "2026-06-02",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "University Heights",
+    "mascot": "Blue Streaks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2302.png"
   },
   {
     "school_name": "Utica University",
@@ -1348,7 +1643,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://www.tntfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Utica",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/390.png"
   },
   {
     "school_name": "Northwestern College",
@@ -1365,7 +1665,12 @@
     "date_sort": "2026-06-02",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Orange City",
+    "mascot": "Red Raiders",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/northwestern-college.svg"
   },
   {
     "school_name": "Lamar",
@@ -1387,7 +1692,12 @@
     "date_sort": "2026-06-02",
     "registration_url": "https://www.lamarfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Buna",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2320.png"
   },
   {
     "school_name": "Auburn",
@@ -1409,7 +1719,12 @@
     "date_sort": "2026-06-03",
     "registration_url": "https://auburnfootballcamps.org",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Auburn-opelika",
+    "mascot": "Tigers",
+    "primary_color": "#03244d",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2.png"
   },
   {
     "school_name": "Eastern Michigan",
@@ -1425,7 +1740,12 @@
     "date_sort": "2026-06-03",
     "registration_url": "https://emufootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Ypsilanti",
+    "mascot": "Eagles",
+    "primary_color": "#00331b",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2199.png"
   },
   {
     "school_name": "Florida Atlantic",
@@ -1447,7 +1767,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Miami",
+    "mascot": "Owls",
+    "primary_color": "#004b85",
+    "secondary_color": "#bb2f4c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png"
   },
   {
     "school_name": "FIU",
@@ -1463,7 +1788,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Miami",
+    "mascot": "Golden Panthers",
+    "primary_color": "#001538",
+    "secondary_color": "#c5960c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png"
   },
   {
     "school_name": "Kansas",
@@ -1486,7 +1816,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lawrence",
+    "mascot": "Jayhawks",
+    "primary_color": "#0022b4",
+    "secondary_color": "#e8000d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
   },
   {
     "school_name": "Kent State",
@@ -1507,7 +1842,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Kent",
+    "mascot": "Golden Flashes",
+    "primary_color": "#002445",
+    "secondary_color": "#f0b510",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png"
   },
   {
     "school_name": "Louisiana-Monroe",
@@ -1527,7 +1867,12 @@
     "date_sort": "2026-06-03",
     "registration_url": "https://bryantvincentfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Ouachita Parish",
+    "mascot": "Warhawks",
+    "primary_color": "#231f20",
+    "secondary_color": "#b18445",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png"
   },
   {
     "school_name": "Nebraska",
@@ -1550,7 +1895,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lincoln",
+    "mascot": "Cornhuskers",
+    "primary_color": "#f20017",
+    "secondary_color": "#f5f1e7",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png"
   },
   {
     "school_name": "Ole Miss",
@@ -1573,7 +1923,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "District 1",
+    "mascot": "Rebels",
+    "primary_color": "#001148",
+    "secondary_color": "#00205b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png"
   },
   {
     "school_name": "Rutgers",
@@ -1595,7 +1950,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "New Brunswick",
+    "mascot": "Scarlet Knights",
+    "primary_color": "#d21034",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/164.png"
   },
   {
     "school_name": "San Diego State",
@@ -1611,7 +1971,12 @@
     "date_sort": "2026-06-03",
     "registration_url": "https://aztecfootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "San Diego",
+    "mascot": "Aztecs",
+    "primary_color": "#bf2c37",
+    "secondary_color": "#a8996e",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/21.png"
   },
   {
     "school_name": "Texas",
@@ -1632,7 +1997,12 @@
     "date_sort": "2026-06-03",
     "registration_url": "https://coachsarktexasfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Austin",
+    "mascot": "Longhorns",
+    "primary_color": "#ee7524",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
   },
   {
     "school_name": "Texas State",
@@ -1652,7 +2022,12 @@
     "date_sort": "2026-06-03",
     "registration_url": "https://coachkinnefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "San Marcos",
+    "mascot": "Bobcats",
+    "primary_color": "#4e1719",
+    "secondary_color": "#b4975a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/326.png"
   },
   {
     "school_name": "Utah",
@@ -1675,7 +2050,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Salt Lake City",
+    "mascot": "Utes",
+    "primary_color": "#890012",
+    "secondary_color": "#7e8083",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/254.png"
   },
   {
     "school_name": "Drake",
@@ -1694,7 +2074,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Des Moines",
+    "mascot": "Bulldogs",
+    "primary_color": "#004477",
+    "secondary_color": "#c0c0c0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2181.png"
   },
   {
     "school_name": "McNeese State",
@@ -1714,7 +2099,12 @@
     "date_sort": "2026-06-03",
     "registration_url": "https://mcneesefootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lake Charles",
+    "mascot": "Cowboys",
+    "primary_color": "#00529c",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2377.png"
   },
   {
     "school_name": "Youngstown State",
@@ -1736,7 +2126,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Youngstown",
+    "mascot": "Penguins",
+    "primary_color": "#e51936",
+    "secondary_color": "#690717",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2754.png"
   },
   {
     "school_name": "Northeastern State",
@@ -1762,7 +2157,12 @@
     "date_sort": "2026-06-03",
     "registration_url": "https://riverhawksfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "North Cherokee",
+    "mascot": "RiverHawks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/196.png"
   },
   {
     "school_name": "Tuskegee",
@@ -1778,7 +2178,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tuskegee",
+    "mascot": "Golden Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2657.png"
   },
   {
     "school_name": "Western New Mexico",
@@ -1797,7 +2202,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Santa Clara",
+    "mascot": "Mustangs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2703.png"
   },
   {
     "school_name": "Ursinus College",
@@ -1814,7 +2224,12 @@
     "date_sort": "2026-06-03",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Philadelphia",
+    "mascot": "Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2667.png"
   },
   {
     "school_name": "Missouri State",
@@ -1831,7 +2246,12 @@
     "date_sort": "2026-06-03",
     "registration_url": "https://info.abcsportscamps.com/msufootball",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Springfield",
+    "mascot": "Bears",
+    "primary_color": "#5f0000",
+    "secondary_color": "#e8e8e8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2623.png"
   },
   {
     "school_name": "Murray State",
@@ -1851,7 +2271,12 @@
     "date_sort": "2026-06-03",
     "registration_url": "https://www.coachjodywrightcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Murray",
+    "mascot": "Racers",
+    "primary_color": "#002148",
+    "secondary_color": "#000e00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/93.png"
   },
   {
     "school_name": "Colorado",
@@ -1877,7 +2302,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Boulder",
+    "mascot": "Buffaloes",
+    "primary_color": "#d1c57e",
+    "secondary_color": "#ffd200",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
   },
   {
     "school_name": "Georgia State",
@@ -1902,7 +2332,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://dellmcgeefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Atlanta",
+    "mascot": "Panthers",
+    "primary_color": "#1e539a",
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png"
   },
   {
     "school_name": "Iowa",
@@ -1922,7 +2357,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://iowafootball.totalcamps.com/shop/EVENT",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Iowa City",
+    "mascot": "Hawkeyes",
+    "primary_color": null,
+    "secondary_color": "#ffe100",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png"
   },
   {
     "school_name": "Missouri",
@@ -1945,7 +2385,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://drinkwitzfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Columbia",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png"
   },
   {
     "school_name": "Syracuse",
@@ -1966,7 +2411,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://cuse.com/footballcamps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Syracuse",
+    "mascot": "Orange",
+    "primary_color": "#f37321",
+    "secondary_color": "#0d1d37",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/183.png"
   },
   {
     "school_name": "UNLV",
@@ -1986,7 +2436,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://lvmegacamp.net",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Las Vegas",
+    "mascot": "Rebels",
+    "primary_color": null,
+    "secondary_color": "#c2c4c6",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png"
   },
   {
     "school_name": "UTSA",
@@ -2007,7 +2462,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "San Antonio",
+    "mascot": "Roadrunners",
+    "primary_color": "#002a5c",
+    "secondary_color": "#f47321",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png"
   },
   {
     "school_name": "Campbell",
@@ -2028,7 +2488,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Ingrams",
+    "mascot": "Camels",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2097.png"
   },
   {
     "school_name": "Central Arkansas",
@@ -2047,7 +2512,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://ucabearsfootball.com",
     "twitter_handle": "@UCA_Football",
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Cadron",
+    "mascot": "Bears",
+    "primary_color": "#a7a9ac",
+    "secondary_color": "#8e959a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2110.png"
   },
   {
     "school_name": "Duquesne",
@@ -2064,7 +2534,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://goduquesne.com/fbcamps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Pittsburgh",
+    "mascot": "Dukes",
+    "primary_color": "#002d62",
+    "secondary_color": "#b90b2e",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2184.png"
   },
   {
     "school_name": "Prairie View A&M",
@@ -2081,7 +2556,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Prairie View",
+    "mascot": "Panthers",
+    "primary_color": "#4d0960",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2504.png"
   },
   {
     "school_name": "Rhode Island",
@@ -2100,7 +2580,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "South Kingstown",
+    "mascot": "Rams",
+    "primary_color": "#3691c6",
+    "secondary_color": "#5ab3e8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/227.png"
   },
   {
     "school_name": "Southern Utah",
@@ -2119,7 +2604,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://southernutahfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Cedar City",
+    "mascot": "Thunderbirds",
+    "primary_color": "#d10000",
+    "secondary_color": "#c2c3c0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/253.png"
   },
   {
     "school_name": "West Georgia",
@@ -2142,7 +2632,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://englehartfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Buchanan",
+    "mascot": "Wolves",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2698.png"
   },
   {
     "school_name": "Anderson University",
@@ -2166,7 +2661,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Anderson",
+    "mascot": "Ravens",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2023.png"
   },
   {
     "school_name": "University of Charleston",
@@ -2182,7 +2682,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://charlestonfootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Charleston",
+    "mascot": "Golden Eagles",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2128.png"
   },
   {
     "school_name": "Fairmont State",
@@ -2200,7 +2705,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://falconfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Fairmont",
+    "mascot": "Falcons",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2986.png"
   },
   {
     "school_name": "Ferris State",
@@ -2221,7 +2731,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Big Rapids",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2222.png"
   },
   {
     "school_name": "Kutztown University",
@@ -2239,7 +2754,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Maxatawny",
+    "mascot": "Golden Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2315.png"
   },
   {
     "school_name": "New Mexico Highlands",
@@ -2260,7 +2780,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Las Vegas",
+    "mascot": "Cowboys",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2424.png"
   },
   {
     "school_name": "Southern Arkansas",
@@ -2285,7 +2810,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Liberty",
+    "mascot": "Muleriders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2568.png"
   },
   {
     "school_name": "West Florida",
@@ -2305,7 +2835,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Cantonment",
+    "mascot": "Argonauts",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "https://ncaa-api.henrygd.me/logo/west-florida.svg"
   },
   {
     "school_name": "Berry College",
@@ -2322,7 +2857,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://www.berryfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Rome",
+    "mascot": "Vikings",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2757.png"
   },
   {
     "school_name": "University of Dubuque",
@@ -2342,7 +2882,12 @@
     "date_sort": "2026-06-04",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Dubuque",
+    "mascot": "Spartans",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/49.png"
   },
   {
     "school_name": "East Texas Baptist University",
@@ -2358,7 +2903,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://football.etbusportscamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Beckville",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2194.png"
   },
   {
     "school_name": "Indiana Wesleyan University",
@@ -2378,7 +2928,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://iwufootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Marion",
+    "mascot": "Wildcats",
+    "primary_color": "#002855",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/indiana-wesleyan-university.svg"
   },
   {
     "school_name": "Texas Wesleyan University",
@@ -2399,7 +2954,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://ramsfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Fort Worth",
+    "mascot": "Rams",
+    "primary_color": "#003087",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/texas-wesleyan-university.svg"
   },
   {
     "school_name": "Valparaiso",
@@ -2417,7 +2977,12 @@
     "date_sort": "2026-06-04",
     "registration_url": "https://www.valpofootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Center",
+    "mascot": "Crusaders",
+    "primary_color": "#794500",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2674.png"
   },
   {
     "school_name": "Coastal Carolina",
@@ -2440,7 +3005,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://coastalfbcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Conway",
+    "mascot": "Chanticleers",
+    "primary_color": "#007073",
+    "secondary_color": "#876447",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/324.png"
   },
   {
     "school_name": "Mississippi State",
@@ -2461,7 +3031,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "District 2",
+    "mascot": "Bulldogs",
+    "primary_color": "#762123",
+    "secondary_color": "#c8c8c8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/344.png"
   },
   {
     "school_name": "Northwestern",
@@ -2482,7 +3057,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://davidbraunfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Evanston",
+    "mascot": "Wildcats",
+    "primary_color": "#372286",
+    "secondary_color": "#d6cac1",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/77.png"
   },
   {
     "school_name": "Rice",
@@ -2499,7 +3079,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://scottabellfootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Houston",
+    "mascot": "Owls",
+    "primary_color": "#003d7d",
+    "secondary_color": "#d1d5d8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/242.png"
   },
   {
     "school_name": "Sam Houston",
@@ -2521,7 +3106,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://katattackfootball.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Huntsville",
+    "mascot": "Bearkats",
+    "primary_color": "#f78f1e",
+    "secondary_color": "#f78e1e",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2534.png"
   },
   {
     "school_name": "Southern Miss",
@@ -2542,7 +3132,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://www.southernmissfootballcamp.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "District 5",
+    "mascot": "Golden Eagles",
+    "primary_color": "#ffaa3c",
+    "secondary_color": "#ffc423",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png"
   },
   {
     "school_name": "TCU",
@@ -2565,7 +3160,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://sonnydykesfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Fort Worth",
+    "mascot": "Horned Frogs",
+    "primary_color": "#3c377d",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png"
   },
   {
     "school_name": "Temple",
@@ -2584,7 +3184,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://diamondelitefb.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Philadelphia",
+    "mascot": "Owls",
+    "primary_color": "#a80532",
+    "secondary_color": "#a7a9ac",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/218.png"
   },
   {
     "school_name": "Toledo",
@@ -2606,7 +3211,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Toledo",
+    "mascot": "Rockets",
+    "primary_color": "#00488f",
+    "secondary_color": "#ffd51d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png"
   },
   {
     "school_name": "Troy",
@@ -2625,7 +3235,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Troy",
+    "mascot": "Trojans",
+    "primary_color": "#ae0210",
+    "secondary_color": "#88898c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png"
   },
   {
     "school_name": "Virginia Tech",
@@ -2650,7 +3265,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://virginiatechfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "District E-01",
+    "mascot": "Hokies",
+    "primary_color": "#74232d",
+    "secondary_color": "#c2c1ba",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/259.png"
   },
   {
     "school_name": "Western Kentucky",
@@ -2671,7 +3291,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://wkufootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Bowling Green",
+    "mascot": "Hilltoppers",
+    "primary_color": "#f32026",
+    "secondary_color": "#b3b5b8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/98.png"
   },
   {
     "school_name": "Western Michigan",
@@ -2691,7 +3316,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Kalamazoo",
+    "mascot": "Broncos",
+    "primary_color": "#b59966",
+    "secondary_color": "#bfa979",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2711.png"
   },
   {
     "school_name": "Lindenwood",
@@ -2715,7 +3345,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://football.lindenwoodlionscamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Rivers",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2815.png"
   },
   {
     "school_name": "Montana State",
@@ -2736,7 +3371,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Bozeman",
+    "mascot": "Bobcats",
+    "primary_color": "#003875",
+    "secondary_color": "#bf965c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/147.png"
   },
   {
     "school_name": "New Haven",
@@ -2755,7 +3395,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "New Haven",
+    "mascot": "Chargers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2441.png"
   },
   {
     "school_name": "Northwestern State",
@@ -2775,7 +3420,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://www.demonelitfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Natchitoches Parish",
+    "mascot": "Demons",
+    "primary_color": "#492f91",
+    "secondary_color": "#ed6118",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2466.png"
   },
   {
     "school_name": "Southeastern Louisiana",
@@ -2796,7 +3446,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://frankscelfo footballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tangipahoa Parish",
+    "mascot": "Lions",
+    "primary_color": "#007550",
+    "secondary_color": "#dca008",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2545.png"
   },
   {
     "school_name": "Towson",
@@ -2816,7 +3471,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Baltimore",
+    "mascot": "Tigers",
+    "primary_color": "#ffc229",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/119.png"
   },
   {
     "school_name": "Western Carolina",
@@ -2836,7 +3496,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Cullowhee",
+    "mascot": "Catamounts",
+    "primary_color": "#492f91",
+    "secondary_color": "#bf9e70",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2717.png"
   },
   {
     "school_name": "Carson-Newman",
@@ -2856,7 +3521,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "District 5",
+    "mascot": "Eagles",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2105.png"
   },
   {
     "school_name": "Catawba College",
@@ -2875,7 +3545,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Salisbury",
+    "mascot": "Indians",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/catawba-college.svg"
   },
   {
     "school_name": "Kentucky State",
@@ -2894,7 +3569,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Frankfort",
+    "mascot": "Thorobreds",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2310.png"
   },
   {
     "school_name": "Kentucky Wesleyan",
@@ -2912,7 +3592,12 @@
     "date_sort": "2026-06-05",
     "registration_url": "https://kwcfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Owensboro",
+    "mascot": "Panthers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2316.png"
   },
   {
     "school_name": "Shorter University",
@@ -2935,7 +3620,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Armuchee",
+    "mascot": "Hawks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2560.png"
   },
   {
     "school_name": "Southeastern Oklahoma State",
@@ -2955,7 +3645,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Durant",
+    "mascot": "Savage Storm",
+    "primary_color": "#004b87",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/southeastern-oklahoma-state.svg"
   },
   {
     "school_name": "Tiffin University",
@@ -2974,7 +3669,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tiffin",
+    "mascot": "Dragons",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2838.png"
   },
   {
     "school_name": "Baker University",
@@ -2990,7 +3690,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Palmyra",
+    "mascot": "Wildcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/488.png"
   },
   {
     "school_name": "Valley City State University",
@@ -3011,7 +3716,12 @@
     "date_sort": "2026-06-05",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Valley City",
+    "mascot": "Vikings",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/628.png"
   },
   {
     "school_name": "Appalachian State",
@@ -3034,7 +3744,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://www.dowelloggainsfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Boone",
+    "mascot": "Mountaineers",
+    "primary_color": null,
+    "secondary_color": "#ffcd00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png"
   },
   {
     "school_name": "Buffalo",
@@ -3057,7 +3772,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Town of Amherst",
+    "mascot": "Bulls",
+    "primary_color": "#041a9b",
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2084.png"
   },
   {
     "school_name": "Fresno State",
@@ -3080,7 +3800,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://fresnostatefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Fresno",
+    "mascot": "Bulldogs",
+    "primary_color": "#c41230",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/278.png"
   },
   {
     "school_name": "Old Dominion",
@@ -3098,7 +3823,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://www.rahnefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Norfolk",
+    "mascot": "Monarchs",
+    "primary_color": "#00507d",
+    "secondary_color": "#a1d2f1",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/295.png"
   },
   {
     "school_name": "UMass",
@@ -3115,7 +3845,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Amherst",
+    "mascot": "Minutemen",
+    "primary_color": "#880007",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/113.png"
   },
   {
     "school_name": "Alabama A&M",
@@ -3131,7 +3866,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://aamusports.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Huntsville",
+    "mascot": "Bulldogs",
+    "primary_color": "#790000",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2010.png"
   },
   {
     "school_name": "Cal Poly",
@@ -3151,7 +3891,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "San Luis Obispo",
+    "mascot": "Mustangs",
+    "primary_color": "#1e4d2b",
+    "secondary_color": "#eed897",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/13.png"
   },
   {
     "school_name": "East Texas A&M",
@@ -3169,7 +3914,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://www.clintdolezelfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Commerce",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2837.png"
   },
   {
     "school_name": "FAMU",
@@ -3188,7 +3938,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tallahassee",
+    "mascot": "Rattlers",
+    "primary_color": "#f89728",
+    "secondary_color": "#00843d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/50.png"
   },
   {
     "school_name": "Gardner-Webb",
@@ -3205,7 +3960,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://krismcculloughfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Shelby",
+    "mascot": "Bulldogs",
+    "primary_color": "#c12535",
+    "secondary_color": "#909090",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2241.png"
   },
   {
     "school_name": "Morgan State",
@@ -3224,7 +3984,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Baltimore",
+    "mascot": "Bears",
+    "primary_color": "#014786",
+    "secondary_color": "#f47937",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2415.png"
   },
   {
     "school_name": "Northern Arizona",
@@ -3249,7 +4014,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://brianwrightfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Flagstaff",
+    "mascot": "Lumberjacks",
+    "primary_color": "#003976",
+    "secondary_color": "#1b3069",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2464.png"
   },
   {
     "school_name": "North Alabama",
@@ -3273,7 +4043,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://brentdearmon footballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Muscle Shoals",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2453.png"
   },
   {
     "school_name": "Robert Morris",
@@ -3295,7 +4070,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Moon",
+    "mascot": "Colonials",
+    "primary_color": "#00214d",
+    "secondary_color": "#a21d2b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2523.png"
   },
   {
     "school_name": "Sacred Heart",
@@ -3312,7 +4092,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Newtown",
+    "mascot": "Pioneers",
+    "primary_color": "#a40012",
+    "secondary_color": "#c29472",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2529.png"
   },
   {
     "school_name": "Tennessee Tech",
@@ -3333,7 +4118,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Cookeville",
+    "mascot": "Golden Eagles",
+    "primary_color": "#5a4099",
+    "secondary_color": "#ffde00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2635.png"
   },
   {
     "school_name": "William & Mary",
@@ -3357,7 +4147,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Williamsburg",
+    "mascot": "Tribe",
+    "primary_color": "#103217",
+    "secondary_color": "#f6b220",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2729.png"
   },
   {
     "school_name": "Central Oklahoma",
@@ -3375,7 +4170,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Oklahoma City",
+    "mascot": "Bronchos",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2122.png"
   },
   {
     "school_name": "East Stroudsburg University",
@@ -3397,7 +4197,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://football.esuwarriorcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "East Stroudsburg",
+    "mascot": "Warriors",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2188.png"
   },
   {
     "school_name": "Ferrum College",
@@ -3414,7 +4219,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://www.ferrumcollegefootball.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Blue Ridge District",
+    "mascot": "Panthers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/366.png"
   },
   {
     "school_name": "Lincoln University (Pennsylvania)",
@@ -3430,7 +4240,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://www.coachtanqfootball.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Oxford",
+    "mascot": "Orange & Blue",
+    "primary_color": "#f47920",
+    "secondary_color": "#003087",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/lincoln-university-pennsylvania.svg"
   },
   {
     "school_name": "Livingstone College",
@@ -3452,7 +4267,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Salisbury",
+    "mascot": "Blue Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2940.png"
   },
   {
     "school_name": "Minot State",
@@ -3473,7 +4293,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://minotstatefootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Minot",
+    "mascot": "Beavers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/568.png"
   },
   {
     "school_name": "Schreiner University",
@@ -3491,7 +4316,12 @@
     "date_sort": "2026-06-06",
     "registration_url": "https://sufootball.ryzerevents.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Kerrville",
+    "mascot": "Mountaineers",
+    "primary_color": "#512888",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/schreiner-university.svg"
   },
   {
     "school_name": "Keiser University",
@@ -3517,7 +4347,12 @@
     "date_sort": "2026-06-06",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "West Palm Beach",
+    "mascot": "Seahawks",
+    "primary_color": "#0066cc",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/keiser-university.svg"
   },
   {
     "school_name": "Arkansas",
@@ -3540,7 +4375,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://www.arkansasrazorbackfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Fayetteville",
+    "mascot": "Razorbacks",
+    "primary_color": "#9c1831",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png"
   },
   {
     "school_name": "Ball State",
@@ -3560,7 +4400,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://ballstatefootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Center",
+    "mascot": "Cardinals",
+    "primary_color": "#da0000",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2050.png"
   },
   {
     "school_name": "Cal",
@@ -3581,7 +4426,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "San Francisco",
+    "mascot": "Golden Bears",
+    "primary_color": "#031522",
+    "secondary_color": "#ffc423",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/25.png"
   },
   {
     "school_name": "Central Michigan",
@@ -3598,7 +4448,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Mount Pleasant",
+    "mascot": "Chippewas",
+    "primary_color": "#6a0032",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png"
   },
   {
     "school_name": "Kansas State",
@@ -3617,7 +4472,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://kstatefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Manhattan",
+    "mascot": "Wildcats",
+    "primary_color": "#633194",
+    "secondary_color": "#e7d2ad",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png"
   },
   {
     "school_name": "Liberty",
@@ -3644,7 +4504,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lynchburg",
+    "mascot": "Flames",
+    "primary_color": "#071740",
+    "secondary_color": "#a61f21",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png"
   },
   {
     "school_name": "Louisiana-Lafayette",
@@ -3660,7 +4525,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lafayette Parish",
+    "mascot": "Ragin' Cajuns",
+    "primary_color": "#ce2842",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/309.png"
   },
   {
     "school_name": "Maryland",
@@ -3686,7 +4556,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://coachlockscamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Washington",
+    "mascot": "Terrapins",
+    "primary_color": "#d5002b",
+    "secondary_color": "#ffcd00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/120.png"
   },
   {
     "school_name": "Miami",
@@ -3707,7 +4582,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://cristobalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Miami",
+    "mascot": "Hurricanes",
+    "primary_color": "#004325",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"
   },
   {
     "school_name": "NC State",
@@ -3730,7 +4610,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://davedoerenballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Raleigh",
+    "mascot": "Wolfpack",
+    "primary_color": "#ef1216",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/152.png"
   },
   {
     "school_name": "North Carolina",
@@ -3751,7 +4636,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://billbelichickfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Chapel Hill",
+    "mascot": "Tar Heels",
+    "primary_color": "#99bfe5",
+    "secondary_color": "#13294b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
   },
   {
     "school_name": "North Texas",
@@ -3774,7 +4664,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://nealbrownfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Denton",
+    "mascot": "Mean Green",
+    "primary_color": "#00853d",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/249.png"
   },
   {
     "school_name": "Oklahoma State",
@@ -3794,7 +4689,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Stillwater",
+    "mascot": "Cowboys",
+    "primary_color": "#ff6500",
+    "secondary_color": "#ff9900",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/197.png"
   },
   {
     "school_name": "Purdue",
@@ -3813,7 +4713,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://www.purduefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Wabash",
+    "mascot": "Boilermakers",
+    "primary_color": "#b89d29",
+    "secondary_color": "#a4a9ad",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png"
   },
   {
     "school_name": "South Alabama",
@@ -3835,7 +4740,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://www.jaguarfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Mobile",
+    "mascot": "Jaguars",
+    "primary_color": "#003e7e",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/6.png"
   },
   {
     "school_name": "UConn",
@@ -3858,7 +4768,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Mansfield City",
+    "mascot": "Huskies",
+    "primary_color": "#001d40",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
   },
   {
     "school_name": "Vanderbilt",
@@ -3878,7 +4793,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://vanderbiltfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Nashville",
+    "mascot": "Commodores",
+    "primary_color": null,
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/238.png"
   },
   {
     "school_name": "Columbia",
@@ -3898,7 +4818,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://jonpoppefootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "New York",
+    "mascot": "Lions",
+    "primary_color": "#174785",
+    "secondary_color": "#004b85",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/171.png"
   },
   {
     "school_name": "Eastern Illinois",
@@ -3917,7 +4842,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Charleston",
+    "mascot": "Panthers",
+    "primary_color": null,
+    "secondary_color": "#bebab9",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2197.png"
   },
   {
     "school_name": "Monmouth",
@@ -3941,7 +4871,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://www.monmouthfootballcamp.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Ocean",
+    "mascot": "Hawks",
+    "primary_color": "#051844",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2405.png"
   },
   {
     "school_name": "Northern Iowa",
@@ -3959,7 +4894,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://www.unifbcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Cedar Falls",
+    "mascot": "Panthers",
+    "primary_color": "#473282",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2460.png"
   },
   {
     "school_name": "South Dakota",
@@ -3977,7 +4917,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Vermillion",
+    "mascot": "Coyotes",
+    "primary_color": "#cd1241",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/233.png"
   },
   {
     "school_name": "Wofford",
@@ -3998,7 +4943,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Spartanburg",
+    "mascot": "Terriers",
+    "primary_color": "#533b23",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2747.png"
   },
   {
     "school_name": "Arkansas-Monticello",
@@ -4020,7 +4970,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://garygofffootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Marion",
+    "mascot": "Weevils",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2028.png"
   },
   {
     "school_name": "Augustana University",
@@ -4036,7 +4991,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://goaugiecamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Sioux Falls",
+    "mascot": "Vikings",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2043.png"
   },
   {
     "school_name": "Indiana University of Pennsylvania",
@@ -4053,7 +5013,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://iupfootballcamp.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Indiana",
+    "mascot": "Crimson Hawks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2291.png"
   },
   {
     "school_name": "Amherst College",
@@ -4070,7 +5035,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Amherst",
+    "mascot": "Mammoths",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/7.png"
   },
   {
     "school_name": "Augustana College",
@@ -4086,7 +5056,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://goaugiecamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Rock Island",
+    "mascot": "Vikings",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2042.png"
   },
   {
     "school_name": "University of Puget Sound",
@@ -4102,7 +5077,12 @@
     "date_sort": "2026-06-07",
     "registration_url": "https://www.averyshowcases.com",
     "twitter_handle": "@averyshowcases",
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tacoma",
+    "mascot": "Loggers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2508.png"
   },
   {
     "school_name": "Union College",
@@ -4118,7 +5098,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Schenectady",
+    "mascot": "Dutchmen",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2841.png"
   },
   {
     "school_name": "WPI",
@@ -4135,7 +5120,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Worcester",
+    "mascot": "Engineers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2749.png"
   },
   {
     "school_name": "University of Wisconsin-Oshkosh",
@@ -4154,7 +5144,12 @@
     "date_sort": "2026-06-07",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Oshkosh",
+    "mascot": "Titans",
+    "primary_color": "#000000",
+    "secondary_color": "#ffd200",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-wisconsin-oshkosh.svg"
   },
   {
     "school_name": "Louisiana Tech",
@@ -4175,7 +5170,12 @@
     "date_sort": "2026-06-08",
     "registration_url": "https://sonnycumbiefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lincoln Parish",
+    "mascot": "Bulldogs",
+    "primary_color": "#002d65",
+    "secondary_color": "#d3313a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png"
   },
   {
     "school_name": "Virginia",
@@ -4195,7 +5195,12 @@
     "date_sort": "2026-06-08",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Samuel Miller District",
+    "mascot": "Cavaliers",
+    "primary_color": "#00204e",
+    "secondary_color": "#002d62",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/258.png"
   },
   {
     "school_name": "Howard",
@@ -4220,7 +5225,12 @@
     "date_sort": "2026-06-08",
     "registration_url": "https://1867flightclubcollective.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Washington",
+    "mascot": "Bison",
+    "primary_color": "#9e0b0e",
+    "secondary_color": "#6b818d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/47.png"
   },
   {
     "school_name": "Northern Colorado",
@@ -4247,7 +5257,12 @@
     "date_sort": "2026-06-08",
     "registration_url": "https://www.northerncoloradofootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Greeley",
+    "mascot": "Bears",
+    "primary_color": "#13558d",
+    "secondary_color": "#ffc533",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2458.png"
   },
   {
     "school_name": "South Dakota State",
@@ -4264,7 +5279,12 @@
     "date_sort": "2026-06-08",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Brookings",
+    "mascot": "Jackrabbits",
+    "primary_color": "#005dab",
+    "secondary_color": "#c33139",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2571.png"
   },
   {
     "school_name": "Colorado School of Mines",
@@ -4284,7 +5304,12 @@
     "date_sort": "2026-06-08",
     "registration_url": "https://minesathletics.com/camps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Golden",
+    "mascot": "Orediggers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2146.png"
   },
   {
     "school_name": "Northwestern Oklahoma State",
@@ -4303,7 +5328,12 @@
     "date_sort": "2026-06-08",
     "registration_url": "https://www.nwosufootballcamp.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Woodward",
+    "mascot": "Rangers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2823.png"
   },
   {
     "school_name": "Adrian College",
@@ -4322,7 +5352,12 @@
     "date_sort": "2026-06-08",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Adrian",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2003.png"
   },
   {
     "school_name": "Illinois College",
@@ -4338,7 +5373,12 @@
     "date_sort": "2026-06-08",
     "registration_url": "https://blueboyfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Jacksonville",
+    "mascot": "Blueboys",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2286.png"
   },
   {
     "school_name": "Montana Tech",
@@ -4362,7 +5402,12 @@
     "date_sort": "2026-06-08",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Butte",
+    "mascot": "Orediggers",
+    "primary_color": "#006633",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/montana-tech.svg"
   },
   {
     "school_name": "Montana Western",
@@ -4380,7 +5425,12 @@
     "date_sort": "2026-06-08",
     "registration_url": "https://www.umwbulldogsfootballcamps.com/bigs-and-skills-individual-camps.cfm",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Dillon",
+    "mascot": "Bulldogs",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2701.png"
   },
   {
     "school_name": "Bowling Green",
@@ -4401,7 +5451,12 @@
     "date_sort": "2026-06-09",
     "registration_url": "https://eddiegeorgefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Bowling Green",
+    "mascot": "Falcons",
+    "primary_color": "#2b1000",
+    "secondary_color": "#492000",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/189.png"
   },
   {
     "school_name": "Delaware",
@@ -4418,7 +5473,12 @@
     "date_sort": "2026-06-09",
     "registration_url": "https://delawarefootballcamp.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Philadelphia",
+    "mascot": "Blue Hens",
+    "primary_color": "#033594",
+    "secondary_color": "#e8ce31",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/48.png"
   },
   {
     "school_name": "Notre Dame",
@@ -4439,7 +5499,12 @@
     "date_sort": "2026-06-09",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Portage",
+    "mascot": "Fighting Irish",
+    "primary_color": "#00122b",
+    "secondary_color": "#ae9142",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/87.png"
   },
   {
     "school_name": "Sacramento State",
@@ -4456,7 +5521,12 @@
     "date_sort": "2026-06-09",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Sacramento",
+    "mascot": "Hornets",
+    "primary_color": "#00573c",
+    "secondary_color": "#cdb97d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/16.png"
   },
   {
     "school_name": "Dayton",
@@ -4474,7 +5544,12 @@
     "date_sort": "2026-06-09",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Dayton",
+    "mascot": "Flyers",
+    "primary_color": "#004b8d",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2168.png"
   },
   {
     "school_name": "UIW",
@@ -4495,7 +5570,12 @@
     "date_sort": "2026-06-09",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "San Antonio",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": "#080808",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2916.png"
   },
   {
     "school_name": "Villanova",
@@ -4517,7 +5597,12 @@
     "date_sort": "2026-06-09",
     "registration_url": "https://www.ferrantenovafootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Philadelphia",
+    "mascot": "Wildcats",
+    "primary_color": "#123d7c",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/222.png"
   },
   {
     "school_name": "Minnesota State - Mankato",
@@ -4542,7 +5627,12 @@
     "date_sort": "2026-06-09",
     "registration_url": "https://maverickfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Mankato",
+    "mascot": "Mavericks",
+    "primary_color": "#4f2170",
+    "secondary_color": "#ffc82d",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/minnesota-state---mankato.svg"
   },
   {
     "school_name": "University of Wisconsin-Eau Claire",
@@ -4559,7 +5649,12 @@
     "date_sort": "2026-06-09",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Eau Claire",
+    "mascot": "Blugolds",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2738.png"
   },
   {
     "school_name": "University of Rio Grande",
@@ -4583,7 +5678,12 @@
     "date_sort": "2026-06-09",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Rio Grande",
+    "mascot": "RedStorm",
+    "primary_color": "#c8102e",
+    "secondary_color": "#000000",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-rio-grande.svg"
   },
   {
     "school_name": "Morehead State",
@@ -4602,7 +5702,12 @@
     "date_sort": "2026-06-10",
     "registration_url": "https://www.woodmanfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Morehead",
+    "mascot": "Eagles",
+    "primary_color": "#094fa3",
+    "secondary_color": "#fed91a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2413.png"
   },
   {
     "school_name": "Southern Illinois",
@@ -4627,7 +5732,12 @@
     "date_sort": "2026-06-10",
     "registration_url": "https://www.nickhillfootballcamp.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Carbondale",
+    "mascot": "Salukis",
+    "primary_color": "#85283d",
+    "secondary_color": "#c2c3c0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/79.png"
   },
   {
     "school_name": "Wagner",
@@ -4647,7 +5757,12 @@
     "date_sort": "2026-06-10",
     "registration_url": "https://wagnercollegefootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "New York City",
+    "mascot": "Seahawks",
+    "primary_color": "#00483a",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2681.png"
   },
   {
     "school_name": "Delta State",
@@ -4666,7 +5781,12 @@
     "date_sort": "2026-06-10",
     "registration_url": "https://www.deltastatefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "District 3",
+    "mascot": "Statesmen",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2170.png"
   },
   {
     "school_name": "Emory and Henry College",
@@ -4683,7 +5803,12 @@
     "date_sort": "2026-06-10",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Madison District",
+    "mascot": "Wasps",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2213.png"
   },
   {
     "school_name": "Minnesota Duluth",
@@ -4707,7 +5832,12 @@
     "date_sort": "2026-06-10",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Duluth",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/134.png"
   },
   {
     "school_name": "West Texas A&M",
@@ -4723,7 +5853,12 @@
     "date_sort": "2026-06-10",
     "registration_url": "https://gobuffsgo.com/camps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Amarillo",
+    "mascot": "Buffaloes",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2704.png"
   },
   {
     "school_name": "Macalester College",
@@ -4739,7 +5874,12 @@
     "date_sort": "2026-06-10",
     "registration_url": "https://macfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Saint Paul",
+    "mascot": "Scots",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2359.png"
   },
   {
     "school_name": "Carroll College",
@@ -4759,7 +5899,12 @@
     "date_sort": "2026-06-10",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Helena",
+    "mascot": "Fighting Saints",
+    "primary_color": "#006633",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/carroll-college.svg"
   },
   {
     "school_name": "Olivet Nazarene University",
@@ -4775,7 +5920,12 @@
     "date_sort": "2026-06-10",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Bourbonnais",
+    "mascot": "Tigers",
+    "primary_color": "#512888",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/olivet-nazarene-university.svg"
   },
   {
     "school_name": "Samford",
@@ -4792,7 +5942,12 @@
     "date_sort": "2026-06-10",
     "registration_url": "https://www.samfordfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Birmingham",
+    "mascot": "Bulldogs",
+    "primary_color": "#005485",
+    "secondary_color": "#bc0023",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2535.png"
   },
   {
     "school_name": "Duke",
@@ -4815,7 +5970,12 @@
     "date_sort": "2026-06-11",
     "registration_url": "https://dukefootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Durham",
+    "mascot": "Blue Devils",
+    "primary_color": "#001a57",
+    "secondary_color": "#f1f2f3",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
   },
   {
     "school_name": "Miami (Ohio)",
@@ -4832,7 +5992,12 @@
     "date_sort": "2026-06-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Oxford",
+    "mascot": "RedHawks",
+    "primary_color": "#a4000c",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/193.png"
   },
   {
     "school_name": "North Dakota",
@@ -4850,7 +6015,12 @@
     "date_sort": "2026-06-11",
     "registration_url": "https://www.fightinghawks.com/camps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Oakport",
+    "mascot": "Fighting Hawks",
+    "primary_color": "#00a26b",
+    "secondary_color": "#c2c3c0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/155.png"
   },
   {
     "school_name": "Albany State",
@@ -4871,7 +6041,12 @@
     "date_sort": "2026-06-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Albany",
+    "mascot": "Golden Rams",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2013.png"
   },
   {
     "school_name": "Fort Hays State",
@@ -4892,7 +6067,12 @@
     "date_sort": "2026-06-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Hays",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2231.png"
   },
   {
     "school_name": "Washburn University",
@@ -4908,7 +6088,12 @@
     "date_sort": "2026-06-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Topeka",
+    "mascot": "Ichabods",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2687.png"
   },
   {
     "school_name": "Howard Payne University",
@@ -4931,7 +6116,12 @@
     "date_sort": "2026-06-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Bangs",
+    "mascot": "Yellow Jackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2758.png"
   },
   {
     "school_name": "University of Wisconsin-Platteville",
@@ -4949,7 +6139,12 @@
     "date_sort": "2026-06-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Platteville",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/272.png"
   },
   {
     "school_name": "University of Wisconsin-Whitewater",
@@ -4966,7 +6161,12 @@
     "date_sort": "2026-06-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Whitewater",
+    "mascot": "Warhawks",
+    "primary_color": "#512888",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-wisconsin-whitewater.svg"
   },
   {
     "school_name": "Reinhardt University",
@@ -4990,7 +6190,12 @@
     "date_sort": "2026-06-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "White",
+    "mascot": "Eagles",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2890.png"
   },
   {
     "school_name": "New Mexico",
@@ -5007,7 +6212,12 @@
     "date_sort": "2026-06-12",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Albuquerque",
+    "mascot": "Lobos",
+    "primary_color": null,
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/167.png"
   },
   {
     "school_name": "North Dakota State",
@@ -5024,7 +6234,12 @@
     "date_sort": "2026-06-12",
     "registration_url": "https://ndsufootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Fargo",
+    "mascot": "Bison",
+    "primary_color": "#01402a",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2449.png"
   },
   {
     "school_name": "Idaho",
@@ -5047,7 +6262,12 @@
     "date_sort": "2026-06-12",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Moscow",
+    "mascot": "Yotes",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "https://ncaa-api.henrygd.me/logo/idaho.svg"
   },
   {
     "school_name": "Idaho State",
@@ -5066,7 +6286,12 @@
     "date_sort": "2026-06-12",
     "registration_url": "https://www.idahostatefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Pocatello",
+    "mascot": "Bengals",
+    "primary_color": "#ef8c00",
+    "secondary_color": "#e9a126",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/304.png"
   },
   {
     "school_name": "South Carolina State",
@@ -5084,7 +6309,12 @@
     "date_sort": "2026-06-12",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Orangeburg",
+    "mascot": "Bulldogs",
+    "primary_color": "#7d1315",
+    "secondary_color": "#104897",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2569.png"
   },
   {
     "school_name": "Bloomsburg University",
@@ -5100,7 +6330,12 @@
     "date_sort": "2026-06-12",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Bloomsburg",
+    "mascot": "Huskies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2071.png"
   },
   {
     "school_name": "Harding University",
@@ -5118,7 +6353,12 @@
     "date_sort": "2026-06-12",
     "registration_url": "https://www.hardingfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Gray",
+    "mascot": "Bison",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2264.png"
   },
   {
     "school_name": "Lenoir-Rhyne",
@@ -5140,7 +6380,12 @@
     "date_sort": "2026-06-12",
     "registration_url": "https://dougsochafootballcamp.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Hickory",
+    "mascot": "Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2331.png"
   },
   {
     "school_name": "Pittsburg State",
@@ -5159,7 +6404,12 @@
     "date_sort": "2026-06-12",
     "registration_url": "https://www.tomanthonyfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Pittsburg",
+    "mascot": "Gorillas",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/90.png"
   },
   {
     "school_name": "West Virginia State",
@@ -5175,7 +6425,12 @@
     "date_sort": "2026-06-12",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Institute",
+    "mascot": "Yellow Jackets",
+    "primary_color": "#000000",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/west-virginia-state.svg"
   },
   {
     "school_name": "Calvin University",
@@ -5192,7 +6447,12 @@
     "date_sort": "2026-06-12",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Grand Rapids",
+    "mascot": "Knights",
+    "primary_color": "#862633",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/calvin-university.svg"
   },
   {
     "school_name": "Springfield College",
@@ -5209,7 +6469,12 @@
     "date_sort": "2026-06-12",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Springfield",
+    "mascot": "Pride",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/81.png"
   },
   {
     "school_name": "Campbellsville University",
@@ -5225,7 +6490,12 @@
     "date_sort": "2026-06-12",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Campbellsville",
+    "mascot": "Tigers",
+    "primary_color": "#862633",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/campbellsville-university.svg"
   },
   {
     "school_name": "Marian University",
@@ -5243,7 +6513,12 @@
     "date_sort": "2026-06-12",
     "registration_url": "https://www.Marianfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Indianapolis",
+    "mascot": "Knights",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2366.png"
   },
   {
     "school_name": "North Carolina A&T",
@@ -5260,7 +6535,12 @@
     "date_sort": "2026-06-12",
     "registration_url": "https://www.ncatsfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Greensboro",
+    "mascot": "Aggies",
+    "primary_color": "#0505aa",
+    "secondary_color": "#004684",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2448.png"
   },
   {
     "school_name": "Arkansas State",
@@ -5276,7 +6556,12 @@
     "date_sort": "2026-06-13",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Jonesboro",
+    "mascot": "Red Wolves",
+    "primary_color": "#e81018",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png"
   },
   {
     "school_name": "Stanford",
@@ -5297,7 +6582,12 @@
     "date_sort": "2026-06-13",
     "registration_url": "https://stanfordfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "San Jose",
+    "mascot": "Cardinal",
+    "primary_color": "#a80532",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/24.png"
   },
   {
     "school_name": "Wyoming",
@@ -5315,7 +6605,12 @@
     "date_sort": "2026-06-13",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Laramie",
+    "mascot": "Cowboys",
+    "primary_color": "#533b22",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png"
   },
   {
     "school_name": "Alabama State",
@@ -5335,7 +6630,12 @@
     "date_sort": "2026-06-13",
     "registration_url": null,
     "twitter_handle": "@SwarmList",
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Montgomery",
+    "mascot": "Hornets",
+    "primary_color": "#e9a900",
+    "secondary_color": "#0a0a0a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2011.png"
   },
   {
     "school_name": "Austin Peay",
@@ -5353,7 +6653,12 @@
     "date_sort": "2026-06-13",
     "registration_url": "https://jefffarisfootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Clarksville",
+    "mascot": "Governors",
+    "primary_color": "#8e0b0b",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2046.png"
   },
   {
     "school_name": "Bryant",
@@ -5373,7 +6678,12 @@
     "date_sort": "2026-06-13",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "North Smithfield",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": "#9f8343",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2803.png"
   },
   {
     "school_name": "Davidson College",
@@ -5393,7 +6703,12 @@
     "date_sort": "2026-06-13",
     "registration_url": "https://davidsonfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Davidson",
+    "mascot": "Wildcats",
+    "primary_color": null,
+    "secondary_color": "#e51837",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2166.png"
   },
   {
     "school_name": "Elon",
@@ -5409,7 +6724,12 @@
     "date_sort": "2026-06-13",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township 3-Boone Station",
+    "mascot": "Phoenix",
+    "primary_color": "#020303",
+    "secondary_color": "#b59a57",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2210.png"
   },
   {
     "school_name": "Montana",
@@ -5437,7 +6757,12 @@
     "date_sort": "2026-06-13",
     "registration_url": "https://www.montanafootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Missoula",
+    "mascot": "Grizzlies",
+    "primary_color": "#751d4a",
+    "secondary_color": "#666666",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/149.png"
   },
   {
     "school_name": "East Central University",
@@ -5457,7 +6782,12 @@
     "date_sort": "2026-06-13",
     "registration_url": "https://www.ecufootballcamp.com/register.cfm",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "South Central Pontotoc",
+    "mascot": "Tigers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2191.png"
   },
   {
     "school_name": "Henderson State",
@@ -5475,7 +6805,12 @@
     "date_sort": "2026-06-13",
     "registration_url": "https://hendersonstatefootball.totalcamps.com/shop/event",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Clark County",
+    "mascot": "Reddies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2271.png"
   },
   {
     "school_name": "University of Indianapolis",
@@ -5491,7 +6826,12 @@
     "date_sort": "2026-06-13",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Indianapolis",
+    "mascot": "Greyhounds",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2292.png"
   },
   {
     "school_name": "Virginia Union",
@@ -5511,7 +6851,12 @@
     "date_sort": "2026-06-13",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Richmond",
+    "mascot": "Panthers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2676.png"
   },
   {
     "school_name": "Lebanon Valley College",
@@ -5533,7 +6878,12 @@
     "date_sort": "2026-06-13",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of West Cornwall",
+    "mascot": "Flying Dutchmen",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/388.png"
   },
   {
     "school_name": "Pacific Lutheran University",
@@ -5549,7 +6899,12 @@
     "date_sort": "2026-06-13",
     "registration_url": "https://golutes.com/fbcamp",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tacoma",
+    "mascot": "Lutes",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2486.png"
   },
   {
     "school_name": "Ave Maria University",
@@ -5565,7 +6920,12 @@
     "date_sort": "2026-06-13",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Immokalee",
+    "mascot": "Gyrenes",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/3178.png"
   },
   {
     "school_name": "Delaware State",
@@ -5581,7 +6941,12 @@
     "date_sort": "2026-06-13",
     "registration_url": "https://www.delawarestatefootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Dover",
+    "mascot": "Hornets",
+    "primary_color": "#ff3630",
+    "secondary_color": "#009cdd",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2169.png"
   },
   {
     "school_name": "Georgetown",
@@ -5597,7 +6962,12 @@
     "date_sort": "2026-06-13",
     "registration_url": "https://www.georgetownfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Washington",
+    "mascot": "Hoyas",
+    "primary_color": "#110e42",
+    "secondary_color": "#001c58",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/46.png"
   },
   {
     "school_name": "East Carolina",
@@ -5620,7 +6990,12 @@
     "date_sort": "2026-06-14",
     "registration_url": "https://blakeharrellfootballcampsllc.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Greenville",
+    "mascot": "Pirates",
+    "primary_color": "#4b1869",
+    "secondary_color": "#f0907b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/151.png"
   },
   {
     "school_name": "USC",
@@ -5638,7 +7013,12 @@
     "date_sort": "2026-06-14",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Los Angeles",
+    "mascot": "Trojans",
+    "primary_color": "#ae2531",
+    "secondary_color": "#ffc72c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
   },
   {
     "school_name": "Penn",
@@ -5660,7 +7040,12 @@
     "date_sort": "2026-06-14",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Rayne",
+    "mascot": "Quakers",
+    "primary_color": "#082a74",
+    "secondary_color": "#a6163d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/219.png"
   },
   {
     "school_name": "Princeton",
@@ -5680,7 +7065,12 @@
     "date_sort": "2026-06-14",
     "registration_url": "https://info.abcsportscamps.com/tiger-football-camp",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Princeton",
+    "mascot": "Tigers",
+    "primary_color": "#ff9408",
+    "secondary_color": "#080808",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/163.png"
   },
   {
     "school_name": "San Diego",
@@ -5703,7 +7093,12 @@
     "date_sort": "2026-06-14",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "San Diego",
+    "mascot": "Toreros",
+    "primary_color": "#2f99d4",
+    "secondary_color": "#2f99d4",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/301.png"
   },
   {
     "school_name": "Southern",
@@ -5722,7 +7117,12 @@
     "date_sort": "2026-06-14",
     "registration_url": "https://terrencegravesfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Baton Rouge",
+    "mascot": "Jaguars",
+    "primary_color": "#004b97",
+    "secondary_color": "#ffc82d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2582.png"
   },
   {
     "school_name": "Northwest Missouri State",
@@ -5742,7 +7142,12 @@
     "date_sort": "2026-06-14",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Polk",
+    "mascot": "Bearcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/138.png"
   },
   {
     "school_name": "University of Rochester",
@@ -5758,7 +7163,12 @@
     "date_sort": "2026-06-14",
     "registration_url": "https://rochesterfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Rochester",
+    "mascot": "Yellow Jackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/184.png"
   },
   {
     "school_name": "Georgetown College",
@@ -5774,7 +7184,12 @@
     "date_sort": "2026-06-14",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Georgetown",
+    "mascot": "Tigers",
+    "primary_color": "#000000",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/georgetown-college.svg"
   },
   {
     "school_name": "St. Thomas University",
@@ -5791,7 +7206,12 @@
     "date_sort": "2026-06-14",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Miami Gardens",
+    "mascot": "Bobcats",
+    "primary_color": "#003087",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/st-thomas-university.svg"
   },
   {
     "school_name": "Portland State",
@@ -5808,7 +7228,12 @@
     "date_sort": "2026-06-14",
     "registration_url": "https://www.portlandstatefootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Portland",
+    "mascot": "Vikings",
+    "primary_color": "#00311e",
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2502.png"
   },
   {
     "school_name": "Capital University",
@@ -5824,7 +7249,12 @@
     "date_sort": "2026-06-15",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Bexley",
+    "mascot": "Crusaders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/424.png"
   },
   {
     "school_name": "Lewis & Clark College",
@@ -5840,7 +7270,12 @@
     "date_sort": "2026-06-15",
     "registration_url": "https://www.lewisandclarkfootballskillcamp.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Portland",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2333.png"
   },
   {
     "school_name": "Newberry College",
@@ -5860,7 +7295,12 @@
     "date_sort": "2026-06-16",
     "registration_url": "https://newberryfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Newberry",
+    "mascot": "Wolves",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2444.png"
   },
   {
     "school_name": "Slippery Rock",
@@ -5879,7 +7319,12 @@
     "date_sort": "2026-06-16",
     "registration_url": "https://therockfootballcamps.srucampsandprograms.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Slippery Rock",
+    "mascot": "The Rock",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/215.png"
   },
   {
     "school_name": "Olivet College",
@@ -5895,7 +7340,12 @@
     "date_sort": "2026-06-16",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Olivet",
+    "mascot": "Comets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/354.png"
   },
   {
     "school_name": "Washington & Jefferson College",
@@ -5911,7 +7361,12 @@
     "date_sort": "2026-06-16",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Washington",
+    "mascot": "Presidents",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2686.png"
   },
   {
     "school_name": "The Citadel",
@@ -5935,7 +7390,12 @@
     "date_sort": "2026-06-17",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Charleston",
+    "mascot": "Bulldogs",
+    "primary_color": "#002b5c",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2643.png"
   },
   {
     "school_name": "Weber State",
@@ -5952,7 +7412,12 @@
     "date_sort": "2026-06-17",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Ogden",
+    "mascot": "Wildcats",
+    "primary_color": "#18005a",
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2692.png"
   },
   {
     "school_name": "Western Illinois",
@@ -5980,7 +7445,12 @@
     "date_sort": "2026-06-17",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Macomb",
+    "mascot": "Leathernecks",
+    "primary_color": "#4e1e8a",
+    "secondary_color": "#ffc90a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2710.png"
   },
   {
     "school_name": "West Chester",
@@ -5997,7 +7467,12 @@
     "date_sort": "2026-06-17",
     "registration_url": "https://wcsummerfootballcamps.totalcamps.com/shop/EVENT",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Philadelphia",
+    "mascot": "Golden Rams",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/223.png"
   },
   {
     "school_name": "Carroll University",
@@ -6017,7 +7492,12 @@
     "date_sort": "2026-06-17",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Waukesha",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/32.png"
   },
   {
     "school_name": "Otterbein University",
@@ -6033,7 +7513,12 @@
     "date_sort": "2026-06-17",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Columbus",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/359.png"
   },
   {
     "school_name": "University of Wisconsin-River Falls",
@@ -6049,7 +7534,12 @@
     "date_sort": "2026-06-17",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "River Falls",
+    "mascot": "Falcons",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-wisconsin-river-falls.svg"
   },
   {
     "school_name": "University of Pikeville",
@@ -6077,7 +7567,12 @@
     "date_sort": "2026-06-17",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Pikeville",
+    "mascot": "Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/95.png"
   },
   {
     "school_name": "Norfolk State",
@@ -6093,7 +7588,12 @@
     "date_sort": "2026-06-17",
     "registration_url": "https://www.norfolkstatefootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Norfolk",
+    "mascot": "Spartans",
+    "primary_color": "#046546",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2450.png"
   },
   {
     "school_name": "Chattanooga",
@@ -6113,7 +7613,12 @@
     "date_sort": "2026-06-18",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "District 1",
+    "mascot": "Mocs",
+    "primary_color": "#00386b",
+    "secondary_color": "#dca71d",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/236.png"
   },
   {
     "school_name": "Lafayette",
@@ -6132,7 +7637,12 @@
     "date_sort": "2026-06-18",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Easton",
+    "mascot": "Leopards",
+    "primary_color": "#790000",
+    "secondary_color": "#a59474",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/322.png"
   },
   {
     "school_name": "Stony Brook",
@@ -6150,7 +7660,12 @@
     "date_sort": "2026-06-18",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Brookhaven",
+    "mascot": "Seawolves",
+    "primary_color": "#990000",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2619.png"
   },
   {
     "school_name": "University of St. Thomas",
@@ -6169,7 +7684,12 @@
     "date_sort": "2026-06-18",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "St. Paul",
+    "mascot": "Tommies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2900.png"
   },
   {
     "school_name": "Yale",
@@ -6193,7 +7713,12 @@
     "date_sort": "2026-06-18",
     "registration_url": "https://elifootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "New Haven",
+    "mascot": "Bulldogs",
+    "primary_color": "#004a81",
+    "secondary_color": "#286dc0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/43.png"
   },
   {
     "school_name": "Lincoln University (Missouri)",
@@ -6212,7 +7737,12 @@
     "date_sort": "2026-06-18",
     "registration_url": "https://mosesharperfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Jefferson City",
+    "mascot": "Blue Tigers",
+    "primary_color": "#003087",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/lincoln-university-missouri.svg"
   },
   {
     "school_name": "Texas Lutheran University",
@@ -6228,7 +7758,12 @@
     "date_sort": "2026-06-18",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Seguin",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2639.png"
   },
   {
     "school_name": "Navy",
@@ -6245,7 +7780,12 @@
     "date_sort": "2026-06-19",
     "registration_url": "https://navysports.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Baltimore",
+    "mascot": "Midshipmen",
+    "primary_color": "#131630",
+    "secondary_color": "#b6a77c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png"
   },
   {
     "school_name": "UTEP",
@@ -6265,7 +7805,12 @@
     "date_sort": "2026-06-19",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "El Paso",
+    "mascot": "Miners",
+    "primary_color": "#002843",
+    "secondary_color": "#ff6f12",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png"
   },
   {
     "school_name": "Arkansas-Pine Bluff",
@@ -6281,7 +7826,12 @@
     "date_sort": "2026-06-19",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Vaugine",
+    "mascot": "Golden Lions",
+    "primary_color": "#e0aa0f",
+    "secondary_color": "#eaaa00",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2029.png"
   },
   {
     "school_name": "Northwood University",
@@ -6299,7 +7849,12 @@
     "date_sort": "2026-06-19",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Midland",
+    "mascot": "Timberwolves",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2886.png"
   },
   {
     "school_name": "Thomas More",
@@ -6316,7 +7871,12 @@
     "date_sort": "2026-06-19",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Independence",
+    "mascot": "Saints",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2646.png"
   },
   {
     "school_name": "Maine",
@@ -6332,7 +7892,12 @@
     "date_sort": "2026-06-19",
     "registration_url": "https://www.mainefootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Orono",
+    "mascot": "Black Bears",
+    "primary_color": "#127dbe",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/311.png"
   },
   {
     "school_name": "Georgia Southern",
@@ -6348,7 +7913,12 @@
     "date_sort": "2026-06-20",
     "registration_url": "https://georgiasouthernfootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Statesboro",
+    "mascot": "Eagles",
+    "primary_color": "#003775",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/290.png"
   },
   {
     "school_name": "Central Connecticut State",
@@ -6374,7 +7944,12 @@
     "date_sort": "2026-06-20",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Plainville",
+    "mascot": "Blue Devils",
+    "primary_color": "#1b49a2",
+    "secondary_color": "#d1d5d8",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2115.png"
   },
   {
     "school_name": "Southeast Missouri State",
@@ -6392,7 +7967,12 @@
     "date_sort": "2026-06-20",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Cape Girardeau",
+    "mascot": "Redhawks",
+    "primary_color": "#cc0000",
+    "secondary_color": "#080808",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2546.png"
   },
   {
     "school_name": "Johnson C. Smith University",
@@ -6412,7 +7992,12 @@
     "date_sort": "2026-06-20",
     "registration_url": "https://mauriceflowersfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Charlotte",
+    "mascot": "Golden Bulls",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2304.png"
   },
   {
     "school_name": "William Jewell College",
@@ -6428,7 +8013,12 @@
     "date_sort": "2026-06-20",
     "registration_url": "https://jewellcardinals.com/camps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Liberty",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2911.png"
   },
   {
     "school_name": "Nebraska Wesleyan University",
@@ -6448,7 +8038,12 @@
     "date_sort": "2026-06-20",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lincoln",
+    "mascot": "Neb Wesleyan",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/6845.png"
   },
   {
     "school_name": "College of Wooster",
@@ -6465,7 +8060,12 @@
     "date_sort": "2026-06-20",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Wooster",
+    "mascot": "Fighting Scots",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2748.png"
   },
   {
     "school_name": "Graceland University",
@@ -6481,7 +8081,12 @@
     "date_sort": "2026-06-20",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Clay",
+    "mascot": "Yellowjackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/530.png"
   },
   {
     "school_name": "Lindsey Wilson College",
@@ -6497,7 +8102,12 @@
     "date_sort": "2026-06-20",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tracy",
+    "mascot": "Blue Raiders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2877.png"
   },
   {
     "school_name": "Missouri Baptist University",
@@ -6514,7 +8124,12 @@
     "date_sort": "2026-06-20",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Columbia",
+    "mascot": "Spartans",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2880.png"
   },
   {
     "school_name": "Warner University",
@@ -6533,7 +8148,12 @@
     "date_sort": "2026-06-20",
     "registration_url": "https://www.dialleoburkssrfootballcamps.com/camps.cfm",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lake Wales",
+    "mascot": "Royals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2683.png"
   },
   {
     "school_name": "Stonehill",
@@ -6550,7 +8170,12 @@
     "date_sort": "2026-06-20",
     "registration_url": "https://www.stonehillfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Boston",
+    "mascot": "Chieftains",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/284.png"
   },
   {
     "school_name": "Washington State",
@@ -6566,7 +8191,12 @@
     "date_sort": "2026-06-21",
     "registration_url": "https://wsufootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Pullman",
+    "mascot": "Cougars",
+    "primary_color": "#94022a",
+    "secondary_color": "#6a747c",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/265.png"
   },
   {
     "school_name": "Dartmouth",
@@ -6590,7 +8220,12 @@
     "date_sort": "2026-06-21",
     "registration_url": "https://SammyMcCorkleFootballCamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Hanover",
+    "mascot": "Big Green",
+    "primary_color": "#005730",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/159.png"
   },
   {
     "school_name": "Indiana State",
@@ -6609,7 +8244,12 @@
     "date_sort": "2026-06-21",
     "registration_url": "https://www.curtmalloryfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Sugar Creek",
+    "mascot": "Sycamores",
+    "primary_color": "#00669a",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/282.png"
   },
   {
     "school_name": "Washington University in St. Louis",
@@ -6626,7 +8266,12 @@
     "date_sort": "2026-06-21",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "St. Louis",
+    "mascot": "Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/143.png"
   },
   {
     "school_name": "Brown",
@@ -6648,7 +8293,12 @@
     "date_sort": "2026-06-22",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Providence",
+    "mascot": "Bears",
+    "primary_color": "#411e09",
+    "secondary_color": "#949300",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/225.png"
   },
   {
     "school_name": "Illinois State",
@@ -6671,7 +8321,12 @@
     "date_sort": "2026-06-22",
     "registration_url": "https://www.spackfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Normal",
+    "mascot": "Redbirds",
+    "primary_color": "#ce1126",
+    "secondary_color": "#ffe716",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2287.png"
   },
   {
     "school_name": "American International College",
@@ -6691,7 +8346,12 @@
     "date_sort": "2026-06-22",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Springfield",
+    "mascot": "Yellow Jackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2022.png"
   },
   {
     "school_name": "Central State",
@@ -6710,7 +8370,12 @@
     "date_sort": "2026-06-22",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Xenia",
+    "mascot": "Marauders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2119.png"
   },
   {
     "school_name": "Michigan Tech",
@@ -6728,7 +8393,12 @@
     "date_sort": "2026-06-22",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Houghton",
+    "mascot": "Huskies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2392.png"
   },
   {
     "school_name": "Claremont-Mudd-Scripps",
@@ -6744,7 +8414,12 @@
     "date_sort": "2026-06-22",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Claremont",
+    "mascot": "Stags/Athenas",
+    "primary_color": "#8a2432",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/claremont-mudd-scripps.svg"
   },
   {
     "school_name": "Holy Cross",
@@ -6762,7 +8437,12 @@
     "date_sort": "2026-06-22",
     "registration_url": "https://www.goholycrossfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Worcester",
+    "mascot": "Crusaders",
+    "primary_color": "#0a0a0a",
+    "secondary_color": "#080808",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/107.png"
   },
   {
     "school_name": "Eastern Washington",
@@ -6781,7 +8461,12 @@
     "date_sort": "2026-06-23",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Cheney",
+    "mascot": "Eagles",
+    "primary_color": "#a10022",
+    "secondary_color": "#abb4bc",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/331.png"
   },
   {
     "school_name": "Harvard",
@@ -6802,7 +8487,12 @@
     "date_sort": "2026-06-24",
     "registration_url": "https://andrewaurichfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Boston",
+    "mascot": "Crimson",
+    "primary_color": "#990000",
+    "secondary_color": "#dbdbdb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/108.png"
   },
   {
     "school_name": "Massachusetts Maritime Academy",
@@ -6819,7 +8509,12 @@
     "date_sort": "2026-06-24",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Buzzards Bay",
+    "mascot": "Buccaneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/110.png"
   },
   {
     "school_name": "North Carolina Central",
@@ -6838,7 +8533,12 @@
     "date_sort": "2026-06-24",
     "registration_url": "https://www.activekids.com/durham-nc/football/football-camps/trei-oliver-prospect-camp-2026",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Durham",
+    "mascot": "Eagles",
+    "primary_color": "#880023",
+    "secondary_color": "#c2c3c0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2428.png"
   },
   {
     "school_name": "Concordia University, St. Paul",
@@ -6855,7 +8555,12 @@
     "date_sort": "2026-06-25",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Saint Paul",
+    "mascot": "Golden Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/3066.png"
   },
   {
     "school_name": "University of Wisconsin-Stout",
@@ -6871,7 +8576,12 @@
     "date_sort": "2026-06-25",
     "registration_url": "https://football.uwstoutsportscamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Menomonie",
+    "mascot": "Blue Devils",
+    "primary_color": "#002855",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-wisconsin-stout.svg"
   },
   {
     "school_name": "Colgate",
@@ -6892,7 +8602,12 @@
     "date_sort": "2026-06-26",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Hamilton",
+    "mascot": "Raiders",
+    "primary_color": "#8b011d",
+    "secondary_color": "#231f20",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2142.png"
   },
   {
     "school_name": "Cornell",
@@ -6914,7 +8629,12 @@
     "date_sort": "2026-06-26",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Ithaca",
+    "mascot": "Big Red",
+    "primary_color": "#d60027",
+    "secondary_color": "#101010",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/172.png"
   },
   {
     "school_name": "Texas Southern",
@@ -6932,7 +8652,12 @@
     "date_sort": "2026-06-26",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Houston",
+    "mascot": "Tigers",
+    "primary_color": "#6a0403",
+    "secondary_color": "#ebebeb",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2640.png"
   },
   {
     "school_name": "Grand Valley State",
@@ -6950,7 +8675,12 @@
     "date_sort": "2026-06-26",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Charter Township of Allendale",
+    "mascot": "Lakers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/125.png"
   },
   {
     "school_name": "Minnesota State - Moorhead",
@@ -6968,7 +8698,12 @@
     "date_sort": "2026-06-26",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Moorhead",
+    "mascot": "Dragon",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2817.png"
   },
   {
     "school_name": "Sioux Falls",
@@ -6985,7 +8720,12 @@
     "date_sort": "2026-06-26",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Sioux Falls",
+    "mascot": "Cougars",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2894.png"
   },
   {
     "school_name": "UNC Pembroke",
@@ -7003,7 +8743,12 @@
     "date_sort": "2026-06-26",
     "registration_url": "https://markhallfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Pembroke",
+    "mascot": "Braves",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2882.png"
   },
   {
     "school_name": "Allen University",
@@ -7019,7 +8764,12 @@
     "date_sort": "2026-06-27",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Columbia",
+    "mascot": "Yellow Jackets",
+    "primary_color": "#004b87",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/allen-university.svg"
   },
   {
     "school_name": "Northern State",
@@ -7035,7 +8785,12 @@
     "date_sort": "2026-06-27",
     "registration_url": "https://northernstatefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Aberdeen",
+    "mascot": "Wolves",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/425.png"
   },
   {
     "school_name": "Wayne State College",
@@ -7052,7 +8807,12 @@
     "date_sort": "2026-06-27",
     "registration_url": "https://wscfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Wayne",
+    "mascot": "Wildcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2844.png"
   },
   {
     "school_name": "Crown College",
@@ -7069,7 +8829,12 @@
     "date_sort": "2026-06-27",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Orono",
+    "mascot": "Storm",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/509.png"
   },
   {
     "school_name": "MIT",
@@ -7086,7 +8851,12 @@
     "date_sort": "2026-06-27",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Boston",
+    "mascot": "Engineers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/109.png"
   },
   {
     "school_name": "Wesleyan University",
@@ -7103,7 +8873,12 @@
     "date_sort": "2026-06-29",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Middletown",
+    "mascot": "Cardinals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/336.png"
   },
   {
     "school_name": "Fort Lewis College",
@@ -7128,7 +8903,12 @@
     "date_sort": "2026-07-06",
     "registration_url": "https://GoSkyhawks.com/fbcamps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Durango",
+    "mascot": "Skyhawks",
+    "primary_color": "#003087",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/fort-lewis-college.svg"
   },
   {
     "school_name": "New Hampshire",
@@ -7147,7 +8927,12 @@
     "date_sort": "2026-07-07",
     "registration_url": "https://www.unh.edu/youthprograms/course/football-evening-camp",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Durham",
+    "mascot": "Wildcats",
+    "primary_color": "#004990",
+    "secondary_color": "#c3c4c6",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/160.png"
   },
   {
     "school_name": "Hope College",
@@ -7164,7 +8949,12 @@
     "date_sort": "2026-07-08",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Holland",
+    "mascot": "Flying Dutchmen",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2812.png"
   },
   {
     "school_name": "Oklahoma Panhandle State University",
@@ -7182,7 +8972,12 @@
     "date_sort": "2026-07-08",
     "registration_url": "https://www.opsuaggies.com/sports/football",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Goodwell",
+    "mascot": "Aggies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2824.png"
   },
   {
     "school_name": "Midwestern State",
@@ -7202,7 +8997,12 @@
     "date_sort": "2026-07-09",
     "registration_url": "https://www.richrennersfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Wichita Falls",
+    "mascot": "Mustangs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2395.png"
   },
   {
     "school_name": "Dakota State University",
@@ -7218,7 +9018,12 @@
     "date_sort": "2026-07-09",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Lake View",
+    "mascot": "Trojans",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/512.png"
   },
   {
     "school_name": "Wheaton College (IL)",
@@ -7234,7 +9039,12 @@
     "date_sort": "2026-07-10",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Wheaton",
+    "mascot": "Thunder",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/396.png"
   },
   {
     "school_name": "University of Wisconsin-Stevens Point",
@@ -7250,7 +9060,12 @@
     "date_sort": "2026-07-10",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Stevens Point",
+    "mascot": "Pointers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2743.png"
   },
   {
     "school_name": "Richmond",
@@ -7267,7 +9082,12 @@
     "date_sort": "2026-07-10",
     "registration_url": "https://richmondspiderscamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Richmond",
+    "mascot": "Spiders",
+    "primary_color": "#9e0712",
+    "secondary_color": "#b90b2e",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/257.png"
   },
   {
     "school_name": "Emporia State",
@@ -7286,7 +9106,12 @@
     "date_sort": "2026-07-11",
     "registration_url": "https://esuhornetfootballcamps.com",
     "twitter_handle": "@esuhornetsfb",
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Emporia",
+    "mascot": "Hornets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2214.png"
   },
   {
     "school_name": "PennWest Edinboro",
@@ -7303,7 +9128,12 @@
     "date_sort": "2026-07-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Edinboro",
+    "mascot": "Fighting Scots",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2205.png"
   },
   {
     "school_name": "Southwest Baptist University",
@@ -7319,7 +9149,12 @@
     "date_sort": "2026-07-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Cass",
+    "mascot": "Bearcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2586.png"
   },
   {
     "school_name": "Denison University",
@@ -7335,7 +9170,12 @@
     "date_sort": "2026-07-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Granville",
+    "mascot": "Big Red",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2171.png"
   },
   {
     "school_name": "University of Minnesota Morris",
@@ -7351,7 +9191,12 @@
     "date_sort": "2026-07-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Morris",
+    "mascot": "Cougars",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2399.png"
   },
   {
     "school_name": "Wilkes University",
@@ -7367,7 +9212,12 @@
     "date_sort": "2026-07-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Wilkes-Barre Township",
+    "mascot": "Colonels",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/398.png"
   },
   {
     "school_name": "Long Island",
@@ -7383,7 +9233,12 @@
     "date_sort": "2026-07-11",
     "registration_url": "https://www.liufootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Brookville",
+    "mascot": "Sharks",
+    "primary_color": "#0066cc",
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2089.png"
   },
   {
     "school_name": "Carthage College",
@@ -7399,7 +9254,12 @@
     "date_sort": "2026-07-12",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "City of Kenosha",
+    "mascot": "Redmen",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2106.png"
   },
   {
     "school_name": "VMI",
@@ -7416,7 +9276,12 @@
     "date_sort": "2026-07-12",
     "registration_url": "https://vmikeydets.com/sports/2023/6/6/vmi-football-camps.aspx",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lexington",
+    "mascot": "Keydets",
+    "primary_color": "#e52d37",
+    "secondary_color": "#eec52b",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2678.png"
   },
   {
     "school_name": "Bucknell",
@@ -7433,7 +9298,12 @@
     "date_sort": "2026-07-13",
     "registration_url": "https://www.bucknellfootballcamps.com/",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of East Buffalo",
+    "mascot": "Bison",
+    "primary_color": "#000060",
+    "secondary_color": "#00316e",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2083.png"
   },
   {
     "school_name": "UVA Wise",
@@ -7455,7 +9325,12 @@
     "date_sort": "2026-07-14",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "District 2",
+    "mascot": "Highland Cavaliers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2842.png"
   },
   {
     "school_name": "Bowdoin College",
@@ -7471,7 +9346,12 @@
     "date_sort": "2026-07-15",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Brunswick",
+    "mascot": "Polar Bears",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/340.png"
   },
   {
     "school_name": "University of Jamestown",
@@ -7488,7 +9368,12 @@
     "date_sort": "2026-07-16",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Midway",
+    "mascot": "Jimmies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2939.png"
   },
   {
     "school_name": "Bentley University",
@@ -7504,7 +9389,12 @@
     "date_sort": "2026-07-17",
     "registration_url": "https://bentleyfootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Boston",
+    "mascot": "Falcons",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2060.png"
   },
   {
     "school_name": "Missouri S&T",
@@ -7520,7 +9410,12 @@
     "date_sort": "2026-07-17",
     "registration_url": "https://minerfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Columbia",
+    "mascot": "Miners",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2402.png"
   },
   {
     "school_name": "Upper Iowa",
@@ -7536,7 +9431,12 @@
     "date_sort": "2026-07-17",
     "registration_url": "https://peacocksfootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Decorah",
+    "mascot": "Peacocks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/389.png"
   },
   {
     "school_name": "University of Chicago",
@@ -7552,7 +9452,12 @@
     "date_sort": "2026-07-17",
     "registration_url": null,
     "twitter_handle": "@UChicagoFB",
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Chicago",
+    "mascot": "Maroons",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/80.png"
   },
   {
     "school_name": "Mercyhurst",
@@ -7569,7 +9474,12 @@
     "date_sort": "2026-07-18",
     "registration_url": "https://mercyhurstfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Erie",
+    "mascot": "Lakers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2385.png"
   },
   {
     "school_name": "Saint Anselm",
@@ -7585,7 +9495,12 @@
     "date_sort": "2026-07-18",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Manchester",
+    "mascot": "Hawks",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2830.png"
   },
   {
     "school_name": "Western Colorado",
@@ -7601,7 +9516,12 @@
     "date_sort": "2026-07-18",
     "registration_url": "https://gomountaineers.com/fbcamps",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Gunnison",
+    "mascot": "Mountaineers",
+    "primary_color": "#c8102e",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/western-colorado.svg"
   },
   {
     "school_name": "Case Western Reserve University",
@@ -7617,7 +9537,12 @@
     "date_sort": "2026-07-18",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Cleveland",
+    "mascot": "Spartans",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2963.png"
   },
   {
     "school_name": "Rose-Hulman Institute of Technology",
@@ -7633,7 +9558,12 @@
     "date_sort": "2026-07-18",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Terre Haute",
+    "mascot": "Engineers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/86.png"
   },
   {
     "school_name": "Washington & Lee University",
@@ -7649,7 +9579,12 @@
     "date_sort": "2026-07-18",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lexington",
+    "mascot": "Generals",
+    "primary_color": "#003087",
+    "secondary_color": "#ffffff",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2688.png"
   },
   {
     "school_name": "Williams College",
@@ -7665,7 +9600,12 @@
     "date_sort": "2026-07-18",
     "registration_url": "https://purpleandgoldfootballcamps.com",
     "twitter_handle": "@williamsfb4",
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Williamstown",
+    "mascot": "Ephs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2731.png"
   },
   {
     "school_name": "Black Hills State",
@@ -7681,7 +9621,12 @@
     "date_sort": "2026-07-19",
     "registration_url": "https://blackhillsstatefootballcamps.totalcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Unorganized Territory of North Lawrence",
+    "mascot": "Yellow Jackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2069.png"
   },
   {
     "school_name": "Bates College",
@@ -7697,7 +9642,12 @@
     "date_sort": "2026-07-19",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Lewiston",
+    "mascot": "Bobcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/121.png"
   },
   {
     "school_name": "Shepherd",
@@ -7714,7 +9664,12 @@
     "date_sort": "2026-07-22",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Tuscarora",
+    "mascot": "Rams",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2974.png"
   },
   {
     "school_name": "Thiel College",
@@ -7730,7 +9685,12 @@
     "date_sort": "2026-07-25",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Township of Shenango",
+    "mascot": "Tomcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2644.png"
   },
   {
     "school_name": "Hardin-Simmons University",
@@ -7746,7 +9706,12 @@
     "date_sort": "2099-12-31",
     "registration_url": "https://hsufootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "Abilene",
+    "mascot": "Cowboys",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2810.png"
   },
   {
     "school_name": "University of Redlands",
@@ -7762,7 +9727,12 @@
     "date_sort": "2099-12-31",
     "registration_url": "https://www.iefootballcamps.com",
     "twitter_handle": null,
-    "status": "upcoming"
+    "status": "upcoming",
+    "city": "San Bernardino",
+    "mascot": "Bulldogs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/29.png"
   },
   {
     "school_name": "Louisville",
@@ -7784,7 +9754,12 @@
     "date_sort": "2025-06-18",
     "registration_url": "https://www.louisvillefootballcamps.com",
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Mount Washington",
+    "mascot": "Cardinals",
+    "primary_color": "#ad000a",
+    "secondary_color": "#cccccc",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
   },
   {
     "school_name": "Augsburg University",
@@ -7801,7 +9776,12 @@
     "date_sort": "2026-03-28",
     "registration_url": "https://www.augsburgfootballcamps.com",
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Minneapolis",
+    "mascot": "Auggies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/124.png"
   },
   {
     "school_name": "University of La Verne",
@@ -7817,7 +9797,12 @@
     "date_sort": "2026-04-11",
     "registration_url": null,
     "twitter_handle": "@ULV_Football",
-    "status": "completed"
+    "status": "completed",
+    "city": "Los Angeles",
+    "mascot": "Leopards",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2318.png"
   },
   {
     "school_name": "Millsaps College",
@@ -7835,7 +9820,12 @@
     "date_sort": "2026-04-11",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "District 2",
+    "mascot": "Majors",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2398.png"
   },
   {
     "school_name": "Davenport University",
@@ -7851,7 +9841,12 @@
     "date_sort": "2026-04-12",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Grand Rapids",
+    "mascot": "Panthers",
+    "primary_color": "#c8102e",
+    "secondary_color": "#000000",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/davenport-university.svg"
   },
   {
     "school_name": "Franklin & Marshall College",
@@ -7867,7 +9862,12 @@
     "date_sort": "2026-04-26",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Lancaster",
+    "mascot": "Diplomats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2234.png"
   },
   {
     "school_name": "Wisconsin Lutheran College",
@@ -7883,7 +9883,12 @@
     "date_sort": "2026-04-30",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Wauwatosa",
+    "mascot": "Warriors",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2741.png"
   },
   {
     "school_name": "Saint Vincent College",
@@ -7899,7 +9904,12 @@
     "date_sort": "2026-05-15",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Latrobe",
+    "mascot": "Bearcats",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2614.png"
   },
   {
     "school_name": "Bemidji State",
@@ -7915,7 +9925,12 @@
     "date_sort": "2026-05-16",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Bemidji",
+    "mascot": "Beavers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/132.png"
   },
   {
     "school_name": "PennWest Clarion",
@@ -7935,7 +9950,12 @@
     "date_sort": "2026-05-16",
     "registration_url": "https://clarionfootballcamps.totalcamps.com/shop/EVENT",
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Clarion",
+    "mascot": "Golden Eagles",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2134.png"
   },
   {
     "school_name": "Lake Forest College",
@@ -7951,7 +9971,12 @@
     "date_sort": "2026-05-16",
     "registration_url": "https://lakeforestfootballcamp.com",
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Township of Shields",
+    "mascot": "Foresters",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/262.png"
   },
   {
     "school_name": "Roanoke College",
@@ -7967,7 +9992,12 @@
     "date_sort": "2026-05-16",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Salem",
+    "mascot": "Maroons",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/roanoke-college.svg"
   },
   {
     "school_name": "Simpson University",
@@ -7983,7 +10013,12 @@
     "date_sort": "2026-05-16",
     "registration_url": "https://simpsonredhawks.com/prospectcamp",
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Redding",
+    "mascot": "Storm",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2564.png"
   },
   {
     "school_name": "Hamilton College",
@@ -7999,7 +10034,12 @@
     "date_sort": "2026-05-17",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Kirkland",
+    "mascot": "Continentals",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/348.png"
   },
   {
     "school_name": "Middlebury College",
@@ -8015,7 +10055,12 @@
     "date_sort": "2026-05-17",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Middlebury (village)",
+    "mascot": "Panthers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2394.png"
   },
   {
     "school_name": "University of New England",
@@ -8031,7 +10076,12 @@
     "date_sort": "2026-05-17",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Biddeford",
+    "mascot": "Nor'easters",
+    "primary_color": "#003087",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/university-of-new-england.svg"
   },
   {
     "school_name": "Norwich University",
@@ -8047,7 +10097,12 @@
     "date_sort": "2026-05-17",
     "registration_url": "https://vermontfootballcamps.com",
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Barre",
+    "mascot": "Cadets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2467.png"
   },
   {
     "school_name": "Benedictine College",
@@ -8063,7 +10118,12 @@
     "date_sort": "2026-05-17",
     "registration_url": "https://Benedictine.edu/FootballCamps",
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Atchison",
+    "mascot": "Bndctne Col",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/16111.png"
   },
   {
     "school_name": "Muhlenberg College",
@@ -8079,7 +10139,12 @@
     "date_sort": "2026-05-22",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Allentown",
+    "mascot": "Mules",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2422.png"
   },
   {
     "school_name": "Mars Hill University",
@@ -8095,7 +10160,12 @@
     "date_sort": "2026-05-23",
     "registration_url": "https://marshillfootballcamps.totalcamps.com/shop/event",
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Mars Hill",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2369.png"
   },
   {
     "school_name": "Muskingum University",
@@ -8114,7 +10184,12 @@
     "date_sort": "2026-05-23",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Township of Falls",
+    "mascot": "Muskies",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/332.png"
   },
   {
     "school_name": "Bluffton University",
@@ -8131,7 +10206,12 @@
     "date_sort": "2026-05-25",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Township of Richland",
+    "mascot": "Beavers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2074.png"
   },
   {
     "school_name": "Shippensburg University",
@@ -8147,7 +10227,12 @@
     "date_sort": "2026-05-28",
     "registration_url": "https://shipfootball.totalcamps.com",
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Shippensburg",
+    "mascot": "Raiders",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2559.png"
   },
   {
     "school_name": "West Liberty",
@@ -8167,7 +10252,12 @@
     "date_sort": "2026-05-28",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "District 2",
+    "mascot": "Hilltoppers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2699.png"
   },
   {
     "school_name": "Walsh University",
@@ -8183,7 +10273,12 @@
     "date_sort": "2026-05-29",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Township of Plain",
+    "mascot": "Cavaliers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2682.png"
   },
   {
     "school_name": "Grambling State",
@@ -8199,7 +10294,12 @@
     "date_sort": "2026-05-30",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Lincoln Parish",
+    "mascot": "Tigers",
+    "primary_color": "#ee8601",
+    "secondary_color": "#ffd10a",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2755.png"
   },
   {
     "school_name": "Albright College",
@@ -8215,7 +10315,12 @@
     "date_sort": "2026-05-30",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Reading",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2015.png"
   },
   {
     "school_name": "Alfred State College",
@@ -8231,7 +10336,12 @@
     "date_sort": "2026-05-30",
     "registration_url": "https://www.alfredstatefootballcamp.com/prospect-camp-gtw",
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Town of Alfred",
+    "mascot": "Pioneers",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/3162.png"
   },
   {
     "school_name": "King's College",
@@ -8247,7 +10357,12 @@
     "date_sort": "2026-05-30",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Wilkes-Barre",
+    "mascot": "Monarchs",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/247.png"
   },
   {
     "school_name": "Lyon College",
@@ -8267,7 +10382,12 @@
     "date_sort": "2026-05-30",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Batesville",
+    "mascot": "Scots",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/lyon-college.svg"
   },
   {
     "school_name": "Maryville College",
@@ -8285,7 +10405,12 @@
     "date_sort": "2026-05-30",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Maryville",
+    "mascot": "Fighting Scots",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2373.png"
   },
   {
     "school_name": "Mount St. Joseph University",
@@ -8301,7 +10426,12 @@
     "date_sort": "2026-05-30",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Delhi",
+    "mascot": "Lions",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2419.png"
   },
   {
     "school_name": "Waynesburg University",
@@ -8317,7 +10447,12 @@
     "date_sort": "2026-05-30",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Waynesburg",
+    "mascot": "Yellow Jackets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2845.png"
   },
   {
     "school_name": "Missouri Valley College",
@@ -8333,7 +10468,12 @@
     "date_sort": "2026-05-30",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Marshall",
+    "mascot": "Vikings",
+    "primary_color": "#512888",
+    "secondary_color": "#ffc72c",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/missouri-valley-college.svg"
   },
   {
     "school_name": "Union Commonwealth University",
@@ -8349,7 +10489,12 @@
     "date_sort": "2026-05-30",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Barbourville",
+    "mascot": "Bulldogs",
+    "primary_color": "#862633",
+    "secondary_color": "#ffffff",
+    "logo_url": "https://ncaa-api.henrygd.me/logo/union-commonwealth-university.svg"
   },
   {
     "school_name": "Ohio",
@@ -8366,7 +10511,12 @@
     "date_sort": "2026-05-31",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Township of Athens",
+    "mascot": "Bobcats",
+    "primary_color": "#295a29",
+    "secondary_color": "#e4bb85",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/195.png"
   },
   {
     "school_name": "Marist",
@@ -8382,7 +10532,12 @@
     "date_sort": "2026-05-31",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Poughkeepsie",
+    "mascot": "Red Foxes",
+    "primary_color": "#e53730",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2368.png"
   },
   {
     "school_name": "Nicholls State",
@@ -8399,7 +10554,12 @@
     "date_sort": "2026-05-31",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Thibodaux",
+    "mascot": "Colonels",
+    "primary_color": "#c41230",
+    "secondary_color": "#f0f0f0",
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2447.png"
   },
   {
     "school_name": "Central Missouri",
@@ -8416,7 +10576,12 @@
     "date_sort": "2026-05-31",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Warrensburg",
+    "mascot": "Mules",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2118.png"
   },
   {
     "school_name": "Chadron State College",
@@ -8432,7 +10597,12 @@
     "date_sort": "2026-05-31",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Chadron",
+    "mascot": "Eagles",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2123.png"
   },
   {
     "school_name": "Whittier College",
@@ -8448,6 +10618,11 @@
     "date_sort": "2026-05-31",
     "registration_url": null,
     "twitter_handle": null,
-    "status": "completed"
+    "status": "completed",
+    "city": "Los Angeles",
+    "mascot": "Poets",
+    "primary_color": null,
+    "secondary_color": null,
+    "logo_url": "http://a.espncdn.com/i/teamlogos/ncaa/500/2850.png"
   }
 ]
