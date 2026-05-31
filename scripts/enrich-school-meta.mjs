@@ -215,10 +215,12 @@ function rowToMeta(row, source) {
   if (!row) return null;
   const primary = cleanColor(row.color || row.primary_color);
   const secondary = cleanColor(row.alt_color || row.alternateColor || row.secondary_color);
+  const usablePrimary = isUsableColor(primary) ? primary : null;
+  const usableSecondary = isUsableColor(secondary) ? secondary : null;
   return {
     mascot: row.mascot || null,
-    primary_color: isUsableColor(primary) ? primary : null,
-    secondary_color: isUsableColor(secondary) ? secondary : null,
+    primary_color: usablePrimary || usableSecondary,
+    secondary_color: usableSecondary,
     logo_url: row.logo || row.logo_url || (Array.isArray(row.logos) ? row.logos[0] : null) || null,
     city: row.city || null,
     source,
@@ -375,10 +377,14 @@ async function main() {
 
     if (!m.mascot && !m.primary_color) stats.unmatched.push(`${name} (${camp.division})`);
 
+    const primary =
+      m.primary_color ||
+      (isUsableColor(m.secondary_color) ? m.secondary_color : null);
+
     meta[name] = {
       city: m.city || null,
       mascot: m.mascot || null,
-      primary_color: m.primary_color || null,
+      primary_color: primary,
       secondary_color: m.secondary_color || null,
       logo_url: m.logo_url || null,
     };

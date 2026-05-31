@@ -11,6 +11,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const RAW_FILE = path.join(ROOT, 'camps_raw.json');
 const MANUAL_FILE = path.join(ROOT, 'manual_camps.json');
+const URL_OVERRIDES_FILE = path.join(ROOT, 'camp_url_overrides.json');
 const OVERRIDES_FILE = path.join(ROOT, 'school_overrides.json');
 const META_FILE = path.join(ROOT, 'school_meta.json');
 const CAMPS_FILE = path.join(ROOT, 'camps_master.json');
@@ -170,7 +171,15 @@ const raw = JSON.parse(fs.readFileSync(RAW_FILE, 'utf8'));
 const manual = fs.existsSync(MANUAL_FILE)
   ? JSON.parse(fs.readFileSync(MANUAL_FILE, 'utf8'))
   : [];
-const merged = mergeSchools([...raw, ...manual]);
+const urlOverrides = fs.existsSync(URL_OVERRIDES_FILE)
+  ? JSON.parse(fs.readFileSync(URL_OVERRIDES_FILE, 'utf8'))
+  : {};
+const merged = mergeSchools([...raw, ...manual]).map((s) => {
+  if (!s.registration_url && urlOverrides[s.school_name]) {
+    return { ...s, registration_url: urlOverrides[s.school_name] };
+  }
+  return s;
+});
 
 const out = [];
 
